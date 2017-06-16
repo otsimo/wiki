@@ -2,7 +2,7 @@
 slug = "help-nonverbal-child-speak"
 title = "How to Help Your Nonverbal Child with Autism Speak"
 category = "Oyunlar"
-language = "tr"
+language = "en"
 author = "Secil"
 weight = 60
 keywords = ["Eşleme", "Oyunu"]
