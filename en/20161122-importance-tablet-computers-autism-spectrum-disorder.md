@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2016/09/123.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/tablet-computers.jpg"
 +++
 
 # Importance of Tablet Computers in Autism Spectrum Disorder

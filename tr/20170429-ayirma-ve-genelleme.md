@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2017/04/body_language_is_key_to_helping_your_child_ward_off_bullies.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ayirma-ve-genelleme.jpg"
 +++
 
 # Ayırma Ve Genelleme

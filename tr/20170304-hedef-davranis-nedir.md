@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2017/03/images-5.jpeg"
+thumb = "http://otsimhttps://s3-us-west-1.amazonaws.com/otsimo-en/img/hedef-davranis-nedir.jpeg"
 +++
 
 # Hedef Davranış Nedir?

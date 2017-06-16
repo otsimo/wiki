@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2017/01/BLOG-POST-SORU-%C4%B0%C5%9EARET%C4%B0-27-OCAK-2-300x224.png"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ogretmenlerveotizm.png"
 +++
 
 

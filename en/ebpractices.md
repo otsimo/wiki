@@ -9,7 +9,7 @@ keywords = ["Evidence", "Based", "Practices"]
 draft = false
 written_at = "2016-09-01"
 [params]
-thumb = "https://otsimo.com/wp-content/uploads/2016/10/photodune-607636-happy-child-in-preschool-m.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ebpractices.jpg"
 youtube = "https://www.youtube.com/embed/HUkJsDJFbM8"
 +++
 # Evidence-Based Practices in Autism

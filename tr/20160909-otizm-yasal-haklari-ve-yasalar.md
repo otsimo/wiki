@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2016/09/o-KID-IPAD-facebook.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizm-yasal-haklari-ve-yasalar.jpg"
 +++
 
 # Otizm yasal hakları ve yasalar

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2017/08/75580a964eb12d23b784f6ae8f4f8793.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/giyinme-soyunma.jpg"
 +++
 
 

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2016/08/glassware.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmde-teknoloji-kullanimina-bir-ornek-de-google-glass.jpg"
 +++
 
 # Otizm'de Teknoloji Kullanımına Bir Örnek de Google Glass

@@ -10,7 +10,8 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://www.mayinstitute.org/images/Imitation%20Skills_400.jpg"
+thumb = "
+https://s3-us-west-1.amazonaws.com/otsimo-en/img/importance-imitation.jpg"
 +++
 
 # Importance of Imitation Skills in Autism

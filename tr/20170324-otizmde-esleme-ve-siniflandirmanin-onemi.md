@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2017/04/Otsimo-Blog-24-Feb-2017-Post.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmde-esleme-ve-siniflandirma.jpg"
 +++
 
 

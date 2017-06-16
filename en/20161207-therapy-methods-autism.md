@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2016/09/images-1.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/therapy-methods-autism.jpg"
 +++
 
 # Therapy Methods for Autism

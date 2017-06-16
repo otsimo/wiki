@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2017/03/49276265-happy-child-playing-with-toy-plane-outdoors-in-winter-Stock-Photo.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/importance-recipient.jpg"
 +++
 
 # Importance of Recipient Language Skills and Attention Management

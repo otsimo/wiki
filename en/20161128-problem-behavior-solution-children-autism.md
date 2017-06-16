@@ -10,7 +10,8 @@ draft = false
 written_at = "2016-04-09"
 available_at = "2016-04-09"
 [params]
-thumb = "https://otsimo.com/wp-content/uploads/2016/11/Otsimo-Blog-10-March.jpg"
+thumb = "
+https://s3-us-west-1.amazonaws.com/otsimo-en/img/problem-behavior.jpg"
 +++
 
 # Problematic Behavior and Solution in Children with Autism

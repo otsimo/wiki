@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2017/04/40333046-Happy-child-riding-a-bike-Cute-kid-biking-outdoors-Little-girl-in-a-blue-dress-on-a-pink-bicycle-wit-Stock-Photo.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/resim-ve-nesne.jpg"
 +++
 
 

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2017/02/images-4.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/behaviors-causes.jpeg"
 +++
 
 # What are Problem Behaviors and What Causes Them?

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2016/10/0d15a2934cde4f5887471a87c8a05a38-300x200.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/bilimsel-dayanakli.jpg"
 +++
 
 # Otizmde Bilimsel Dayanaklı Uygulamalar

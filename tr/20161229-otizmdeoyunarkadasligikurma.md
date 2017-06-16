@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2017/05/29.11.jpeg"
+thumb = "http://ohttps://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmdeoyunarkadasligikurma.jpeg"
 +++
 
 # Otizmde Oyun Arkadaşlığı Kurma

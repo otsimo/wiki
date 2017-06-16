@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2016/08/120611-kardes_sevgisi_d580.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmli-bir-cocugun-kardesinin.jpg"
 +++
 
 

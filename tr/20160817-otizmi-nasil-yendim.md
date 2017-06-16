@@ -10,8 +10,9 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2016/08/81HY9UsR6TL._SX466_.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmi-nasil-yendim.jpg"
 +++
+
 
 
 # Otizmi Nasıl Yendim?

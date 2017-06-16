@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2016/10/151101-child-tablet-mn-1315_d45dd49e8a7b69a0b4b9b0d51e5b9773.nbcnews-ux-2880-1000.jpg"
+thumb = "http:https://s3-us-west-1.amazonaws.com/otsimo-en/img/use-autism.jpg"
 +++
 
 # Tablet Computer Use in Autism Spectrum Disorder

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "https://otsimo.com/wp-content/uploads/2016/12/Training-Based-on-Biblical-values.jpg"
+thumb = "https://ohttps://s3-us-west-1.amazonaws.com/otsimo-en/img/choosing-autism.jpg"
 +++
 
 # What to Consider While Choosing Institution for Autism Education  

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2016-04-09"
-thumb = "http://otsimo.com/wp-content/uploads/2016/11/child-smile-grass-play-stock-today-150828-tease_e2ba27714559fccfdda373c7887afcc4.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/kaynastirma-uygulamalari.jpg"
 +++
 
 
