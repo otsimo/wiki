@@ -1,8 +1,8 @@
-+++
+en+++
 slug = "fine-gross-motor-imitation-skills-2"
 title = "Fine and Gross Motor Imitation Skills"
 category = "Oyunlar"
-language = "tr"
+language = "en"
 author = "Otsimo"
 weight = 60
 keywords = ["Eşleme", "Oyunu"]
