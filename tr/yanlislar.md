@@ -7,7 +7,7 @@ author = "Tohum Otizm Vakfı"
 weight = 75
 keywords = ["Yanlışlar", "İnanışlar"]
 draft = false
-written_at = "2016-04-09"
+written_at = "2017-10-14"
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/yanlislar-tr.jpg"
 +++

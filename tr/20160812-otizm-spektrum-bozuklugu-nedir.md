@@ -9,7 +9,7 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2016-04-09"
+available_at = "2017-07-04"
 thumb = "https://otsimo.com/wp-content/uploads/2016/08/unnamed.jpg"
 +++
 

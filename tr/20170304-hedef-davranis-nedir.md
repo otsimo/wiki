@@ -9,7 +9,7 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2016-04-09"
+available_at = "2017-08-31"
 thumb = "http://otsimhttps://s3-us-west-1.amazonaws.com/otsimo-en/img/hedef-davranis-nedir.jpeg"
 +++
 

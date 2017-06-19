@@ -7,7 +7,7 @@ author = "Tohum Otizm Vakfı"
 weight = 60
 keywords = ["Eşleme", "Oyunu"]
 draft = false
-written_at = "2016-04-09"
+written_at = "2017-10-07"
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/esleme.jpg"
 +++

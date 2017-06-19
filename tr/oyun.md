@@ -7,7 +7,7 @@ author = "Tohum Otizm Vakfı"
 weight = 70
 keywords = ["Oyunlar", "Oyun Becerileri"]
 draft = false
-written_at = "2016-04-09"
+written_at = "2017-10-10"
 [params]
 thumb = "https://otsimo.com/wp-content/uploads/2016/11/otizm-3.jpg"
 +++

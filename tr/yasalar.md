@@ -7,7 +7,7 @@ author = "Tohum Otizm Vakfı"
 weight = 50
 keywords = ["Yasalar", "yasal", "kaynaştırma"]
 draft = false
-written_at = "2016-04-09"
+written_at = "2017-10-15"
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/meclis11.jpg"
 +++
