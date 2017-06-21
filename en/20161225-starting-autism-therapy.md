@@ -9,9 +9,8 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2016-04-09"
-thumb = "
-https://s3-us-west-1.amazonaws.com/otsimo-en/img/starting-autism-therapy.jpg"
+available_at = "2017-07-22"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/starting-autism-therapy.jpg"
 +++
 
 

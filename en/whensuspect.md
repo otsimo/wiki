@@ -9,6 +9,7 @@ keywords = ["Suspect", "Autism"]
 draft = false
 written_at = "2016-09-01"
 [params]
+available_at = "2017-07-03"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/aac-tablet.jpg"
 +++
 # When to Suspect Autism?

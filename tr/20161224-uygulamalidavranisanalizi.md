@@ -9,8 +9,13 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
+<<<<<<< HEAD
 available_at = "2017-08-07"
 thumb = "http:https://s3-us-west-1.amazonaws.com/otsimo-en/img/uygulamalidavranisanalizi.jpeg"
+=======
+available_at = "2016-04-09"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/uygulamalidavranisanalizi.jpeg"
+>>>>>>> origin/master
 +++
 
 # Uygulamalı Davranış Analizi (UDA) Nedir

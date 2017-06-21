@@ -21,7 +21,6 @@ Otistik spektrum bozukluğu toplum içerisinde algılandığının aksine olduk�
 
 Otizm belirtileri hemen ortaya çıkmaz. Belli bir yaştan sonra daha çok belirginleşmektedir. Özellikle 3 yaşından sonra çocuklarda daha belirgin olarak sıkıntılar gözlenmeye başlar. 3 yaşındaki çocukların genel olarak belirli bir gelişim süreci vardır. İstisnalar dışında otizme sahip çocuklar bu gelişim sürecini geriden izlemektedirler. Çoğu ailede aynı yaş grubundaki çocuklar ile kendi çocuklarının durumunu karşılaştırdıklarında otizmden şüphelenmelerini gerektirecek bulgulara ulaşabilirler. Ancak otizmden şüphelenmek için öncelikle bu durumun nereden ve nasıl kaynaklandığının bilinmesi gerekmektedir.
 
-![unnamed](http://otsimo.com/wp-content/uploads/2016/08/unnamed-300x177.jpg)
 
 Otizmin sebebi net olarak bulunamamıştır. Ancak genel yargı şudur ki otizm beyin yapısını veya işlevini etkileyen bir takım sinir sorunlarından kaynaklanmaktadır. Otizm aslında otistik spektrum bozukluğunun tamamını kapsamaz. Ancak toplum içerisinde aynı ifadeleri taşıdıkları düşünülerek kullanılır. Otizm, otistik spektrum bozukluğunun alt sınıflarından biridir sadece. Aslında otistik spektrum bozukluğu 3 ana çeşide ayrılır. En sık rastlananı ise halk diline otistik spektrum bozukluğunun asıl adıymış gibi geçen otizmdir. Bu nedenle aslında otizm otistik spektrum bozukluğunun merkezinde bulunur. Diğer iki bozukluk ise asperger sendromu ve YGB- BTA’dır.
 

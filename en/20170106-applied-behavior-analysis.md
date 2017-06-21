@@ -9,8 +9,8 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2016-04-09"
-thumb = "htthttps://s3-us-west-1.amazonaws.com/otsimo-en/img/applied-behavior.jpeg"
+available_at = "2017-07-27"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/applied-behavior.jpeg"
 +++
 
 # Why Applied Behavior Analysis (ABA)?

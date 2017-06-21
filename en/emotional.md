@@ -9,6 +9,7 @@ keywords = ["Emotional", "Needs"]
 draft = false
 written_at = "2016-09-01"
 [params]
+available_at = "2017-09-16"
 thumb = "https://storage.googleapis.com/otsimocontent/public/child-images-020.jpg"
 +++
 # Determining Emotional Needs of a Child with Autism and the Parents

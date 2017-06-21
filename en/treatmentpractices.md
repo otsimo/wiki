@@ -9,6 +9,7 @@ keywords = ["Treatment", "Practices"]
 draft = false
 written_at = "2016-09-01"
 [params]
+available_at = "2017-09-21"
 thumb = "
 https://s3-us-west-1.amazonaws.com/otsimo-en/img/treatmentpractices.jpg"
 +++
