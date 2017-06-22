@@ -9,7 +9,6 @@ keywords = ["have", "autism"]
 draft = false
 written_at = "2016-09-01"
 [params]
-available_at = "2017-09-17"
 thumb = "https://storage.googleapis.com/otsimocontent/public/tanyaz.jpg"
 +++
 # Effects of Having a Child With Autism

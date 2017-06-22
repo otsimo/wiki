@@ -7,7 +7,7 @@ author = "Tohum Otizm Vakfı"
 weight = 75
 keywords = ["Eğitim", "Tedavi", "Terapi"]
 draft = false
-written_at = "2017-10-06"
+written_at = "2016-04-09"
 [params]
 thumb = "https://otsimo.com/wp-content/uploads/2016/10/AP05051006495-300x150.jpg"
 youtube = "https://youtube.com/video.html"
