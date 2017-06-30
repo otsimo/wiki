@@ -9,13 +9,8 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-<<<<<<< HEAD
 available_at = "2017-08-09"
 thumb = "http:https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmlicocugunailesi.jpeg"
-=======
-available_at = "2016-04-09"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmlicocugunailesi.jpeg"
->>>>>>> origin/master
 +++
 
 

@@ -26,7 +26,6 @@ Anthony Ianni, basketbola olan tutkusunun **otizmle yaşamayı** öğrenmesini k
 
 Otizmli bir çocuk için takım oyunları her zaman ilk akla gelen seçenekler arasında olmayabiliyor. Onca bağırışma, gereğinden fazla hızlı hareket eden ve iletişim kuran bir grup insan otizmli bir çocuğun sosyal anksiyete krizleri geçirmesine ve içine kapanmasına sebep olabiliyor.
 
-[caption id="attachment_2455" align="alignleft" width="300"]![Basketbol otizmin tüm sorunlarıyla baş etmeme yardım etti.](http://otsimo.com/wp-content/uploads/2017/04/05.04-300x169.jpg) Basketbol otizmin tüm sorunlarıyla baş etmeme yardım etti.[/caption]
 
 Ancak benim için basketbol hayatımda en çok sevdiğim şeydi. 5 yaşımdan beri bulduğum her potaya koşuyor, elime geçen her topu sektirmeye çalışıyordum.
 
