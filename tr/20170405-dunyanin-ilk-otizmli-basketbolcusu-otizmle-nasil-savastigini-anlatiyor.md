@@ -2,7 +2,7 @@
 slug = "dunyanin-ilk-otizmli-basketbolcusu-otizmle-nasil-savastigini-anlatiyor"
 title = "Dünyanın ilk otizmli basketbolcusu!"
 category = "Oyunlar"
-language = "en"
+language = "tr"
 author = "deniz"
 weight = 60
 keywords = ["Eşleme", "Oyunu"]
