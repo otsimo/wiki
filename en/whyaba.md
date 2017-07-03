@@ -9,7 +9,7 @@ keywords = ["ABA", "why"]
 draft = false
 written_at = "2016-09-01"
 [params]
-thumb = "https://otsimo.com/wp-content/uploads/2016/08/unnamed.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/unnamed.jpg"
 +++
 # Why Applied Behavior Analysis (ABA)?
 
