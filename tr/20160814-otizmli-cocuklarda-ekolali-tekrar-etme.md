@@ -20,7 +20,6 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmli-cocuklarda-eko
 
 Ekolali bireyin duyduğu sesleri tekrar etmesi durumudur. Otizm gibi gelişimsel sendromlarda ekolali sıkça görülebilmektedir. Ekolaliyle birlikte birey duyduğu sesleri tekrar etmeye başlar ancak bazen de gecikmeli olarak tekrar etme durumu ortaya çıkabilir. Örneğin ekolalisi olan bir çocuğa adın ne diye sorduğunuzda çocuğunda size aynı şekilde adın ne? Diye karşılık vermesi muhtemeldir.
 
-![Otizm Ekolali Tekrarlama](http://otsimo.com/wp-content/uploads/2016/08/o3.jpg)
 
 Bazende benzer bir şekilde birey daha önceden duyduğu bir sesi aradan belli bir süre geçtikten sonra tekrar etmeye başlayabilir. Örneğin ortada hiçbir şey yokken annesinin onu çağırma sesini taklit edebilir, sakın kaybolma, çabuk gel gibi.
 

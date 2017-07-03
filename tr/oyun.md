@@ -9,7 +9,7 @@ keywords = ["Oyunlar", "Oyun Becerileri"]
 draft = false
 written_at = "2016-04-09"
 [params]
-thumb = "https://otsimo.com/wp-content/uploads/2016/11/otizm-3.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/oyun_otizm.jpg"
 +++
 # Oyun Becerilerinin Önemi
 

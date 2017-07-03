@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-03"
-thumb = "https://otsimo.com/wp-content/uploads/2016/08/u_24-06-2015-010935otizm-3.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizm_icin.jpg"
 +++
 
 # Otizm İçin Ne Zaman Şüphe Edilmeli?
@@ -35,7 +35,7 @@ Yapmaktan zevk aldığı şeyleri başkaları ile paylaşmak otizmli çocukları
 
 Sosyal bir konuda aktif olamamak, duygusal etkileşimde zayıf kalmak ya da cevap verememe durumları da sosyal etkileşim hareketlerinde bozukluk olarak belirlenebilecek semptomlar arasında yer almaktadır.
 
-![Otizmde Tanı](https://otsimo.com/wp-content/uploads/2016/08/u_24-06-2015-010935otizm-3.jpg)
+
 
 **En Az Bir Tane İletişim Bozukluğu Semptomu Belirlenmelidir**
 

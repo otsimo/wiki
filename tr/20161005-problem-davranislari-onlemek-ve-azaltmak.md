@@ -62,7 +62,6 @@ Sorunlu davranışların tekrarlanmasını sağlayan uyaranları ortadan kaldır
 
 Ancak davranış zincirini kırmanın en iyi yolu öğretmenin öğrenciyle doğru bir biçimde iletişime geçmesidir. Problem davranışlar sergileyen çocuk, kendisiyle olumlu bir şekilde iletişime geçildiğinde ve çözüm önerileri sunulduğunda bu davranışların önüne geçebilir. Ne olursa olsun burada çocuğu suçlama ya da sorumlu tutma eğilimi göstermemek, davranışların sebeplerini anlayarak ortadan kaldırmaya ya da reaksiyonu azaltmaya çalışmak gerekmektedir.
 
-![Problemli davranış çözümleri](http://otsimo.com/wp-content/uploads/2016/10/photodune-607636-happy-child-in-preschool-m-300x218.jpg)
 
   * **Pekiştirme**
 

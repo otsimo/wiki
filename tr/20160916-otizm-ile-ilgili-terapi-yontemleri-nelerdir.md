@@ -64,5 +64,3 @@ Herhangi bir role bürünmenin otizmli bireylerin iletişim yeteneklerini arttı
 Otizmli bireylerin mecazi sözleri anlamakta zorluk çektikleri bilinmektedir. Drama terapisi, hastaların mecaz gibi kavramları anlamalarına ve derin düşünmelerine yardımcı olur. Ayrıca kendilerini tedavi edebilmeleri için de iyi bir yöntemdir. Ancak bu terapi metodu üzerinde de bilimsel bir uzlaşı sağlanabilmiş değildir. Her ne kadar dünyanın birçok yerinde uygulanan bir metot olsa da otizmli bireylerin iyileşme süreçlerine genel olarak bir etki ettiği, bilimsel ortamda ispat edilebilmiş değildir.
 
 6\. Yunuslarla Terapi
-
-![images](http://otsimo.com/wp-content/uploads/2016/09/images-1-300x199.jpg)

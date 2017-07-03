@@ -23,7 +23,7 @@ Pediatrics dergisinde yayınlanan sonuçlar, kardeşler arasındaki otizm riskin
 
 California Üniversitesi, Davis, MIND Enstitüsü’ndeki araştırmacılar, kendilerinden büyük otizm spektrum bozukluğu sahibi kardeşleri olan 664 bebeği inceledi. Bebekler araştırmaya 8 aylıkken alındı ve 36. aylarına ulaşana kadar takip edildi. **Her ne kadar çoğunda otizm gelişimi görülmese de, çocukların yüzde 20’sine otizm teşhisi kondu. **
 
-![Kardeş Otizm Risk](http://otsimo.com/wp-content/uploads/2016/08/120611-kardes_sevgisi_d580.jpg)
+
 
 Araştırma evrenine göre, otizmli çocukların her 5 küçük kardeşinden 1’inde otizm gelişimi görüldü. Daha önce daha küçük gruplarla yapılan araştırmalarda otizmli çocukların her 10 küçük kardeşinden 1’inde hastalığın geliştiği görülmüştü.
 
