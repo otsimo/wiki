@@ -1,7 +1,7 @@
 +++
 slug = "team-individualized-education-program"
 title = "Who Participates in the Production of Individualized Education Program?"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60

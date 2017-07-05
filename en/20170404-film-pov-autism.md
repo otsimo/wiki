@@ -1,7 +1,7 @@
 +++
 slug = "film-pov-autism"
 title = "The Unique Point of View of a Film – A List of Films About Autism"
-category = "Oyunlar"
+category = "Video"
 language = "en"
 author = "Secil"
 weight = 60

@@ -1,7 +1,7 @@
 +++
 slug = "importance-imitation-skills-autism"
 title = "Importance of Imitation Skills in Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

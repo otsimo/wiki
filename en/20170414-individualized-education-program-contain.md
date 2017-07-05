@@ -1,7 +1,7 @@
 +++
 slug = "individualized-education-program-contain"
 title = "What Individualized Education Program Must Contain According to Law"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60

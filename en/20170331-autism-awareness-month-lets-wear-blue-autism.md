@@ -1,7 +1,7 @@
 +++
 slug = "autism-awareness-month-lets-wear-blue-autism"
 title = "National Autism Awareness Month: Let’s Wear #BlueForAutism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60

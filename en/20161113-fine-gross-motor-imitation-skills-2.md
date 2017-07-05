@@ -1,7 +1,7 @@
 en+++
 slug = "fine-gross-motor-imitation-skills-2"
 title = "Fine and Gross Motor Imitation Skills"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

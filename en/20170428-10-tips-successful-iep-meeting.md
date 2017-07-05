@@ -1,7 +1,7 @@
 +++
 slug = "10-tips-successful-iep-meeting"
 title = "10 Tips to Better Prepare for a Successful IEP Meeting"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60

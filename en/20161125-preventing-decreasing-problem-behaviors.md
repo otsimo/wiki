@@ -1,7 +1,7 @@
 +++
 slug = "preventing-decreasing-problem-behaviors"
 title = "Preventing and Decreasing Problem Behaviors"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

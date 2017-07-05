@@ -1,7 +1,7 @@
 +++
 slug = "evidence-based-practices-autism"
 title = "Evidence-Based Practices in Autism"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

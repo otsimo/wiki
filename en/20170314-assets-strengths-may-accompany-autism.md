@@ -1,7 +1,7 @@
 +++
 slug = "assets-strengths-may-accompany-autism"
 title = "Strengths that Come with Autism and Why You Should Care"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60

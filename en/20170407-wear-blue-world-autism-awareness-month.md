@@ -1,7 +1,7 @@
 +++
 slug = "wear-blue-world-autism-awareness-month"
 title = "Why Should You Wear #BlueForAutism on World Autism Awareness Month?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60

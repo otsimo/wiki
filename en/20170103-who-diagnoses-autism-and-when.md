@@ -1,7 +1,7 @@
 +++
 slug = "who-diagnoses-autism-and-when"
 title = "Who Diagnoses Autism and When?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

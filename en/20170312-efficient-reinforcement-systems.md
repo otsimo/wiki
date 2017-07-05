@@ -1,7 +1,7 @@
 +++
 slug = "efficient-reinforcement-systems"
 title = "Developing Efficient Reinforcement Systems"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

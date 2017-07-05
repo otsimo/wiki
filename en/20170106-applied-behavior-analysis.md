@@ -1,7 +1,7 @@
 +++
 slug = "applied-behavior-analysis"
 title = "Why Applied Behavior Analysis (ABA)?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

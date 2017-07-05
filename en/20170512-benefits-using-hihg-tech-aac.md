@@ -1,7 +1,7 @@
 +++
 slug = "benefits-using-hihg-tech-aac"
 title = "What Are the Benefits of Using High-Tech AAC?"
-category = "Oyunlar"
+category = "Games"
 language = "en"
 author = "Secil"
 weight = 60

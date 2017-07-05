@@ -1,7 +1,7 @@
 +++
 slug = "tablet-computer-use-autism-spectrum-disorder"
 title = "Tablet Computer Use in Autism Spectrum Disorder"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

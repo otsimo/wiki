@@ -1,7 +1,7 @@
 +++
 slug = "problem-behavior-solution-children-autism"
 title = "Problematic Behavior and Solution in Children with Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

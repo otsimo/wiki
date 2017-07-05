@@ -1,7 +1,7 @@
 +++
 slug = "therapy-methods-autism"
 title = "Therapy Methods for Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

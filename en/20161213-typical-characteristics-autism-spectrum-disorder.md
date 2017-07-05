@@ -1,7 +1,7 @@
 +++
 slug = "typical-characteristics-autism-spectrum-disorder"
 title = "Typical Characteristics of Autism Spectrum Disorder"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

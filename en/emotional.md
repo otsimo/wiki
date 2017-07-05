@@ -1,7 +1,7 @@
 +++
 slug = "emotional-en"
 title = "Determining Emotional Needs of a Child with Autism and the Parents"
-category = "Parents"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 55

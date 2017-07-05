@@ -1,7 +1,7 @@
 +++
 slug = "criteria-successful-inclusion"
 title = "Criteria on Successful Inclusion"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

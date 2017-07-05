@@ -1,7 +1,7 @@
 +++
 slug = "choosing-autism-institution"
 title = "What to Consider While Choosing Institution for Autism Education"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

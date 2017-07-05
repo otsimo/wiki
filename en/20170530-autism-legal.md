@@ -1,7 +1,7 @@
 +++
 slug = "autism-legal"
 title = "Legal Education Rights of Children with Autism in the USA"
-category = "Oyunlar"
+category = "Legal"
 language = "en"
 author = "Secil"
 weight = 60

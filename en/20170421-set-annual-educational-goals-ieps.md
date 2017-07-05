@@ -1,7 +1,7 @@
 +++
 slug = "set-annual-educational-goals-ieps"
 title = "How to Set Annual Educational Goals in IEPs"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60

@@ -1,7 +1,7 @@
 +++
 slug = "10-myths-autism"
 title = "10 Myths About Autism You Should Know"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60

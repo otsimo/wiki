@@ -1,7 +1,7 @@
 +++
 slug = "teach-aac-child"
 title = "How to Effectively Teach AAC to Your Child?"
-category = "Oyunlar"
+category = "Games"
 language = "en"
 author = "Secil"
 weight = 60

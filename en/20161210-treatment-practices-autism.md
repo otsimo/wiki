@@ -1,7 +1,7 @@
 +++
 slug = "treatment-practices-autism"
 title = "Treatment Practices for Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

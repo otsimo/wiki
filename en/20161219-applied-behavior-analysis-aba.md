@@ -1,7 +1,7 @@
 +++
 slug = "applied-behavior-analysis-aba"
 title = "What is Applied Behavior Analysis (ABA)"
-category = "Oyunlar"
+category = "Games"
 language = "en"
 author = "Otsimo"
 weight = 60

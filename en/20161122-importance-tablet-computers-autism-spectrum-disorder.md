@@ -1,7 +1,7 @@
 +++
 slug = "importance-tablet-computers-autism-spectrum-disorder"
 title = "Importance of Tablet Computers in Autism Spectrum Disorder"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

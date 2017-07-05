@@ -1,7 +1,7 @@
 +++
 slug = "teaching-plan-choosing-target-behavior"
 title = "Teaching Plan for Choosing Target Behavior"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60

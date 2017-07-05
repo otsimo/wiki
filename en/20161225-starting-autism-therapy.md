@@ -1,7 +1,7 @@
 +++
 slug = "starting-autism-therapy"
 title = "4 Things Parents Needs to Consider Before Starting Autism Therapy"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

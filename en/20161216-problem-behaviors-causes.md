@@ -1,7 +1,7 @@
 +++
 slug = "problem-behaviors-causes"
 title = "What are Problem Behaviors and What Causes Them?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60

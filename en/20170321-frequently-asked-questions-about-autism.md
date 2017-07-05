@@ -1,7 +1,7 @@
 +++
 slug = "frequently-asked-questions-about-autism"
 title = "Frequently Asked Questions About Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
