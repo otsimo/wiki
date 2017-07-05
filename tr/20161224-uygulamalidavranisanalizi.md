@@ -1,7 +1,7 @@
 +++
 slug = "uygulamalidavranisanalizi"
 title = "Uygulamalı Davranış Analizi (UDA) Nedir"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

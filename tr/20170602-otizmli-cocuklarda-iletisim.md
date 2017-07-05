@@ -1,7 +1,7 @@
 +++
 slug = "otizmli-cocuklarda-iletisim"
 title = "Otizmli Çocuklarda İletişim"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

@@ -1,7 +1,7 @@
 +++
 slug = "otizmde-esleme-ve-siniflandirmanin-onemi"
 title = "Otizmde Eşleme Ve Sınıflandırmanın Önemi"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

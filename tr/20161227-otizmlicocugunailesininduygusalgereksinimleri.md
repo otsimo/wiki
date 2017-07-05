@@ -1,7 +1,7 @@
 +++
 slug = "otizmlicocugunailesininduygusalgereksinimleri"
 title = "Otizmli Çocuğun Ailesinin Duygusal Gereksinimleri"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

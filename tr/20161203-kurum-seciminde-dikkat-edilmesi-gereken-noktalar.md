@@ -1,7 +1,7 @@
 +++
 slug = "kurum-seciminde-dikkat-edilmesi-gereken-noktalar"
 title = "Kurum Seçiminde Dikkat Edilmesi Gereken Noktalar"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryalı"
 weight = 60

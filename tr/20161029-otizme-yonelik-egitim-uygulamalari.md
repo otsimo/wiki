@@ -1,7 +1,7 @@
 +++
 slug = "otizme-yonelik-egitim-uygulamalari"
 title = "Otizme Yönelik Eğitim Uygulamaları"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

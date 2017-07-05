@@ -1,7 +1,7 @@
 +++
 slug = "otizm-tanisi-kimler-tarafindan-ne-zaman-konur"
 title = "Otizm Spektrum Bozukluğunun Tipik Özellikleri Nelerdir?"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

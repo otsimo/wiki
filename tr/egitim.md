@@ -1,7 +1,7 @@
 +++
 slug = "egitim-tr"
 title = "Otizm Spektrum Bozukluğunda Eğitim, Terapi ve Tedavi Yöntemleri"
-category = "Otizm"
+category = "Eğitim"
 language = "tr"
 author = "Tohum Otizm Vakfı"
 weight = 75

@@ -1,7 +1,7 @@
 +++
 slug = "otizm-icin-ne-zaman-suphe-edilmeli"
 title = "Otizm İçin Ne Zaman Şüphe Edilmeli?"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

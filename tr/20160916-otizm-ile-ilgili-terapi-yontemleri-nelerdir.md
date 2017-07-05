@@ -1,7 +1,7 @@
 +++
 slug = "otizm-ile-ilgili-terapi-yontemleri-nelerdir"
 title = "Otizm ile ilgili Terapi Yöntemleri Nelerdir?"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

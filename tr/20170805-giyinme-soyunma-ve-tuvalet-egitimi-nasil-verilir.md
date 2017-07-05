@@ -1,7 +1,7 @@
 +++
 slug = "giyinme-soyunma-ve-tuvalet-egitimi-nasil-verilir"
 title = "Giyinme, Soyunma Ve Tuvalet Eğitimi Nasıl Verilir?"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

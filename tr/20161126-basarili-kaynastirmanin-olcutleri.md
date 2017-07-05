@@ -1,7 +1,7 @@
 +++
 slug = "basarili-kaynastirmanin-olcutleri"
 title = "Başarılı Kaynaştırmanın Ölçütleri"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

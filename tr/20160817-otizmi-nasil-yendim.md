@@ -1,7 +1,7 @@
 +++
 slug = "otizmi-nasil-yendim"
 title = "Otizmi Nasıl Yendim?"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

@@ -1,7 +1,7 @@
 +++
 slug = "yasal-tr"
 title = "Yasal Düzenlemeler ve Kaynaştırma"
-category = "Genel"
+category = "Yasal"
 language = "tr"
 author = "Tohum Otizm Vakfı"
 weight = 50

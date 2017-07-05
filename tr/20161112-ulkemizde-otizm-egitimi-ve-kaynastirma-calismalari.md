@@ -1,7 +1,7 @@
 +++
 slug = "ulkemizde-otizm-egitimi-ve-kaynastirma-calismalari"
 title = "Ülkemizde Otizm Eğitimi Ve Kaynaştırma Çalışmaları"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

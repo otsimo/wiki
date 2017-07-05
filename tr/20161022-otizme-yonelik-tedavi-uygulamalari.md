@@ -1,7 +1,7 @@
 +++
 slug = "otizme-yonelik-tedavi-uygulamalari"
 title = "Otizme Yönelik Tedavi Uygulamaları"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

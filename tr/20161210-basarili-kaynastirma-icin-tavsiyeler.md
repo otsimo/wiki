@@ -1,7 +1,7 @@
 +++
 slug = "basarili-kaynastirma-icin-tavsiyeler"
 title = "Başarılı Kaynaştırma İçin Tavsiyeler"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

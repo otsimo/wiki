@@ -1,7 +1,7 @@
 +++
 slug = "problem-davranislari-onlemek-ve-azaltmak"
 title = "Problem Davranışları Önlemek Ve Azaltmak"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

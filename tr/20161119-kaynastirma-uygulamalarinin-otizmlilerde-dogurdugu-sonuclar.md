@@ -1,7 +1,7 @@
 +++
 slug = "kaynastirma-uygulamalarinin-otizmlilerde-dogurdugu-sonuclar"
 title = "Kaynaştırma Uygulamalarının Otizmlilerde Doğurduğu Sonuçlar"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

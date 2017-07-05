@@ -1,7 +1,7 @@
 +++
 slug = "parmakisaretibecerisininogretimi"
 title = "Parmak İşareti Becerisinin Öğretimi"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

@@ -1,7 +1,7 @@
 +++
 slug = "otizm-terapisine-baslamadan-dikkat-edilecekler-nelerdir"
 title = "Otizm Terapisine Başlamadan Önce Dikkat Edilecekler Nelerdir?"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

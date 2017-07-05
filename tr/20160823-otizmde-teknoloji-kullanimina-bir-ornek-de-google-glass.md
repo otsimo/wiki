@@ -1,7 +1,7 @@
 +++
 slug = "otizmde-teknoloji-kullanimina-bir-ornek-de-google-glass"
 title = "Otizm'de Teknoloji Kullanımına Bir Örnek de Google Glass"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Otsimo"
 weight = 60

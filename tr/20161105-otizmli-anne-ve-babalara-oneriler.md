@@ -1,7 +1,7 @@
 +++
 slug = "otizmli-anne-ve-babalara-oneriler"
 title = "Otizmli Anne Ve Babalara Öneriler"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

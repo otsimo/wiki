@@ -1,7 +1,7 @@
 +++
 slug = "ayirma-ve-genelleme"
 title = "Ayırma Ve Genelleme"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

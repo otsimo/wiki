@@ -1,7 +1,7 @@
 +++
 slug = "konusamayan-otizmli-cocuklarda-iletisimin-desteklenmesi"
 title = "Konuşamayan Otizmli Çocuklarda İletişimin Desteklenmesi"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

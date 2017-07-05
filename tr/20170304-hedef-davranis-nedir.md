@@ -1,7 +1,7 @@
 +++
 slug = "hedef-davranis-nedir"
 title = "Hedef Davranış Nedir?"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

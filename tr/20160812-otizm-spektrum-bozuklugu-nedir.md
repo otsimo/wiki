@@ -1,7 +1,7 @@
 +++
 slug = "otizm-spektrum-bozuklugu-nedir"
 title = "Otizm Spektrum Bozukluğu Nedir"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

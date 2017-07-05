@@ -1,7 +1,7 @@
 +++
 slug = "sinif-arkadaslarima-otizmin-ne-oldugunu-anlattim"
 title = "Sınıf Arkadaşlarıma Otizmin Ne Olduğunu Anlattım"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "deniz"
 weight = 60

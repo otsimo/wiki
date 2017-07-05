@@ -1,7 +1,7 @@
 +++
 slug = "otizm-ve-akilli-cihazlar"
 title = "Otizm ve Akıllı Cihazlar"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60

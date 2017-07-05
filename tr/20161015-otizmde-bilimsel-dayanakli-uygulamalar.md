@@ -1,7 +1,7 @@
 +++
 slug = "otizmde-bilimsel-dayanakli-uygulamalar"
 title = "Otizmde Bilimsel Dayanaklı Uygulamalar"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60

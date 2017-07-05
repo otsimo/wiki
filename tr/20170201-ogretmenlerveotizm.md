@@ -1,7 +1,7 @@
 +++
 slug = "ogretmenlerveotizm"
 title = "12 Maddede Öğretmenler Otizmli Çocuklar İle İlgili Neler Bilmeli?"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "deniz"
 weight = 60

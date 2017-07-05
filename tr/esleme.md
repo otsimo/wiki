@@ -1,7 +1,7 @@
 +++
 slug = "esleme-tr"
 title = "Eşleme ve Sınıflamanın Önemi"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Tohum Otizm Vakfı"
 weight = 60

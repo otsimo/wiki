@@ -1,7 +1,7 @@
 +++
 slug = "otizm-yasal-haklari-ve-yasalar"
 title = "Otizm yasal hakları ve yasalar"
-category = "Oyunlar"
+category = "Yasal"
 language = "tr"
 author = "Otsimo"
 weight = 60

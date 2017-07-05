@@ -1,7 +1,7 @@
 +++
 slug = "otizmli-bir-cocugun-kardesinin-otizmli-olma-ihtimali-cok-yuksek"
 title = "Otizmli Bir Çocuğun Kardeşinin Otizmli Olma İhtimali Çok Yüksek!"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60

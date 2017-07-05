@@ -1,7 +1,7 @@
 +++
 slug = "dunyanin-ilk-otizmli-basketbolcusu-otizmle-nasil-savastigini-anlatiyor"
 title = "Dünyanın ilk otizmli basketbolcusu!"
-category = "Oyunlar"
+category = "Video"
 language = "tr"
 author = "deniz"
 weight = 60

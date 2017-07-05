@@ -1,7 +1,7 @@
 +++
 slug = "otizm-spektrum-bozuklugunda-tablet-bilgisayarlarin-onemi"
 title = "Otizm Spektrum Bozukluğunda Tablet Bilgisayarların Önemi"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Otsimo"
 weight = 60
