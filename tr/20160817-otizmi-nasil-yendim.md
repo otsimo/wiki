@@ -27,6 +27,9 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmi-nasil-yendim.jp
 
 - Çoğu otistik çocuk resim, sanat ve bilgisayar programlamakta başarılıdır. Bu yetenek alanları teşvik edilmelidir. Çocuğun yeteneklerinin gelişmesine çok daha önem vermek gerekir diye düşünüyorum.
 
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/mini_toys.jpg)
+
 - Pek çok otistik çocuk bir konu üzerinde takılır. Örneğin trenler, haritalar gibi. Bu takıntıları değerlendirmenin en iyi yolu bunları okul görevlerine motive etmek için kullanmaktır. Eğer çocuk trenleri seviyorsa okuma ve matematik öğretirken trenleri kullanınız. Tren hakkında bir kitap okuyunuz, trenlerle matematik problemleri kurunuz. Örneğin Ankara'dan İstanbul'a bir trenin ne kadar zamanda gideceğini hesap ediniz. Sayı kavramlarını öğretirken somut görsel yöntemler kullanın. Ailem sayıları öğrenmem için bana bir matematik oyuncağı verdiler. Bunda 1’den 10’a kadar sayılar için farklı renk ve büyüklükte bloklar vardı. Bununla toplama ve çıkarma yapmayı öğrendim. Bölmeleri öğrenmek için öğretmenimde dört parçaya ayrılan tahta bir elma ve yarıya ayrılan tahta bir armut vardı. Bunlarla çeyrek ve yarım kavramını öğrendim.
 6.Sınıfımda en kötü el yazısı olan bendim. Pek çok otistik çocukta el hareketlerinin kontrolünde güçlük vardır. Düzgün el yazısı bazen çok zor gelir. Bu durum çocuk için bazen çok engelleyici olur. Engellenme duygusunu azaltmak için çocuğun yazmayı sevmesine yardım edin.Bırakın bilgisayarda (tablette) yazsın.Tuşlara basmak daha kolaydır.
 

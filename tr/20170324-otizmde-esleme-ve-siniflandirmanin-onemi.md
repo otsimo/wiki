@@ -20,11 +20,11 @@ Otizm, kişide iletişim, dil, öğrenme ve sosyalleşme alanında ciddi sorunla
 
 Bazı uzmanlar otizmin tamamen tedavi edilebildiğini söyleseler de bu konuda bilimsel çevrelerin tamamında paylaşılan bir görüş bulunmamaktadır. Otizm, kökten yok edilemez ancak çeşitli eğitim ve rehabilitasyon çalışmalarıyla otizm yüzünden gelişmemiş olan davranışlar bireye kazandırılabilir. Buna örnek olarka otizmli çocuklar için eşleme ve sınıflandırma çalışmalarını örnek olarak verebiliriz.
 
-**Eşleme Ve Sınıflandırma Faaliyetlerinin Amacı**
+#### Eşleme Ve Sınıflandırma Faaliyetlerinin Amacı
 
 Otizm sahibi bireyler, nesneleri tanımlamakta güçlük çekebilir ya da eksik bir biçimde tanımlayarak eşlemede problem yaşayabilirler. Örneğin kendilerine herhangi bir tükenmez kalem gösterip bunun “kalem” olduğu söylendiğinde, kalem kavramı yalnızca o formdaki ve şekildeki kalemler için geçerli olacaktır ve başarılı bir eşleme yapamayacaktır. Bunu aşabilmek için çocuğun önce nesneleri temel özellikleri ile kavramayı daha sonra sınıflandırmayı öğrenmesi gerekir.
 
-**Eğitim Yöntemi**
+#### Eğitim Yöntemi
 
 Eşleme yöntemi, Otizm Spektrum Sendromu’na sahip olan çocuklarda en çok fayda sağlayan, işlevsellik kazanan ve umut vaadeden yöntemdir. Bu yöntem, çocukların eğitiminde ve rehabilitasyonunda büyük bir fayda sağlamaktadır. Eşleme yöntemi, çocuğun öğrenmesini, nesneleri görsel açıdan tanımlamasını ve hafızasını geliştirmesini sağlayan etkili bir metottur.
 
@@ -32,17 +32,19 @@ Bu yöntemden öncelikle çocuğun önüne eşlemesi istenen materyaller konur. 
 
 Çocuk materyalleri “eşlemeyi” yani üst üste koymayı başardığında sözlü olarak motive edilir (Aferin, bravo vs) ve yiyecek pekiştireci verilir. Çocuk yiyeceği tükettikten sonra aynı işlem başka bir materyalle eşlemeye devam ettirilir. Eşleme işlemi, otizmli çocuk materyalleri herhangi bir ipucu olmadan üst üste koymayı başarana kadar devam eder. Bu metot sürekli uygulandığında çocuğun nesneleri tanımlayabilmesi mümkün olacaktır.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/game_child.jpg)
+
 İkinci aşamada masada iki farklı nesne bulunur ve çocuğa bu nesnelerin birer eşi verilir. Burada çocuğun yapması gereken nesneleri aynılarının üstüne koymak, onları “eşlemek”tir. İlk aşamada olduğu gibi burada da pekiştireç kullanılması gerekir. Çocuk eşlemeyi kendi başına yapabilir hâle geldiğinde ipuçları sistematik olarak devreden çıkarılır.
 
 Çeşitli aşamalar yerine getirildikten sonra, çocuktan resim eşleşmeleri istenir. Bu etapta, resimleri kendi aralarında ve cisimler ile eşleştirmesi gerekir. Örneğin bir tabak resmini tabak ile eşlemesi istenebilir. Resimler ve cisimler karışık olarak sunulur ve aynı türden olanların eşleştirilmesi istenir. Çocuk eşleşmeleri yardıma ihtiyaç duymadan yaptıkça pekiştireçler sistemli olarak devreden çıkarılır.
 
-**Sınıflandırma:**
+#### Sınıflandırma:
 
 Nesneleri tanımladıktan sonra yapılacak işlem çocuğun nesneyi benzerleriyle birlikte sınıflandırabilmesidir. Aksi takdirde kavramlar yalnızca ona eşleme çalışmalarında öğretilen formları ile sınırlı kalacaktır. Örneğin eşleme çalışmasında şeffaf, cam bir tabak kullanıldıysa sınıflandırma yapılmadığı takdirde tabak kavramı yalnızca şeffaf, cam tabaklar için geçerli olacaktır.
 
 Çocuğun sınıflandırma işlemini kendi başına yapabilmesi için öncelikle şekil eşleştirme çalışmasının yapılması gerekir. Geometrik şekiller tanımlanıp eşleştirilerek çocuğa fiziksel tanımlama yeteneği kazandırılır. Daha sonra nesneleri büyüklük-küçüklük oranına göre eşleştirmesi istenir. Burada temel amaç çocuğun nesneler arasında bağlantı kurabilmesini sağlamaktır.
 
-**Eşleme Ve Sınıflandırma Faaliyetlerinin Kazandırdıkları:**
+#### Eşleme Ve Sınıflandırma Faaliyetlerinin Kazandırdıkları:
 
   * Eşleme yolu ile nesnelerin, kavramların, renklerin aralarındaki bağlantıların kurulabilmesi.
   * Öğrenme ve hafıza geliştirme sürecinin hızlanması.

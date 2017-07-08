@@ -25,13 +25,15 @@ Otizmli çocuk için kaynaştırmanın bir diğer önemi ise yaşıtlarını izl
 
 
 
-**Kaynaştırmayı Başarılı Kılan Uygulamalar Nelerdir?**
+## Kaynaştırmayı Başarılı Kılan Uygulamalar Nelerdir?
 
 Kaynaştırma eğitiminin başarıyla verilebilmesi için en basit ve etkili yol gerekli hizmetlerin yerine getirilebilmesidir. Otizmli bir çocuğun kaynaştırma eğitiminde bu konuda eğitimli bir öğretmen anne baba etkileşimi düzeyli ve fiziksel olarak sağlıklı bir ortam sağlandığı takdirde çocuk gerekli kaynaştırma eğitimini rahatlıkla alabilmektedir.
 
 Kaynaştırma eğitimini geçişten önce otizmli kaynaştırma öğrencisine gerekli eğitim verilmiş olmalıdır. En iyi şekilde genel sınıfa katılımı sağlayabilmek için öncelikle bilgi ve eğitim seviyesinin azami ölçüde otizmli çocuğa verilmiş olması gerekmektedir. Bu sayede çocuğun eğitimi aksamadan devam ederken yeni edindiği arkadaşlarına alışma süreci de hızlanacaktır.
 
 Okula yeni başlayan kaynaştırma öğrencisinin ortama kendini yabancı hissetmemesi için bir velisi ona refakat etmelidir. Bunun dışında velisi olmadan sonraki günler sıklıkla ziyaret edeceği tuvalet, koridorlar, bahçe gibi çeşitli alanlar ona tanıtılarak rahat hissetmesi sağlanmalıdır. Böylece ailesi yanında olmadan bir birey olmanın ilk adımını atacak otizmli çocuk kendini kötü hissetmeden, terk edilme korkusu yaşamadan eğitim hayatına devam edebilecektir.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/games_child.jpg)
 
 Sınıftaki diğer çocukların kaynaştırma öğrencisine olan tutumlarının belirlenmesinde o çocukların ailelerine de büyük bir rol düşmektedir. Sınıftaki diğer çocukların anne babaları doğru bir şekilde bilgilendirilmiş çocuğa rol model olacak şekilde kaynaştırma öğrencisinin durumuna yaklaştıklarında çocukları durumun farkına varıp ona göre doğru bir tavır sergileyecektir.
 

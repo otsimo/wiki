@@ -5,7 +5,7 @@ category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Child", "Autism"]
 draft = false
 written_at = "2016-04-09"
 [params]

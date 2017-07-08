@@ -5,7 +5,7 @@ category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Spectrum"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -21,7 +21,7 @@ An individual with autism does not always show every symptom. However, there are
 
 Generally, autism shows itself in terms of 3 different states. The individual should show at least two of these indications under these categories. Social interaction problems, communication problems, limited and recurring behaviors are 3 main topics that make up the categories. Let's see which symptoms are listed under these topics:
 
-**Social Interaction Problems**
+## Social Interaction Problems
 
 The most attention-grabbing problem in social interaction problems is avoiding eye contact. The child either never makes eye contact or little eye contact and turns eyes away with the person. This situation may occur in many different types. For example, the child can suddenly make unexpected eye contact and then again suddenly drops the gaze. This is a behavior that can be seen as abnormal and a symptom of autism.
 
@@ -33,7 +33,9 @@ Children with autism struggle with communicating with their peers. They generall
 
 Most of the time, individuals with autism are unresponsive when someone calls their name or someone is interested in them. They may pretend to not hear even though their names are called. Things that attract other children do not attract them and they remain indifferent to the events happening in the environment.
 
-**Communication Problems**
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw.jpg)
+
+## Communication Problems
 
 Children with autism may have problems with speech phase. Their language development fall far behind from their peers'. When children reach two years of age and have not said any words, this should be seen as indication. Children older than 3 years old should normally be able to build two-word sentences easily. However, if the child does not do this, there is a problem.
 
@@ -45,7 +47,7 @@ Different from general conversation rules, individuals with autism develop their
 
 The games they pay are more weak and limited compared to what their peers play. For instance, they cannot play games that require imagination like playing house. Most of the time, they cannot figure out how to play with toys. They generally incline to hit the toy to a certain place or hit the toys with their hands.
 
-**Limited and Recurring Behavior**
+## Limited and Recurring Behavior
 
 Fields of interest of individuals with autism are substantially limited. On the other hand, they overreact to things they are interested in. It would only be possible to get their attention in such situation.
 

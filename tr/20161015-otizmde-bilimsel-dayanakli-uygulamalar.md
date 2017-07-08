@@ -19,12 +19,14 @@ Otizm, uzun bir tedavi ve terapi süreci gerektiren bir rahatsızlıktır. Temel
 
 Terapinin amacı otizm rahatsızlığını tamamen ortadan kaldırmak değildir. Otizmin günümüzde bilinen bir tedavisi bulunmamaktadır. Ancak terapi sayesinde bireylerin kendi başlarına gerçekleştiremedikleri aktiviteleri gerçekleştirmeleri, iletişim, konuşma, algılama ve düşünme gibi konulardaki sorunlarını çözmeleri sağlanabilir. Bununla birlikte otizmde uygulanan metodların birçoğu da tartışmalıdır. Bilimsel metotlar uygulamaya özen gösterilmesi son derece önemlidir.
 
-**Bilimsel Dayanağı Olmayan Uygulamalar**
+## Bilimsel Dayanağı Olmayan Uygulamalar
 
 Otizm terapisinde uygulanan birçok yöntem ilgili bilim kuruluşları tarafında onaylanmamış ya da verimli olduğu konusunda bir kanıt bulunamamıştır. Yunus terapisi, hippoterapi, sanat, müzik ve drama terapileri buna örnek gösterilebilir. Bu terapi yöntemlerinin yararlı olduğu görülen vakalar olsa da, otizm terapisinde genel olarak bir etki ettiklerine dair bilimsel bir kanıt bulunmamaktadır.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/read_book.jpg)
 
-**Bilimsel Uygulamalar**
+
+## Bilimsel Uygulamalar
 
 Amerika Birleşik Devletleri’nde bulunan National Autism Center (Ulusal Otizm Merkezi) geçtiğimiz yıllarda otizm ile ilgili uygulamaların bir çizelgesini çıkardı. 775 araştırma sonucunda varılan sonuçlara göre, otizm terapisinde uygulanan 11 yöntemin yeterli bilimsel dayanağa sahip olduğu, 22’sinin umut vaadettiği 5 yöntemin ise her türlü bilimsel dayanaktan yoksun olduğu tespit edildi.
 

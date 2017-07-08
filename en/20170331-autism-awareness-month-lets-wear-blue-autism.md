@@ -5,7 +5,7 @@ category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["autismspeaks", "Awareness"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -49,4 +49,4 @@ You can try and find local organizations that arrange celebrations and special e
 
 We also have created a website called [blueforautism.com](https://blueforautism.com/), on which you can get the basic knowledge on Autism Spectrum Disorder and you can share them with your social circle to create a wave of awareness. The purpose is to wear a blue shirt that represents autism, take a picture with a smile and share it on social media to spread hope and love. It is a simple, yet effective way.
 
-Source: [Man's blue sketches are raising awareness](https://www.autismspeaks.org/blog/2016/04/20/mans-blue-sketches-blue-characters-are-raising-autism-awareness)
+**Source:** [Man's blue sketches are raising awareness](https://www.autismspeaks.org/blog/2016/04/20/mans-blue-sketches-blue-characters-are-raising-autism-awareness)

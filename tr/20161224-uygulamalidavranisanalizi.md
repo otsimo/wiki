@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-07"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/uygulamalidavranisanalizi.jpeg"
+thumb ="https://s3-us-west-1.amazonaws.com/otsimo-en/img/uygulamalidavranisanalizi.jpeg"
 +++
 
 # Uygulamalı Davranış Analizi (UDA) Nedir
@@ -37,6 +37,8 @@ Verimli ve sonuç odaklı bir otizm tedavi süreci ve sürecin takip edilebilirl
 **6- Etkili Olmalı:** Varılan sonuç yeterince büyük bir etki yaratmıyorsa, o analiz başarısız olmuş anlamına gelmektedir.
 
 **7- Genellenebilir Olmalı:** Kullanılan metotlar çok daha değişik çevrelerde de işe yaramalı, birden çok davranış üzerinde de uygulanabilmeli ve uzun süreli etkileri olmalıdır.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw_autism.jpg)
 
 ##### Uygulamalı Davranış Analizi Sürecinde Nelere Dikkat Edilmelidir?
 

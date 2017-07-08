@@ -27,8 +27,10 @@ Korunmak, yemek ya da içmek ne kadar temel bir ihtiyaç ise iletişim de o kada
 
 **Otizm spektrum bozukluğu** yaşayan bireyler, iletişim kurma aşamasında diğer bireylerden daha büyük sorunlar ile karşılaşırlar. Nörolojik etkinlik farklılıklarından dolayı otizmli bireylerde, akranları ile etkileşim kurma yeteneği kendiliğinden gelişmez. Bu sebepledir ki otizmli çocuklar, yaşıtları ile iletişim geliştirmek için **özel eğitim programlarına**, uzmanlara ve sağlıklı koşullara ihtiyaç duyarlar. Aileleri, yakın çevreleri ve uzmanlar gözetiminde yönlendirme ve desteklenme sağlanarak bu bireylere toplum içerisinde nasıl yer alabilecekleri öğretilmelidir.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_toy.jpg)
 
-**Otizmli Çocuklar ve Oyun Arkadaşlığı**
+
+#### Otizmli Çocuklar ve Oyun Arkadaşlığı
 
 Otizmli bireylerin toplum ile etkileşimini teşvik etmek amacı ile başvurulan en güçlü yöntemlerden biri **oyun arkadaşlığı** uygulamasıdır. Birey, uzman ve yakınlarının gözetiminde, normal gelişim gösteren bir yaşıtı ile oyun oynamaya yönlendirilir. Önceden planlanan etkinlikler, uzman kontrolü ile beraber hayata geçirilir ve bireyin değişim süreci gözlemlenir. Bu uygulama ile otizmli birey iletişim yeteneğini geliştirirken bir yandan da uzmanlar için otizm sürecinin gözlemlenebileceği ve eksikliklerin fark edilebileceği bir ortam yaratılmış olunur.
 

@@ -5,7 +5,7 @@ category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Reinforcement", "Behavior"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -19,30 +19,32 @@ In order to decrease problematic behavior and, instead, implement positive behav
 
 However, finding the right reinforcer is crucial. Any stimulus that positively affects the child can be reinforcer. But rewarding your child with materials like toys, chocolate and candy or food would be harmful in the long term. To find the right reinforcer, behaviors, their reasons, and occurrence process should thoroughly be analyzed.
 
-###### Behavior Analysis Before Choosing Reinforcer
+### Behavior Analysis Before Choosing Reinforcer
 
 While analyzing problematic behaviors, antecedents of behavior, its reasons and factors that affect them should be taken into consideration. For this, [Applied Behavior Analysis (ABA)](/applied-behavior-analysis-aba-2/) should be utilized. The goal of this analysis is to collect data on problematic behavior of children, determine their antecedents, and work on to change those behaviors.
 
 
 There may be many reasons involved in problematic behavior. Some antecedents such as negativity in family environment, negative relations with family members, physical and cultural environment at school, negative or indifferent behavior of teacher, bad influence of mass media on children cause repetitive negative behavior happen. To choose a reinforcer, first the reason of behavior should be determined.
 
-######  What to Consider While Choosing Reinforcers?
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/create_child.jpg)
+
+### What to Consider While Choosing Reinforcers?
 
 **Reinforcement method** is pretty similar to reward-punishment practice. However, "punishment" here definitely does not indicate applications that make psychological or physical harm to the child. Although this type of application suppresses problematic behavior in the short term, it may cause the behavior to come back more severe and traumatic. Thus, while the teachers practice punishment, they should definitely not apply violence, practice anything physical or psychological that may frighten the children. Otherwise the child may have various traumas during his life time. Although this temporarily keeps down the problematic behavior, it will badly affect child's psychological development and prevent him from acquiring skills.
 
-###### Reward Could Be An Afficient Way Towards Reinforcement
+### Reward Could Be An Afficient Way Towards Reinforcement
 
 Reward-punishment system should be applied by finding a stimulus that motivates the child. When the child acts towards changing problematic behavior and shows positive behavior, any stimulus can be provided to reward him. Stimuli like chocolate, juice, candy can be used time to time, but they should not be used often. The punishment should be depriving the child of these stimuli.
 
 **Reinforcement system** is based on operant conditioning. The goal here is to condition the child positively and this way determine his behavior. Stimulus can be chosen by analyzing negative behavior of the child and determining its occurrence and antecedents. Selection of reinforcers should be carried out cautiously. In some cases, consulting to a pedagogue might be necessary.
 
-###### Reinforcer Types:
+## Reinforcer Types:
 
-**Primary Reinforcers:**
+### Primary Reinforcers:
 
 Vital needs are considered as primary reinforcers. Stimuli like temperature, sleep, air, water, food are primary reinforcers. These reinforcers should not be used unless necessary. As stated above, punishment should be the absence of positive stimuli. However depriving the child of his basic needs like water, food or sleep would have negative effects. Food like soda, chocolate, candy can be used as primary reinforcers. But these nutrition should be used carefully. For instance, in behavior-changing process they could be used in certain and important milestones, rather than on every positive practice. It is important to remember that over consumption of these materials might badly affect the child's health and may be addictive if used during the full process of behavior changing process.
 
-**Secondary Reinforcers:**
+### Secondary Reinforcers:
 
 Secondary reinforcers are reinforcers that have acquired their function as a reinforcer after pairing with a stimulus that functions as a reinforcer. The child, whose behavior are desired to be changed, is stimulated with not his basic needs, but with elements known as secondary needs. Secondary reinforcers are used to correct problematic behavior. Because these reinforcers are controllable, can be used on every age group and do not create satisfaction or dissatisfaction like primary reinforcers. There are four types of secondary reinforcers called social, objective, activity and symbol reinforcers.
 

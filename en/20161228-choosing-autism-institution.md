@@ -5,7 +5,7 @@ category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Education", "Autism"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -27,6 +27,8 @@ The fields that children are learning should be suitable to their mental abiliti
 Concretion is important while teaching children with autism. Autistic children struggle with concreting some abstract concepts, depending on their mental functioning levels. Thus, during the education process, concretion types should be used in the institution. Senses are important in learning with concretion. For this reason, creating a symbol for every activity will be beneficial for guiding the child to these activities. It is also important to use sensory materials in classes.
 
 A fine education institution should know social and mental capacity of every autistic child in their institution and provide special education accordingly. Which sense the child prefers while learning should be taken into consideration and every child should be treated depending on this. Children with autism may show problem behavior; making loud noises, constantly repeating a word or a move or showing little act of violence are pretty common. Public personnel should know how to deal these kinds of situations and have the knowledge to act towards removing the stress when children are under pressure.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_reading.jpg)
 
 It should be remembered that every child is different and each of their development should be under observation in the institution. Educational institutions can provide advanced level of education to children depending on this development. The educational method should be motivating for children. There is a motivation for every child that move them towards the wanted behavior; these motivations should be determined and when children show wanted behavior they should be rewarded.
 

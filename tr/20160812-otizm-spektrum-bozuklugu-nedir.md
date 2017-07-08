@@ -15,7 +15,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/spektrum_boz.jpg"
 
 # Otizm Spektrum Bozukluğu Nedir?
 
-**Otizm Spektrum Bozukluğu Nedir?**
+## Otizm Spektrum Bozukluğu Nedir?
 
 Otistik spektrum bozukluğu toplum içerisinde algılandığının aksine oldukça farklı bir tanıma sahiptir. Bu bozukluk aslında psikolojik durum spektrumu olarak değerlendirilebilir. Nöro gelişimsel bozukluk olarak da tanımı yapılabilen bu bozukluk doğuştan gelmektedir. Sosyal ilişkilerde ve iletişim kurmada sıkıntılar yaşanır. İlgi duyulan şeyler sınırlıdır ve bunun yanında kendini yineleyen davranışlarda ve hareketlerde bulunduğu görülür.
 
@@ -28,6 +28,8 @@ Asperger sendromu belirtileri sebebi ile otizme yakınlık göstermektedir. Otiz
 
 Otizm,  ailenin yanlış bir hareketinden veya davranışından kaynaklanmaz. Otizmli olmak da bir hastalık olarak nitelendirilmemelidir. Otizm bir farklılıktır. Dünya düzeni genel sağlıklı olarak kabul edilen insanların ihtiyaçlarına göre düzenlendiği için ufak bir fark ile otizme sahip olan bireyler hastalıklı olarak görülmemelidir.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_home.jpg)
+
 Otizmin neden kaynaklandığının tam olarak bilinmediğini dile getirmiştik. Buna sebep olan genler veya çevresel faktörler hala araştırma aşamasındadır. Otizmli bir bireyin kendisinden farklı olan bir toplum içerisinde yaşaması oldukça güç olmaktadır. Ancak bunun farklılığını ya da aynılığını yine çoğunlukta olan ve kromozom sayıları farklılık göstermeyen insanlar belirlemektedir.
 
 Bir bireyin otizmli olması için herhangi bir ırkta veya belli bir statüye sahip bir ailenin çocuğu olmasına gerek yoktur. Otizm dil, din, ırk, statü gözetmeksizin her bireyde ve her bireyin çocuğunda görülebilecek bir durumdur.
@@ -36,7 +38,7 @@ Tüm durumlar göz önüne alındığında otizm aslında bir bozukluk değil bi
 
 Sağlıklı olarak nitelendirdiğimiz insanların çoğuna baktığımızda herkesin farklı kişiliklere sahip olduğunu görürüz. Kimisi utangaç, kimisi dışa dönüktür. Ancak normal göründükleri için bu kişileri yargılamayız. Otizme sahip olan bireyler davranışlarındaki belirgin durumlar sebebi ile dikkat çekmeye çok daha meyillidirler. Bunu kısmen bir kişilik olarak görmeye çalışmak otizmli bireyler için de otizm sahibi olmayan insanlar için de çok daha kolay olacaktır. Farklı bir genetikle doğmuş bu özel insanların da yaşamaya hakkı olduğunun bilincinde olarak toplum yapısını sağlamak için otizmli bireylere nasıl davranılması gerektiğini öğrenmek gerçekten çok önemlidir.
 
-Kaynaklar:
+**Kaynaklar:**
 
 [www.akilotesi.com](http://www.akilotesi.com)
 

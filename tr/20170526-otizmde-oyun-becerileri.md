@@ -30,6 +30,8 @@ Nörolojik bir farklılık olan otizm spektrum bozukluğu, otizmli bireylerde to
 
 Tüm bu farklılıklardan ötürü uzmanlar otizmli bireyler ile oyun etkinlikleri programlarken hassas davranmak mecburiyetindedir. Kişilerin otizm etkisinden kaynaklanan kişisel özellikleri ile beraber, karakterlerinden kaynaklanan tercih ve çekinceleri de hesaba katılmalıdır. Otizmli çocukların her birine özgü ayrı oyun ve iletişim uygulamaları tasarlanmalıdır. İletişim ve oyun becerilerinin gelişim hızının bütün çocuklarda farklılık gösterdiği unutulmamalıdır.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/mini_toys.jpg)
+
 ##### Oyun Becerİlerİ Çocuğu Nasıl Etkİler
 
 Oyunlar eğitim sürecine istekliliğin arttırılması, motor becerilerin geliştirilmesi, yeni becerilerin öğrenilmesi ve iletişim yeteneğinin kuvvetlendirilmesi için önemli olanaklar sağlamaktadır. Oyun süresince çocuklar hem kas hem de zihinsel becerilerini geliştirme fırsatı yakalarlar.

@@ -16,16 +16,18 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/kaynastirma-uygulamala
 
 # Kaynaştırma Uygulamalarının Otizmlilerde Doğurduğu Sonuçlar
 
-****Kaynaştırma, gerekli sosyal ve akademik şartları karşılayan otizmli öğrencilerin, otizmli olmayan öğrenciler ile birlikte eğitim-öğretim hayatlarına devam etmelerini sağlayan eğitim modelidir. Kaynaştırma uygulamalarının en büyük amacı otizmli bireyleri olabildiğince toplumdan ayırmamak ve onlarında topluma fayda sağlayabilen sosyal açıdan sağlıklı bireyler haline getirmektir.
+Kaynaştırma, gerekli sosyal ve akademik şartları karşılayan otizmli öğrencilerin, otizmli olmayan öğrenciler ile birlikte eğitim-öğretim hayatlarına devam etmelerini sağlayan eğitim modelidir. Kaynaştırma uygulamalarının en büyük amacı otizmli bireyleri olabildiğince toplumdan ayırmamak ve onlarında topluma fayda sağlayabilen sosyal açıdan sağlıklı bireyler haline getirmektir.
 
 Otizmli çocuklar, öncelikle Otizmli Çocukları Eğitim Merkezleri’nde eğitim hayatlarına başlarlar bu merkezlerde gösterdikleri sosyal gelişimleri ve akademik başarıları takip altına alınır. Sosyal ve akademik gelişimi belli bir noktaya ulaşan çocuklar için bir rapor doldurulur ve bu rapor yetkili kurum tarafından onaylandığı takdirde çocuk en yakın kaynaştırma sınıfına transfer edilir.
 
 Geçmişten bugüne yapılan kaynaştırma çalışmaları sonucu pek çok otizmli öğrencide sosyal ve akademik açıdan gelişmeler gözlemlenmiştir. Aileler, kaynaştırmanın ardından çocuklarının davranış biçimlerinin pozitif yönde ilerlediğini, problemli davranışlarının ise gerilediğini ifade etmektedir. Öte yandan kaynaştırma sınıflarında bulunan otizmli olmayan öğrencilerin hiçbir şekilde bu durumdan olumsuz etkilenmediği de kanıtlanmıştır.
 
-
 Okul öncesi eğitimde başlanılan kaynaştırma çalışmalarında, pek çok kez çocukların, otizmli çocuklarla arkadaş olmaya çalıştığı ve teneffüslerde birlikte oyun oynadıkları görülmüştür. Dışlanmayan otizmli çocuklar diğer okul arkadaşlarını model alarak sosyal becerilerini geliştirmişlerdir.
 
 Kaynaştırma uygulamalarının otizmli çocuklara sağladığı faydaların yanında, uygulamaların toplum tarafından da benimsenip desteklenmesi de büyük ilerlemeler kaydedilmesine sebep olmuştur. Otizmli çocuklar kaynaştırma sınıflarında, erken yaşta uyum sağlamayı öğrenirler bu da, ileriki yaşamlarında ve hatta iş hayatlarında daha başarılı olmalarını sağlar.
+
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/happy_child.jpg)
 
 Kaynaştırma uygulamalarının en iyi yanlarından bir tanesi de çocukların iletişim becerilini geliştirmesidir. Otizmli çocuklar kendi özgün iletişim yollarını, diğer çocukların iletişim şekilleri ile birleştirerek giderek daha da iyi iletişim kurmaya başlarlar. Kaynaştırma sınıfında bulunan diğer çocuklarda öncesinde gerekli eğitim verildiği için otizmli arkadaşlarıyla nasıl iletişim kurması gerektiğini bilirler. İletişim sürecindeki bu uyum, otizmli çocukların sorunsuz bir sosyal birey olmasının önünü açar.
 

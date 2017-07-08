@@ -16,7 +16,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/egitim-uygulamalari.jp
 
 # Otizmli Anne Ve Babalara Öneriler
 
-****Sağlıklı bir çocuk yetiştirmek, her anne ve babanın en çok istediği şeydir. Bebek doğduktan sonra fiziksel rahatsızlığı olmayabilir fakat ilerleyen zamanlarda zihinsel problemler görülebilir. Bu problemlerden biri de otizmdir. Aileler, çocuklarındaki otizm belirtilerini genelde ilk 3 yaş içerisinde görür ve en çok başvuru bu dönemde olur. Ailelerin ilk karşılaştığı problemler, çocuklarının seslenince tepkisiz kalması, geç cevap vermesi ve sosyal olarak etkileşimde bulunmada güçlük çekmesi gibi belirtilerdir.
+Sağlıklı bir çocuk yetiştirmek, her anne ve babanın en çok istediği şeydir. Bebek doğduktan sonra fiziksel rahatsızlığı olmayabilir fakat ilerleyen zamanlarda zihinsel problemler görülebilir. Bu problemlerden biri de otizmdir. Aileler, çocuklarındaki otizm belirtilerini genelde ilk 3 yaş içerisinde görür ve en çok başvuru bu dönemde olur. Ailelerin ilk karşılaştığı problemler, çocuklarının seslenince tepkisiz kalması, geç cevap vermesi ve sosyal olarak etkileşimde bulunmada güçlük çekmesi gibi belirtilerdir.
 
 Eğer çocuk ilk 6 ayını doldurmuşsa ve sosyal olarak gülümsemiyorsa, ilk 9 ayından sonra ses ve yüz ifadeleri pek yoksa, 1 yaşını doldurduğunda belirli sesler çıkartmıyorsa ya da işaret etmeden yoksunsa, ilk 16 ayını doldurmasına rağmen hiçbir sözcüğü seslendirmemişse, 2 yaşını doldurduğu halde sözcükleri birleştiremiyorsa ya da çocuğun erişilmiş gelişiminde gerileme gözlemleniyorsa, çocuk üzerinde ileri inceleme yapılması gerekir.
 
@@ -24,6 +24,7 @@ Otizmli çocukların en temel özellikleri pasif olmalarıdır, daha çok kendi 
 
 Çocukta gözlemlenen otizm ağırlaşıyorsa, bu durum klinik tablolarda gözlemlenebilir. Bazı otistik çocuklar, sosyal çevrelerine adapte olmada sorun yaşasalar da ileri zeka belirtileri gösterebilir ve akademik hayatları çok başarılı geçebilir. Bu bireyler erişkin olduklarında zihinsel becerileri sayesinde kendi başlarının çaresine de bakabilirler. Hatta bazı vakalarda gözlemlenen zeka ortalamanın çok üstünde olma durumu gözlemlenebilir ve bu zekasal işlevsellik ile bilim veya sanat üzerine çok büyük başarılar elde edebilirler. Buna karşın, bazı otistik çocukların zekasal işlevselliği düşük olabilir, bu gibi vakalarda 6 yaşına kadar konuşma gelişimi gerçekleşmemişse zekada gerilik teşhisi konulur.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_with_bear.jpg)
 
 Otizme neyin sebep olduğu hala tam olarak bilinmemektedir, fakat merkezi sinir siteminden kaynaklanan işlevsel ve yapısal bozuklukların otizme yol açtığı uzmanlarca ileri sürülmekte. Anne ve Babanın davranışlarının çocukta otizme yol açtığı, yağın ama çok yanlış bir düşüncedir, Otizm doğuştan gelir.
 

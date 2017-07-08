@@ -5,7 +5,7 @@ category = "Education"
 language = "en"
 author = "deniz"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Students", "Autism"]
 draft = false
 written_at = "2016-04-09"
 [params]

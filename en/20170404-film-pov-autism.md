@@ -5,7 +5,7 @@ category = "Video"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["film", "pov", "autism"]
 draft = false
 written_at = "2016-04-09"
 [params]
