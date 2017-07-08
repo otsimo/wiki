@@ -5,7 +5,7 @@ category = "Games"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["High-Tech", "AAC"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -26,6 +26,8 @@ Some researchers suggest that since AAC focuses on encouraging and providing com
 
 It is supported by a research (Koppenhaver, Coleman, Kalman, Yoder, 1991) that AAC also has a positive outcome in terms of language development and literacy, as it supports self-expression in social situations. Children with autism need help with developmental skills such as vocabulary, the length of sentence, syntax and pragmatic skills. AAC can be used as a guideline in this process.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/use_tablet.jpg)
+
 ###### Personalized
 
 Besides from promoting and increasing speech development, there are other main benefits in terms of use of the actual device. High-tech devices can be personalized. They are very diverse to adjust to the needs of the individual. They can be used by both individuals with communication difficulties and also by the teams of specialists and parents.
@@ -40,4 +42,4 @@ To conclude, it is safe to say that high-tech AAC devices and systems (applicati
 
 Check out [our app Otsimo](https://itunes.apple.com/tr/app/otsimo-child-autism-education-games-with-aac/id1211197404?mt=8) to get a hold of AAC to help your child’s communication development through carefully developed symbol and auditory aids.
 
-Sources: [Jitte, Küçüközyiğit, Şafak 2015](http://www.jitte.org/article/view/1092000068/1092000052) [Randy Nicholas](http://randynicholas.over-blog.com/article-benefits-augmentative-alternative-communication-86065218.html) [Autism Speaks](https://www.autismspeaks.org/sites/default/files/augmentative_alternative_communication_webinar.pdf)
+**Sources:** [Jitte, Küçüközyiğit, Şafak 2015](http://www.jitte.org/article/view/1092000068/1092000052) [Randy Nicholas](http://randynicholas.over-blog.com/article-benefits-augmentative-alternative-communication-86065218.html) [Autism Speaks](https://www.autismspeaks.org/sites/default/files/augmentative_alternative_communication_webinar.pdf)

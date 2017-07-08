@@ -5,7 +5,7 @@ category = "Education"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["IEP", "Tips"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -31,6 +31,8 @@ If you have a report or progress card in your hand, or you visited a doctor rece
 ###### 3\. Do your homework
 
 You have the right to receive a copy of the assessment results and the IEP with the goals to review ahead of time. This way, if you have any questions about what is proposed, you can write them down and present them in the meeting without wasting time.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/notebook_toys.jpg)
 
 ###### 4\. Record the meeting
 

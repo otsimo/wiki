@@ -5,7 +5,7 @@ category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["IEP", "Team"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -24,6 +24,8 @@ During this meeting, you and the team will have the chance give input on how the
 
 
 Every IEP meeting should include certain key points. First of all, the team leader will write a statement on your child’s PLOP (present level of performance). These will be based on the test scores and observations obtained from the team members. Second of all, IEP team will review child’s annual goal progress. Depending on the progress, you will develop new specific, measurable and realistic goals for the next year. You will also look into how the individualized services are working.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/ideas_autism.jpg)
 
 ###### What else?
 

@@ -39,7 +39,7 @@ There are many therapy methods for individuals with autism. Sensory and auditory
 
 To determine a therapy method, it is necessary to build a profile of the individual with autism and to pick the most suitable treatment. For example, individuals with contemplating and interpreting problems and communication disorder may benefit from drama therapy. Music therapy, on the other hand, is suitable for people who have auditory disorder and have problem making sense from what they hear. To pick a suitable method, the profile of the individual should be built meticulously.
 
-Sources:
+**Sources:**
 - Nergis Çanak, Otizmli Çocukların Resimlerinin İncelenmesi, Trakya Üniversitesi Yayınları, 2008
 - Dr.Şahin Bodur, Dr.Şebnem Soysal, Otizmin Erken Tanısı ve Önemi, Türk Tabipler Birliği Dergisi, 2004
 - Gül Sultan Özeren, Otizm Spektrum Bozukluğu ve Hastalığa Kanıt Penceresinden Bakış, Acıbadem Üniversitesi Sağlık Bilimleri Dergisi, Sayı 2, 2013
