@@ -1,11 +1,11 @@
 +++
 slug = "who-diagnoses-autism-and-when"
 title = "Who Diagnoses Autism and When?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Neurologists"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -26,6 +26,8 @@ The child can be diagnosed with autism around 12 months of age. Diagnosis at ear
 In Turkey, child mental health experts and neurologists can diagnose autism in children. Child mental health experts evaluate mental health of the child. They observe certain behavior of the child and interview the parents. It is of importance to correctly evaluate the child in line with autism diagnosis. Medical examination is also carried out by this expert. They can recommend medical examination or pharmacotherapy if necessary. However, this treatment is not autism treatment. There is no cure for autism found to this date. Medication help balance out some extreme behavior of the child. They also can be used as a support in child's education.
 
 Although individuals with autism are thought to have limited learning capacity, they can show high levels of development. Going to doctor check-ups once or twice a year is necessary to observe this and determine if there should be a change in this developmental process.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/ideas_autism.jpg)
 
 Child neurologists can be seen to examine brain vessels and neurons and autism diagnosis. Some children with autism may have seizures. However, it is a rare occasion. Some disorders that are not thought the child has due to autism may be determined by neurologists with tests. These kinds of tests are not essential except the doctor sees fit. Unnecessary tests would tire both the children and their parents.
 

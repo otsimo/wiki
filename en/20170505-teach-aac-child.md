@@ -1,11 +1,11 @@
 +++
 slug = "teach-aac-child"
 title = "How to Effectively Teach AAC to Your Child?"
-category = "Oyunlar"
+category = "Games"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Teach", "AAC"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -37,6 +37,8 @@ Use the device as much as possible in natural, real situations. For example, if 
 ###### Be prompt, appropriate and consistent
 
 It is important that you continue the communication line coming from your child. You should respond to your child immediately with what he/she requests. The child needs to understand that certain actions through AAC will be leading to certain consequences. In order for the child to understand how to request or say something to get another thing, these responses you give must be consistent.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/use_tablet.jpg)
 
 ###### AAC device should always be around
 

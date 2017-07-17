@@ -1,11 +1,11 @@
 +++
 slug = "autism-legal"
 title = "Legal Education Rights of Children with Autism in the USA"
-category = "Oyunlar"
+category = "Legal"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Legal", "Rights"]
 draft = false
 written_at = "2016-04-09"
 [params]

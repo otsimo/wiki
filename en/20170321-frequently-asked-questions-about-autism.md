@@ -1,16 +1,16 @@
 +++
 slug = "frequently-asked-questions-about-autism"
 title = "Frequently Asked Questions About Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["FAQ", "Questions"]
 draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-05"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/frequently-asked.png"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/ideas_autism.jpg"
 +++
 
 

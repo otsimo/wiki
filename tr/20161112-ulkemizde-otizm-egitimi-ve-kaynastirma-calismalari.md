@@ -1,7 +1,7 @@
 +++
 slug = "ulkemizde-otizm-egitimi-ve-kaynastirma-calismalari"
 title = "Ülkemizde Otizm Eğitimi Ve Kaynaştırma Çalışmaları"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60
@@ -29,7 +29,9 @@ Otizm eğitiminde kaynaştırma çalışmalarının alındığı okulda, okul pe
 
 Eğitim-öğretim sürecinde bulunan tüm yöntemler, mekanlar, kullanılan materyaller çocuğu merkez alarak kullanılır. Ayrıca süreç boyunca uygulanan tüm stratejiler çocuğun bireysel özelliklerine uygun hazırlanır. Otizmli çocukların iletişim becerilerini geliştirmek ve çok yönlü hale getirme adına, resim işaret ve benzeri yollarla iletişim kurma becerileri kazandırılır.
 
-**Eğitim-öğretim** süreci boyunca otizmli çocuklar üzerinde yapılan tanılama işlemleri de büyük önem taşımaktadır. Eğitsel tanılamanın yanında, tıbbi tanılama işlemleri, çocuk-ergen ruh sağlığı ve hastalıkları kliniği bulunan hastanelerde uzman doktorlar tarafından gerçekleştirilir. Otizmli çocukların eğitsel tanıları yapıldıktan sonra bu tanıya göre çocuklar yönlendirilir ve gerekli yerlere yerleştirilerek eğitim hayatlarına daha verimli bir şekilde devam ederler.
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/board.jpg)
+
+Eğitim-öğretim süreci boyunca otizmli çocuklar üzerinde yapılan tanılama işlemleri de büyük önem taşımaktadır. Eğitsel tanılamanın yanında, tıbbi tanılama işlemleri, çocuk-ergen ruh sağlığı ve hastalıkları kliniği bulunan hastanelerde uzman doktorlar tarafından gerçekleştirilir. Otizmli çocukların eğitsel tanıları yapıldıktan sonra bu tanıya göre çocuklar yönlendirilir ve gerekli yerlere yerleştirilerek eğitim hayatlarına daha verimli bir şekilde devam ederler.
 
 Eğer çocuk, bağımsız bir OÇEM’de(Otizmli Çocukları Eğitim Merkezi)* eğitim-öğretim görüyorsa ve eğitsel performansı kaynaştırma düzeyine gelmişse, ilköğretime geçişi için bir değerlendirme raporu hazırlanır. Bu rapor, Eğitsel tanılama, İzleme ve Değerlendirme ekibince tekrar gözden geçirilir. Bunun sonucunda, otizmli çocuğun kaynaştırma eğitiminden yararlanmasının uygun olduğu kararı çıkarsa, en yakın ilköğretim okulunda yarı zamanlı kaynaştırma eğitiminden yararlanması için gerekli işlemler başlatılır.
 

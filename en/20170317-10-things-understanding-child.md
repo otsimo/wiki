@@ -1,11 +1,11 @@
 +++
 slug = "10-things-understanding-child"
 title = "10 Things You Should Know to Understand Your Child With Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Child", "Autism"]
 draft = false
 written_at = "2016-04-09"
 [params]

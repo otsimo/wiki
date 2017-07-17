@@ -1,11 +1,11 @@
 +++
 slug = "assets-strengths-may-accompany-autism"
 title = "Strengths that Come with Autism and Why You Should Care"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Strengths", "Challenges"]
 draft = false
 written_at = "2016-04-09"
 [params]

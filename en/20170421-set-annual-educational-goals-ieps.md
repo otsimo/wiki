@@ -1,11 +1,11 @@
 +++
 slug = "set-annual-educational-goals-ieps"
 title = "How to Set Annual Educational Goals in IEPs"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Annual", "Education", "Goals"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -29,6 +29,8 @@ First of all, before setting a goal, you should figure out what your child is do
 It is important to make goals that are specific, realistic and measurable because the team will have a better chance afterward to measure the progress of the child.
 
 Each goal should be specific enough to name the skill or subject it is aimed. The goals should also be measurable; they should be stated in a way that the progress of the child can be measured with standardized tests and curriculum-based measurements (CBM) afterward. Furthermore, the goal you are setting should be realistic enough to be attainable. Determining an unrealistic goal would have negative effects on the progress.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/tablet.jpg)
 
 Besides from these points, the team should also list goals that can be achieved by the child in a certain amount of time. This is generally a school year long, with the right support and services. To give an example, a goal should never be a vague statement like “X will improve reading skills.”. This statement lacks specification and measurement. It should be more like [“X will be able to read a passage orally at 110-130 word per minute with random errors when given a second-grade book by the end of the school year.”](https://www.understood.org/en/school-learning/special-services/ieps/understanding-individualized-education-programs#item1)
 

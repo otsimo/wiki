@@ -1,11 +1,11 @@
 +++
 slug = "teaching-plan-choosing-target-behavior"
 title = "Teaching Plan for Choosing Target Behavior"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -29,11 +29,13 @@ Applied Behavior Analysis (ABA) is the most frequently used method used in obser
   * **Defining Behavioral Objectives: **Target behaviors that would potentially replace the negative behaviors are determined at this stage. It is of great importance that the target behavior is "interpretable". Teacher should try to bring in practice that can be measured with concrete data, rather than develop behavior that is created with subjective decisions. For instance, if the child is neglecting his homework in any lesson, the target behavior should be to have him do his homework regularly.
   * **Preparing and Applying Program:** Applying the determined target behavior matures at this stage. A program is created for the child to firstly acquire the new behavior. The child, who exhibits problem behavior, is encouraged with positive stimuli to participate in the program. Data that were collected first hand are reviewed and an environment free of all antecedents and stimuli that cause problem behavior is chosen. Then a new program is prepared and applied for acquisition of the new behavior. Reinforcers, aids, hints and reward-punishment system are used during this period.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/pencil_drawing.jpg)
+
 ###### What to Consider in Target Behavior Practice
 
 Choosing the right target behavior is crucial. As stated before, if teachers determine target behavior in a way that is not objective and emotionally motivated will badly affect the program. This said target should be a practice to change the negative behavior of the student, concrete, understandable and measurable. Thus, observation stage of Applied Behavior Analysis should be carefully carried out.
 
-[Reinforcing and acquisition](/efficient-reinforcement-systems/) of the behavior stages should also be monitored closely. Teacher should psychologically and physically motivate the student. Punishment should extend to frighten the student. When the child shows positive behavior, a positive stimulus to like can be presented and when he does not show progress, he can be deprived from this stimulus. A punishment exceeding this will badly affect the student.
+Reinforcing and acquisition of the behavior stages should also be monitored closely. Teacher should psychologically and physically motivate the student. Punishment should extend to frighten the student. When the child shows positive behavior, a positive stimulus to like can be presented and when he does not show progress, he can be deprived from this stimulus. A punishment exceeding this will badly affect the student.
 
 **Sources:**
 

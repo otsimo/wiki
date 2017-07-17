@@ -1,11 +1,11 @@
 +++
 slug = "importance-imitation-skills-autism"
 title = "Importance of Imitation Skills in Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Spectrum"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -21,7 +21,7 @@ Role modeling and imitation are important elements to learning processes of chil
 
 
 
-**Categorizing Imitation Skills**
+## Categorizing Imitation Skills
 
 Imitation skills are categorized depending on wanted skill and behavior. For this purpose, first the skills that the child needs to acquire should be determined. Many children with autism have speech disorders, for instance. They are not able to acquire speech practice by themselves. Sound imitation method should be used on these children.
 
@@ -44,17 +44,19 @@ Imitation skills are categorized as follows.
   * Rational Imitation
   * Cognitive Imitation
 
-**Importance of Acquiring Imitation Skills**
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/game_train.jpg)
+
+## Importance of Acquiring Imitation Skills
 
 Operant conditioning has an essential place in education and rehabilitation process of individuals with autism. Rehabilitations in this principle enable the child to be positively motivated and the learning process to accelerate. This principle is also important in imitation skills. When the child completes an action that he is wanted to imitate he is rewarded, and when he does not, his behavior is corrected.
 
 As stated, children with autism do not have normal educational activities. It may not be possible for them to learn certain functions, behavioral patterns, language and information by themselves. Thus, they need to have a role model. This is the purpose of imitation skills. Children are presented with a role model and this way they acquire certain functions and skills.
 
-  * **Social Function of Imitation**
+  * ### Social Function of Imitation
 
 Imitation is an essential for every child's learning process. It also enables socializing besides learning language and certain behaviors and functions. Imitating behaviors of parents and reactions of parents towards them are infants' first social experiences. This is how they build relations with others in the first place. Imitation in education of children with autism functions like that. Imitation does not only accelerates the learning process. It also enables a social relation with therapist and contributes to socialize. In group imitation sessions, social development of children should be efficiently handled. Individuals that are rehabilitated through imitation skills are known to develop communication skills.
 
-  * **Learning Function of Imitation**
+  * ### Learning Function of Imitation
 
 Imitation is an efficient way of learning. Not only in childhood, it is also an effective method to acquire various skills in adulthood. Children with autism can acquire their behaviors by imitating their role models. When imitations become constant, language and motor skills will be permanent. Also, it would be much more easier for children that learn by imitation to discover the world.
 

@@ -1,7 +1,7 @@
 +++
 slug = "kurum-seciminde-dikkat-edilmesi-gereken-noktalar"
 title = "Kurum Seçiminde Dikkat Edilmesi Gereken Noktalar"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryalı"
 weight = 60
@@ -22,9 +22,9 @@ Otizmli çocukların topluma geri kazandırılması için seçilen eğitim kurum
 
 #### NEDEN KURUM SEÇİMİNDE DİKKATLİ DAVRANILMALIDIR?
 
-**Otizmli çocukların** eğitimi özel olduğundan, seçilecek eğitim kurumunun çalışanlarının otizmli çocukları eğitme konusunda gerekli eğitimleri almış olması gereklidir. İyi eğitim kurumlarında çocuk ruh sağlığından anlayan uzmanlar bulunur. Her otizmli çocuk sosyal ve zihinsel becerilerine göre ayrı öğrenme yetenekleri göstermektedir. Kurumun, bu farkları göz önünde bulundurarak eğitim vermesi gerekir. Kurumlarda çocukların eğitim aldığı alanların, çocukların zihinsel becerilerine uygun olması gerekmektedir. Otistik çocukların dikkati çabuk dağıldığı için bu durumun önüne geçebilecek şekilde tasarlanmış sınıflar olmalıdır. Ayrıca sınıfların oturma düzeni de çocukları rahat ettirecek şekilde olmalıdır. Otizmli çocuklar sıkışık ortamlardan hoşlanmazlar, öte yandan çocukların sosyal gelişimi için de çocukların birbirinden çok da fazla [kopuk olmamaları](/tr/kaynastirma-uygulamalarinin-otizmlilerde-dogurdugu-sonuclar/) gerekir.
+**Otizmli çocukların** eğitimi özel olduğundan, seçilecek eğitim kurumunun çalışanlarının otizmli çocukları eğitme konusunda gerekli eğitimleri almış olması gereklidir. İyi eğitim kurumlarında çocuk ruh sağlığından anlayan uzmanlar bulunur. Her otizmli çocuk sosyal ve zihinsel becerilerine göre ayrı öğrenme yetenekleri göstermektedir. Kurumun, bu farkları göz önünde bulundurarak eğitim vermesi gerekir. Kurumlarda çocukların eğitim aldığı alanların, çocukların zihinsel becerilerine uygun olması gerekmektedir. Otistik çocukların dikkati çabuk dağıldığı için bu durumun önüne geçebilecek şekilde tasarlanmış sınıflar olmalıdır. Ayrıca sınıfların oturma düzeni de çocukları rahat ettirecek şekilde olmalıdır. Otizmli çocuklar sıkışık ortamlardan hoşlanmazlar, öte yandan çocukların sosyal gelişimi için de çocukların birbirinden çok da fazla kopuk olmamaları gerekir.
 
-
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw.jpg)
 
 Otizmli çocuklara bir şeyler öğretilirken somutlaştırma çok önemlidir. Otizmli çocuklar zihinsel işlevselliklerinin seviyelerine göre bazı soyut kavramları somutlaştırmakta zorlanırlar. Bu sebeple kurum içerisindeki eğitim süresince, bu somutlaştırma şekillerinden faydalanılmalıdır. Somutlaştırarak öğretmede duyular büyük önem taşır. Bu sebeple yapılan her faaliyeti belirten semboller yaratmak, çocukları bu faaliyetlere yönlendirmede büyük ölçüde fayda sağlar. Eğitim sınıflarında duyusal materyallerin kullanılması da çok önemlidir.
 

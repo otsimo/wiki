@@ -1,11 +1,11 @@
 +++
 slug = "help-nonverbal-child-speak"
 title = "How to Help Your Nonverbal Child with Autism Speak"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["parents", "speak", "autism"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -37,6 +37,8 @@ You can mimic your child’s behaviors to encourage them be more vocal and inter
 ###### 4\. Use simple language
 
 By simplifying the language you use, you help your child to follow and understand what you are saying more easily. It also helps him/her to imitate the _speech. _If your child is nonverbal, you can try by starting to use only single words. For instance, you can point to the toy and say “toy” or “play”. If he/she is getting used to speaking and can use single words, up one more word and start speaking in small phrases, like “take toy” or “play ball”. Just keep this going by using one more word that your child uses.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_parents.jpg)
 
 ###### 5\. Utilize nonverbal communication
 

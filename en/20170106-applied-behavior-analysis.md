@@ -1,11 +1,11 @@
 +++
 slug = "applied-behavior-analysis"
 title = "Why Applied Behavior Analysis (ABA)?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -21,7 +21,7 @@ ABA, which has been proposed by an American research group in 1960s, developed g
 
  
 
-###### ABA affects individuals' lives on so many levels
+#### ABA affects individuals' lives on so many levels
 
 In these studies that are conducted on a wide age range from preschoolers to adults, **ABA techniques** provide significant progress in communication, social relations, games, personal care, school and even finding a suitable job for oneself. Separate studies on every age range proved that thanks to ABA, participation in the family increased and communication activities were developed.
 
@@ -29,17 +29,19 @@ It is possible to see in these study results that many children with autism that
 
 Lastly, in the light of these study results, it is possible to say that there is a major difference in terms of progress between children who got applied behavior analysis and children who practiced special education programs. It is observed that a child suffering from autism that practices an efficient ABA program made much more progress than a child who practices special education program. Besides that, the stress that parents of ABA-children have seems to be less than the other ones.
 
-**ABA does not only teach the child**
+#### ABA does not only teach the child
 
 The answer to "why should I prefer applied behavior analysis over other special education programs?" will definitely be "because ABA teaches how to teach your child". ABA, also known as "**Science of Good Teaching**", [studies ](https://www.autismspeaks.org/sites/default/files/docs/es_chapter_7.pdf)on right behavior of people and uses the results to provide a much better life for children with autism. With new techniques and advancements discovered every day for 50 years, life is made easier for many children with autism and their parents.
 
 The concept of ABA is simple; systematically break learning into small pieces and teach the child piece by piece. The child, who is taught how to learn, will gain a new skill every day.
 
-###### So how does ABA work?
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/board.jpg)
+
+#### So how does ABA work?
 
 When a child needs to show a new behavior, it is necessary to prepare a suitable environment for the child to perform this act easily. Once the child exhibits the behavior, by [reinforcing with positive rewards](/efficient-reinforcement-systems/) he should be further encouraged. The child learns more efficient ways to get what he wants and the parents are happier with their child that exhibits socially appropriate behavior and has developed communication skills. Thus, ABA is win for everyone.
 
-###### Parents Can Learn ABA Systems
+#### Parents Can Learn ABA Systems
 
 Although it seems complicated, many procedural advices in ABA can be applied by people that are not professionals. You can learn how to easily practice this plan on your child if you stick with the professionally developed plan. Any skill can be taught in a breeze with ABA. The important issue here is to learn the best strategy for the skill you would like to teach. Thanks to 50 years of scientific researches, these methods are open to everyone without the fear of trial and error.
 

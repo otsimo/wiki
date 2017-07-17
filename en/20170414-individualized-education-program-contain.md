@@ -1,11 +1,11 @@
 +++
 slug = "individualized-education-program-contain"
 title = "What Individualized Education Program Must Contain According to Law"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Individualized", "education", "law"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -45,6 +45,8 @@ Annual educational goals should help the child participate in the classroom. So,
 
 The IEP should contain an explanation on how the school will track the child’s progress in terms of the goals set. Also, it will also describe how the school will share the results with you. If your child has the goal of being able to read at third-grade level, the IEP will specify how the process will be tracked (i.e. informal/formal assessment) and how often the results will be reported to you. This way, you can act on the results and make changes to the IEP if you see that your child’s progress has slowed down.
 
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/board.jpg)
+
 ###### Least Restrictive Environment (LRE)
 
 This means that a student with a disability should have access education with their peers to the greatest extent. They should have access to general education curriculum or program that non-disabled peers would be able to access. It is required by law that the IEP includes an explanation on how the child will participate in general education classes and extracurricular activities.
@@ -57,4 +59,4 @@ Many states have formal timelines as to when the IEP will go into effect.
 
 A transition plan will prepare the teenager for life after high school. This plan should include what services and support the student will need to graduate from high school and achieve goals after graduating.
 
-Sources: [Wikipedia](https://en.wikipedia.org/wiki/Least_restrictive_environment) [Ohio DoE](https://www.youtube.com/watch?v=UYlktSTIlQY) [Understood.org](https://www.understood.org/en/school-learning/special-services/ieps/understanding-individualized-education-programs#item1) [SpecialNeeds](http://www.specialneeds.com/legal-and-trustees/autism/iep-goals-children-autism)
+**Sources:** [Wikipedia](https://en.wikipedia.org/wiki/Least_restrictive_environment) [Ohio DoE](https://www.youtube.com/watch?v=UYlktSTIlQY) [Understood.org](https://www.understood.org/en/school-learning/special-services/ieps/understanding-individualized-education-programs#item1) [SpecialNeeds](http://www.specialneeds.com/legal-and-trustees/autism/iep-goals-children-autism)

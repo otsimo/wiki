@@ -1,11 +1,11 @@
 +++
 slug = "applied-behavior-analysis-aba"
 title = "What is Applied Behavior Analysis (ABA)"
-category = "Oyunlar"
+category = "Games"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -18,21 +18,30 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/analysis-aba.jpeg"
 Applied behavior analysis is a discipline that aims to change behavior that is socially important by applying it systematically. The most important element behaviorists point out is that it is necessary to observe behavior not in social environment, but in natural environment. Thus, behavior analysis focuses on the _observable_ relation between behavior and the environment.
 
 
-**Seven Dimensions of Applied Behavior Analysis:**
+## Seven Dimensions of Applied Behavior Analysis:
 
-**1- Applied:** Applied behavior analysis focuses on the social importance of behavior that is studied.  To exemplify, in a non-applied study, generally “eating behavior” may be observed and with the results, information on metabolic processes can be obtained. However, an applied study focuses on changing the eating behavior of an individual that overeat or undereat into a more “acceptable” behavior for both individual and their environment.
+ ### 1- Applied:
+ Applied behavior analysis focuses on the social importance of behavior that is studied.  To exemplify, in a non-applied study, generally “eating behavior” may be observed and with the results, information on metabolic processes can be obtained. However, an applied study focuses on changing the eating behavior of an individual that overeat or undereat into a more “acceptable” behavior for both individual and their environment.
 
-**2- Behavioral:** ABA is pragmatic; it asks how to make someone do something efficiently and to answer this question, the behavior itself should be assessed objectively.
+ ### 2- Behavioral:
+ ABA is pragmatic; it asks how to make someone do something efficiently and to answer this question, the behavior itself should be assessed objectively.
 
-**3- Analytic:** Behavior analysis is deemed successful to the extend that the person analyzing clearly understands and easily changes at will the conditions that control the said behavior.
+ ### 3- Analytic:
+ Behavior analysis is deemed successful to the extend that the person analyzing clearly understands and easily changes at will the conditions that control the said behavior.
 
-**4- Technological: **Explanations and instructions of the study should be described in detail and clearly, so that another researcher can later on practice the study without error.
+ ### 4- Technological:
+ Explanations and instructions of the study should be described in detail and clearly, so that another researcher can later on practice the study without error.
 
-**5- Conceptual System: **Methods used should be based on behavioral principles.
+ ### 5- Conceptual System:
+ Methods used should be based on behavioral principles.
 
-**6- Effective: **If the results do not show significant enough effect that means the analysis has failed.
+ ### 6- Effective:
+ If the results do not show significant enough effect that means the analysis has failed.
 
-**7- Generality:** The methods used in the study should work in various environments, can be applied on many behaviors and should have long lasting effects.
+ ### 7- Generality:
+ The methods used in the study should work in various environments, can be applied on many behaviors and should have long lasting effects.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/games_child.jpg)
 
 In this analysis method that behavioral psychology suggests and applied depending on process of basic behavior principles, the primary issue is to profile the targeted behavior in detail. It is important that this behavior does not specify what the individual cannot do, it is what they can do while deciding on a "targeted behavior" that is functional for the individual and their environment, a prerequisite for more complicated behaviors, and will help the individual to participate in social life easier.
 

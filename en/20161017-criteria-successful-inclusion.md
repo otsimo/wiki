@@ -1,11 +1,11 @@
 +++
 slug = "criteria-successful-inclusion"
 title = "Criteria on Successful Inclusion"
-category = "Oyunlar"
+category = "Education"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Education", "Autism"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -31,6 +31,8 @@ Inclusion demands attention. Before inclusive practice, social and academic skil
   * It is beneficial for teachers and co-teachers to get a training together to better work with each other.
   * Besides teachers, the success rate of inclusive programs increases with school administrator taking the training to gain awareness.
   * After necessary training sessions are completed, child can be put in inclusive classroom. The child should sit in a place where he will feel comfortable, won't feel alienated and not get distracted when he is put into the class.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/play_tablets.jpg)
 
 Other students in the classroom should also be informed by the teachers and they should be aware that an individual with autism in their classroom. It is important for children to gain awareness in terms of communication. If the children know how to communicate with autistic children, there would be less problems relating to adaptation. When autistic children start to get closer with their class mates, they learn and develop social skills by taking their behaviors as models.
 

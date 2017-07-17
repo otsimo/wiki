@@ -1,7 +1,7 @@
 +++
 slug = "otizm-yasal-haklari-ve-yasalar"
 title = "Otizm yasal hakları ve yasalar"
-category = "Oyunlar"
+category = "Yasal"
 language = "tr"
 author = "Otsimo"
 weight = 60
@@ -15,7 +15,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizm-yasal-haklari-ve
 
 # Otizm yasal hakları ve yasalar
 
-**Otizm Yasal Hakları Ve Yasaları**
+## Otizm Yasal Hakları Ve Yasaları
 
 Otizm sahibi bireylerin içerisinde bulundukları farklılık sebebi ile özel bireyler oldukları toplum tarafından da kabul edilmiş bir durumdur. Bu nedenle yasalar içerisinde de onların bu özel durumu sebebiyle bazı özel haklara sahip olması gerektiği su götürmez bir gerçektir.
 
@@ -46,6 +46,8 @@ Otistik kişiler;
 Tüm bu sayılanlar otistik bir bireyin yaşama haklarını oluşturmaktadır. Ancak bu hakların uygulanabilmesi için ailelerin ve otistik bireyin de devlet tarafından destek görmeleri şarttır. Bunlara gelecek olursak;
 
 Özel eğitim kurumlarında verilecek eğitimin bir kısmı devlet tarafından karşılanmaktadır. Bunun için RAM kurumuna başvurmak gerekmektedir. 3 yaşındaki çocuklar için RAM özel bir eğitim hizmeti vermektedir. 3-6 yaş arasındaki çocuklar ise yine özel eğitim kurumlarında eğitim alma şansına sahiptir. Okul öncesinde çocuğun alışma süresine bağlı olarak 2 sene boyunca okul hayatına kaynaşabilmesi için eğitim alması sağlanabilir. 7-14 yaşları arasındaki çocuklar OÇEM adı verilen otistik çocuklar eğitim merkezine verilerek eğitim almaları sağlanabilir. Bunun dışında devlet okullarında açılan özel sınıflarda da eğitim görmeleri için başvuruda bulunulabilir. Eğer 15-21 yaşları arasında ilköğretim diplomasına sahip bir otistik birey var ise Milli Eğitim Bakanlığı Açık öğretim Lisesi veya Milli Eğitim Bakanlığı Mesleki Açık öğretim lisesinde eğitimlerine devam edebilirler.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/create_child.jpg)
 
 Aileler otizm sahibi çocukları için halk eğitim merkezlerinde onların yeteneklerini ve meslek becerilerini geliştirmeye yönelik kursların açılması talebinde de bulunabilirler.
 

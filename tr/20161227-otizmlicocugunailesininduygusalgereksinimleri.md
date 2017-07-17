@@ -1,7 +1,7 @@
 +++
 slug = "otizmlicocugunailesininduygusalgereksinimleri"
 title = "Otizmli Çocuğun Ailesinin Duygusal Gereksinimleri"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Editoryal"
 weight = 60
@@ -27,6 +27,8 @@ Aileler de duygusal bir desteğe ihtiyaç duyarlar. Anne ve babalar genellikle �
 ###### Çocuğunuzu Kendi Sosyal Ortamlarınıza Dahil Etmekten Çekinmeyin
 
 Yapılan araştırmalara göre otizmli bir çocuğa sahip ailelerde komşu ve diğer ev gezmeleri yapmamayı tercih eden %27’lik bir kesim bulunmaktadır. Bu durum otizmli her 4 çocuktan 1’inin aileleriyle birlikte **sosyal etkileşimden** uzakta tutulduğunu göstermektedir. Başka bir deyişle aileler çocuklarının “olay” yaratacağından ve onu utandıracağından şüphelendikleri için kendi sosyal ortamlarına çocuklarını dâhil etmeyi tercih etmezler. Bu durum çocukla daha az vakit geçirilmesiyle ya da kişinin kendi sosyal ortamından kopmasıyla sonuçlanabilecek bir davranıştır. Eğer çocukla yeterli vakit geçirilmezse otizmli çocuğun davranışlarında ciddi ölçüde bir bozulma görülecektir. Eğer o döneme kadar öğretilmiş herhangi bir günlük düzen varsa o bozulur ve çocuğun kişisel gelişimi ilerlemeyi durdurur. Eğer bunun tam tersi gerçekleşirse anne baba sosyal ortamından kopar ve kendisini yetersiz ve mutsuz hissederek stres ve depresyona doğru sürüklenir.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/smile_child.jpg)
 
 ###### Çocuğunuza Olduğu Kadar Kendinize de Vakit Ayırın
 

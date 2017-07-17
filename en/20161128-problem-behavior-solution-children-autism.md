@@ -1,11 +1,11 @@
 +++
 slug = "problem-behavior-solution-children-autism"
 title = "Problematic Behavior and Solution in Children with Autism"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Spectrum"]
 draft = false
 written_at = "2016-04-09"
 [params]

@@ -56,7 +56,7 @@ Autism can trigger disorders like Asperger&#39;s syndrome, depression, and anxie
 
 The goal here is to be able to replace negative behavior with positive ones in individuals with autism. Thanks to this method, problematic behaviors are reduced and the individual is lead to perform positive behavior. Also, improving the quality of life is another important part of behavior support plan. This plan should be suitable to the context and the person.
 
-Sources:
+**Sources:**
 
 - Dilek Akbaş;  Problem Davranışların Azaltılmasında Olumlu Destek Planı Hazırlama, Ankara Üniversitesi Eğitim Bilimleri Fakültesi Özel Eğitim Dergisi, Sayı: 3, 2002  Sayı: 3, 2002
 - Nurgül Akmanoğlu, Erkan Kurnaz;  Otizmli Çocukların Eğitiminde Yeni Eğilimler: Videoyla Kendine Model Olma ve Etkileri, Ankara Üniversitesi Eğitim Bilimleri Fakültesi Özel Eğitim Dergisi, Sayı: 15, 2014

@@ -1,7 +1,7 @@
 +++
 slug = "problem-davranislari-onlemek-ve-azaltmak"
 title = "Problem Davranışları Önlemek Ve Azaltmak"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60
@@ -19,7 +19,7 @@ Problem davranışlar, genel olarak çocuğun eğitim, öğrenim, beceri gelişt
 
 Problem davranışlar genellikle 10 yaş altında ortaya çıksa da çocukluğun her evresinde görülebilmektedir. Bu davranışların birçok sebebi olabilir. Çocuğun psikolojik özellikleri, aile ortamında yaşadıkları, okul ile uyumsuz olmasına sebep olan durumlar, kötü rol model alma, kitle iletişim araçlarının etkileri ve birçok etken çocuklarda sürekli olarak tekrarlanan problem davranışlara sebep olabilir.
 
-**Problem Davranışların Etkileri Nelerdir?**
+## Problem Davranışların Etkileri Nelerdir?
 
   * Öğrenmenin ve beceri gelişiminin engellenmesi
   * Sosyal çevreyle uyumsuzluk
@@ -27,7 +27,7 @@ Problem davranışlar genellikle 10 yaş altında ortaya çıksa da çocukluğun
   * Yetenekleri kullanamama ve yeni yetenekler edinememe
   * Sosyal gelişimin sekteye uğraması
 
-**Problem Davranışların Sebepleri Nelerdir?**
+## Problem Davranışların Sebepleri Nelerdir?
 
 Çocukların problem davranış geliştirmiş olmalarının birçok sebebi olabilir. Belirtildiği gibi aileden, okuldan ya da çeşitli dış etkenlerden kaynaklı durumlar sürekli olumsuz davranışlara sebep olabilmektedir. Ancak davranışların oluşmasına sebep olan etkenler ile çocukların bu davranışları sergilemesinin sebeplerini birbirinden ayırt etmek gerekir. Çocuklar genellikle aşağıdaki sebeplerden ötürü sorun davranış gösterirler.
 
@@ -42,13 +42,15 @@ Problem davranışlar genellikle 10 yaş altında ortaya çıksa da çocukluğun
 
 Çocuklar bu tür sebeplerden ötürü problem davranış olarak adlandırılan davranış biçimlerini tekrarlarlar. Öğretmenlerin yapması gereken tekrarlanan davranışın sebebini seçmek ve bu sebepleri ortadan kaldırmak ya da çocuğun durumu kabullenmesini sağlamaktır.
 
-**Problem Davranışların Önüne Geçmek İçin Ne Yapılmalıdır?**
+## Problem Davranışların Önüne Geçmek İçin Ne Yapılmalıdır?
 
 Her şeyden önce, çocuğun sürekli olarak gösterdiği sorunlu davranışın sebebi bulunmalı ve bu sebebin ortadan kalkması sağlanmalıdır. Örneğin çizgi filmler ve diğer televizyon programları çocukları kötü etkileyebilmektedir. Bu programlar çocukların kötü rol model almasına sebep olur. Eğer kitle iletişim cihazlarıyla ilgili bir sorun varsa, çocuğun bu cihazlarla olan iletişimi sınırlandırılmalıdır.
 
 Sorun davranışların değiştirilmesi için uzmana başvurmak gerekebilir. Fakat öğretmen burada ilk müdahaleyi yapması gereken kişidir. Eğer hiperaktivite gibi psikolojik bir durum yoksa, çocuğun problem davranışları ailesi, arkadaşları, öğretmeni ve çevresi ile olan etkileşiminden ya da kitle iletişim araçlarından kaynaklanmaktadır. Öğretmenin burada yapması gereken ilk şey sebebi tespit etmek ve davranış değiştirmeye yönelik girişimlerde bulunmaktır. Davranış değiştirmeye yönelik belli başlı yöntemler bulunmaktadır.
 
-**Davranış Değiştirme Yöntemleri**
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_glasses.jpg)
+
+## Davranış Değiştirme Yöntemleri
 
 Çocuklardan biri ya da birkaçı olumsuz davranışlar gösteriyorsa, öğretmenin yapması gereken ilk şey bu davranışların tekrarlamasını ve süreklilik kazanmasını önlemektir. Ancak bunu yaparken kesinlikle çocuklar üzerinde bir korku unsuru yaratılmamalıdır. Fiziksel ve psikolojik şiddet kısa vadede davranışları engellemiş gibi görünse de uzun süreçte daha büyük krizlere yol açabilir. Hatta çocukların hayatları boyunca kurtulamayacakları travmalara sebep olabilir. Bu yüzden şiddetten, çocukta korkutucu bir etki yapacak davranışlardan kaçınmak, çocukları olumlu yönde telkin ederek bu davranışların sürekliliğini engellemek ve değiştirmek gerekecektir.
 

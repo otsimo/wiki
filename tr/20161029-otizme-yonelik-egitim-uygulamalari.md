@@ -1,7 +1,7 @@
 +++
 slug = "otizme-yonelik-egitim-uygulamalari"
 title = "Otizme Yönelik Eğitim Uygulamaları"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60
@@ -19,11 +19,11 @@ Eğitim, otizmli çocukların iyileşme ve entegrasyon sürecinde önemli bir un
 
 Otizm eğitimi, çeşitli aşamalara ayrılır. Öncelikle eğitim görecek olan çocuğun profilinin çıkartılması gerekir. Kimi çocuklar diğer otizmli akranlarıyla birlikte eğitim görebilirken, bazılarına birebir eğitim uygulanması gerekir. Ayrıca, eğitime hazırlanma süreci her zaman birebir olmalıdır. Eğitimin temel amacı terapi ile kazandırılan becerilerin pekiştirilmesi ve çocukların kendi başlarına bilgi, pratik edinecek hâle getirilmesi olmalıdır.
 
-**Ailede Eğitim**
+## Ailede Eğitim
 
 Ailenin öncelikle çocuğun hoşlandığı etkinlikleri bulması ve ona teşvik etmesi gerekir. Beceri öğretimi ancak böyle bir durumda mümkün olabilir. Günde 2-3 defa 3 ya da 5 dakika süren etkinlikler ile çocuğa beceri kazandırmak mümkün olacaktır. Ayrıca eğitim verilen yerlerde çocuğun dikkatini dağıtacak materyal ve oyuncaklardan arındırılması gerekir. Bununla birlikte, ortam değişikliği otistik çocukların olumsuz reaksiyon göstermesine sebep olabilmektedir. Bu yüzden beceri geliştirme eğitimlerinin sürekli olarak aynı ortamlarda verilmesi faydalı olacaktır. Eğer zorunlu bir mekan değişikliği söz konusuysa, öncelikle çocuğun yeni ortama alıştığından ve kendini orada güvende hissettiğinden emin olunmalıdır.
 
-**Eğitim Uygulamaları**
+## Eğitim Uygulamaları
 
 Otizmli çocukların eğitimi Milli Eğitim Bakanlığı’na ve özel kuruluşlar tarafından sağlanmaktadır. Eğitimde öncelikle çocukların çeşitli becerileri kazanması sağlanır. Çocuklar daha sonra kaynaştırma programına alınır ve yaşıtlarıyla, çevreleriyle iletişim hâlinde olmalarına yardımcı olunur. Bununla birlikte, otizmli çocuklar için uygulanan farklı eğitim programları da bulunmaktadır. Hangi eğitim programının uygulanacağı genellikle çeşitli testler yapıldıktan ve veri toplanıp profil çıkarıldıktan sonra belirlenir.
 
@@ -35,6 +35,9 @@ Otizm eğitiminin ilk aşaması ABA (Applied Behavoir Analysis) olarak da biline
   * **Etkinlik Çizelgeleriyle Öğretim**
 
 Bu yöntem, beceri kazandırma eğitimi için kullanılır. Temel amaç çocuğun becerileri küçük parçalara bölerek kazanmasını sağlamaktır. Çocuğa kazandırılmak istenen beceriler küçük aktivitelere bölünür. Otizmli çocuk, bu aktiviteleri yerine getirerek beceriyi kazanmış olur. Bu yöntemin genellikle olumlu sonuçlar veren bir metot olduğunu belirtmek gerekir. Çocukların başkalarına bağımlı olmadan becerilerini geliştirebilmeleri için etkili bir yöntemdir. Ayrıca çocukların detaylı ve kapsamlı bir şekilde düşünmesine de yardımcı olduğu bilinmektedir. Bugün birçok eğitim kurumunda kullanılan bir metottur.
+
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_parents.jpg)
 
   * **Model Alma Yöntemi**
 

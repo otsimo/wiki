@@ -1,7 +1,7 @@
 +++
 slug = "basarili-kaynastirmanin-olcutleri"
 title = "Başarılı Kaynaştırmanın Ölçütleri"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Editoryal"
 weight = 60
@@ -20,7 +20,7 @@ Kaynaştırma uygulamaları, otistik çocukların eğitim hayatlarına otizmli o
 
 Kaynaştırma uygulaması büyük özen gerektirir. Kaynaştırma uygulamasına başlanmadan önce, otizmli çocukların OÇEM’lerde sosyal ve akademik becerileri gözlem altında tutulmalı ve sadece gerekli kriterleri karşılıyorsa kaynaştırma uygulamasına başlanmalıdır. Ayrıca uygulamanın işleniş şekli de çok önemlidir.
 
-**Başarılı Bir Kaynaştırma İçin Alınması Gereken Önlemler Ve Edinilmesi Gereken Bilgiler **
+## Başarılı Bir Kaynaştırma İçin Alınması Gereken Önlemler Ve Edinilmesi Gereken Bilgiler 
 
   * Kaynaştırma uygulamasının başarılı olması için, öncelikle kaynaştırma uygulamasının yapılacağı okulun öğretmenleri ve diğer personelleri gerekli şekilde eğitilmeli ve farkındalık sağlanmalıdır.
   * Öğretmenlere genel eğitimin dışında otistik çocukların öğrenme biçimleri ile ilgili özel eğitimler verilmiş olmalıdır.
@@ -38,6 +38,8 @@ Sınıftaki diğer öğrencilerde sınıf öğretmenleri tarafından bilinçlend
 Öğretmenler eğitim programlarını hazırlarken, otizmli çocuğa karmaşık gelen ve onun için çok soyut olan kavram ve alanları belirlemeli ve ona göre eğitim vermelidir. Ayrıca, öğretmenler BEP hazırlarken tıbbi değerlendirmelerden, aileden alınan bilgilerden ve eğitsel değerlendirmelerden yararlanması faydalı olur.
 
 Çocuğun faaliyet göstermesini sağlayan pekiştireçler bulunmalı ve ödül sistemi uygulanmalıdır.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/kids_training.jpg)
 
 Otizmli çocukların öğrenmesinde duyular çok önemlidir, bu sebeple duyusal yaklaşımla eğitim verilirken, çocuğun tercih ettiği duyular baz alınırsa çocuğun öğretileni kavraması daha kolay olur.
 

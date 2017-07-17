@@ -1,11 +1,11 @@
 +++
 slug = "wear-blue-world-autism-awareness-month"
 title = "Why Should You Wear #BlueForAutism on World Autism Awareness Month?"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Secil"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["awareness", "wear-blue"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -65,4 +65,4 @@ Over 70 million individuals have autism worldwide and the number only goes up. W
 
 We hope that your efforts will conclude in a better world for those with autism! _ “Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has.” ~ Margaret Mead _
 
-Sources: [Kerry Magro](http://kerrymagro.com/why-you-should-wear-blue-on-april-2-for-world-autism-awareness-day/) [Bosphorus Bridge](https://indigodergisi.com/2017/04/otizm-farkindaligi/)
+**Sources:** [Kerry Magro](http://kerrymagro.com/why-you-should-wear-blue-on-april-2-for-world-autism-awareness-day/) [Bosphorus Bridge](https://indigodergisi.com/2017/04/otizm-farkindaligi/)

@@ -1,11 +1,11 @@
 +++
 slug = "starting-autism-therapy"
 title = "4 Things Parents Needs to Consider Before Starting Autism Therapy"
-category = "Oyunlar"
+category = "Autism"
 language = "en"
 author = "Otsimo"
 weight = 60
-keywords = ["Eşleme", "Oyunu"]
+keywords = ["Autism", "Therapy"]
 draft = false
 written_at = "2016-04-09"
 [params]
@@ -24,6 +24,8 @@ Early diagnosis is significant for autism treatment. The sooner the diagnosis is
 First step in **autism treatment** is diagnosis. It is known that autism is a disorder seen in one in every 68 children. Many cases can be detected from the early baby ages. If the child is not showing developments that the age group he or she is in supposed to show, there is a great chance that the child is [suffering from autism](/typical-characteristics-autism-spectrum-disorder/).
 
 Communication and social development disorders are the primary symptoms of autism. If the communication with the parents, immediate environment and friends is not healthy, if the child cannot communicate, form a sentence or has difficulty in understanding or interpreting what's being said, the child may have autism. However, it is important to note that not every child with communication failures suffer from autism.
+
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_glasses.jpg)
 
 Another symptoms of autism are repetitive, limited attention and behavior. Moving objects attract interest of children with autism. A child with autism can watch spinning of a washing machine or a record for hours. It is also known that individuals with autism have strong opinion on "preservation of sameness" They may ask the same question over and over again and want to get the same answer, to give an example. This characteristic negatively affects language development of individuals. If your child shows reactions like this, there is a high chance he or she is suffering from autism. Once diagnosed, the treatment process should be planned and started at an appropriate time.
 

@@ -1,7 +1,7 @@
 +++
 slug = "tohum-otizm-vakfindan-yeni-proje"
 title = "Tohum Otizm Vakfı'ndan Yeni Proje"
-category = "Oyunlar"
+category = "Eğitim"
 language = "tr"
 author = "Otsimo"
 weight = 60

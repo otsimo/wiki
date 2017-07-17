@@ -1,7 +1,7 @@
 +++
 slug = "otizmli-cocuklarda-ekolali-tekrar-etme"
 title = "Otizmli Çocuklarda Ekolali (Tekrar Etme)"
-category = "Oyunlar"
+category = "Otizm"
 language = "tr"
 author = "Otsimo"
 weight = 60
