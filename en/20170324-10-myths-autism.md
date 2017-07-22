@@ -9,7 +9,7 @@ keywords = ["Myths", "Autism"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2017-08-07"
+available_at = "2017-10-28"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/10-myths.jpg"
 +++
 
