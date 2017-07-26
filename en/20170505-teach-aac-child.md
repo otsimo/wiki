@@ -38,7 +38,6 @@ Use the device as much as possible in natural, real situations. For example, if 
 
 It is important that you continue the communication line coming from your child. You should respond to your child immediately with what he/she requests. The child needs to understand that certain actions through AAC will be leading to certain consequences. In order for the child to understand how to request or say something to get another thing, these responses you give must be consistent.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/use_tablet.jpg)
 
 ###### AAC device should always be around
 

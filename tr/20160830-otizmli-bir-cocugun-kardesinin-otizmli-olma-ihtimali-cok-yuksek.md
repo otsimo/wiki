@@ -32,8 +32,6 @@ Kıyaslandığında, bugün Amerika’da doğan her 110 çocuktan 1’ine, yani 
 Bulgular, çocuk gelişimi alanında araştırma yapanları, otizmli çocukları olup daha fazla çocuk sahibi olmayı düşünen ailelerde daha büyük farkındalık yaratmaya teşvik etti. Ulusal Sağlık Enstitüsü’nün yanında bu çalışmayı destekleyen bir otizm araştırma grubu olan Autism Speaks için yapılan çevre şartları araştırmasının yöneticisi Alycia Halladay, yüzde 20 risk oranının daha önceki tahminlerden daha yüksek olmasına rağmen, geri kalan yüzde 80 oranındaki çocukların otizm spektrum bozukluğunu geliştirmeyeceğini söylemiştir.
 
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_sun.jpg)
-
 “Burada soygeçmiş oldukça önemli bir faktördür, ancak başka faktörler de bulunmaktadır,” şeklinde konuştu. “Güçlü çevresel faktörler bulunmaktadır. Ne olduklarını henüz bilmiyoruz, ancak bu otizm teşhisi sürecindeki tek faktör değildir.”
 
 Ancak otizm uzmanları, risk kapsamında olan ailelerin küçük kardeşleri daha yakından incelemeleri, bebeklik çağlarında potansiyel otizm belirtilerini daha dikkatli takip etmeleri gerektiğini belirtiyorlar. Otizmin ilk belirtileri hemen göze çarpmayabilir, ancak altıncı aya kadar gülümseyememe, agulama veya 12. aya kadar işaret etme, el sallama gibi el kol hareketlerinin eksikliği daha fazla incelemeyi gerektirecek semptomlar arasında sayılabilir. Autism Speaks, web sitelerinde, ailelerin belirli yaşlarda çocuklarının gelişimlerinin normal olup olmadığını 3-4 ay civarlarından başlayarak kontrol edebileceği bir kilometre taşı listesi yayınlamıştır.

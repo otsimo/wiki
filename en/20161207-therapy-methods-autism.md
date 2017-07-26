@@ -61,7 +61,6 @@ It is generally accepted that communication skills of individual with autism who
 
 Individuals with autism have difficulty in understanding figurative expression. Drama therapy helps them understand concepts like metaphors and contemplate. It is also a good method for them to treat themselves. However no scientific settlement was reached on this therapy method. Although it is applied in many places around the world, it is not proven in a scientific environment that this method generally affects recovery process of individuals with autism.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_read.jpg)
 
 ### Dolphin Therapy
 

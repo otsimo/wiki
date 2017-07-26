@@ -32,7 +32,6 @@ If you have a report or progress card in your hand, or you visited a doctor rece
 
 You have the right to receive a copy of the assessment results and the IEP with the goals to review ahead of time. This way, if you have any questions about what is proposed, you can write them down and present them in the meeting without wasting time.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/notebook_toys.jpg)
 
 ###### 4\. Record the meeting
 

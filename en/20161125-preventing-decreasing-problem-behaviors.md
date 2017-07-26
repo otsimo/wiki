@@ -48,7 +48,6 @@ Above all, the cause of the repetitive problem behavior should be determined and
 
 Changing problem behaviors may require consultation to experts. However, teachers are the ones that should be making the first interference. If there is no sign of psychological situation like hyperactivity, problem behaviors of the child are caused by the interaction with his parents, friends, teachers and the environment or mass media. Teacher should first determine the cause and act towards changing the behavior. There are certain methods to change behavior.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/happy_child.jpg)
 
 ###### Behavior Changing Methods
 

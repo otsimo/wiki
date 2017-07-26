@@ -26,7 +26,6 @@ Applications with different interfaces and menus for individuals with autism and
 
 Although education with games sounds a little bit childish, these applications that provide extremely positive results for individuals with autism that are around twenty-years old by helping them feel better about themselves. When they complete the games, they gain basic living information and their confidence increases. Furthermore these applications help individuals with autism catch up with developing technologies in today's world. This way their reintroduction to life is supported from a different angle.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/use_tablet.jpg)
 
 Visual exercises in these applications strengthen mental activities of individuals with autism. Games like matching and imitation enable individuals both in thinking and language fields. Users especially intensively train for adjectives and names, become more familiar with words used in daily life and thus can express themselves better.
 

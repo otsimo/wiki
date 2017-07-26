@@ -35,7 +35,6 @@ Otizmli çocuklar kendi yaşıtları ile iletişim kurmakta zorlanırlar. Ayrıc
 Otizmli bireyler çoğu zaman biri onlara seslendiğinde veya ilgilendiğinde tepkisiz kalırlar. İsimleri söylense dahi duymuyormuş gibi yapabilirler. Diğer çocukların ilgisini çeken şeyler onların ilgisini çekmez ve ortamda gelişen olaylara karşı kayıtsız kalırlar.
 
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/hands_child.jpg)
 
   ### İletişim Sorunları
 

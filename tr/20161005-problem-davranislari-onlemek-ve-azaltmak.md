@@ -48,7 +48,6 @@ Her şeyden önce, çocuğun sürekli olarak gösterdiği sorunlu davranışın 
 
 Sorun davranışların değiştirilmesi için uzmana başvurmak gerekebilir. Fakat öğretmen burada ilk müdahaleyi yapması gereken kişidir. Eğer hiperaktivite gibi psikolojik bir durum yoksa, çocuğun problem davranışları ailesi, arkadaşları, öğretmeni ve çevresi ile olan etkileşiminden ya da kitle iletişim araçlarından kaynaklanmaktadır. Öğretmenin burada yapması gereken ilk şey sebebi tespit etmek ve davranış değiştirmeye yönelik girişimlerde bulunmaktır. Davranış değiştirmeye yönelik belli başlı yöntemler bulunmaktadır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_glasses.jpg)
 
 ## Davranış Değiştirme Yöntemleri
 

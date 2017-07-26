@@ -26,7 +26,6 @@ It is **not** a disease. Autism spectrum disorder is a neurodevelopmental disord
 
 Unfortunately, autism is a life-long disorder; it cannot be cured with medicine. Despite the fact that it lasts a lifetime, individuals with this disorder can live independent, productive and comfortable lives. With therapies, interventions and education, the challenges that come with autism can be managed. On the other hand, medication can be used to deal with gastrointestinal disorders or problem behaviors that are caused due to autism.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_eats.jpg)
 
 ###### 3\. Special diets can cure autism
 

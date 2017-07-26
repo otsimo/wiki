@@ -29,7 +29,6 @@ Applied Behavior Analysis (ABA) is the most frequently used method used in obser
   * **Defining Behavioral Objectives: **Target behaviors that would potentially replace the negative behaviors are determined at this stage. It is of great importance that the target behavior is "interpretable". Teacher should try to bring in practice that can be measured with concrete data, rather than develop behavior that is created with subjective decisions. For instance, if the child is neglecting his homework in any lesson, the target behavior should be to have him do his homework regularly.
   * **Preparing and Applying Program:** Applying the determined target behavior matures at this stage. A program is created for the child to firstly acquire the new behavior. The child, who exhibits problem behavior, is encouraged with positive stimuli to participate in the program. Data that were collected first hand are reviewed and an environment free of all antecedents and stimuli that cause problem behavior is chosen. Then a new program is prepared and applied for acquisition of the new behavior. Reinforcers, aids, hints and reward-punishment system are used during this period.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/pencil_drawing.jpg)
 
 ###### What to Consider in Target Behavior Practice
 

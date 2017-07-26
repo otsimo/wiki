@@ -28,7 +28,6 @@ To practice an accurate treatment, it is necessary to first eliminate negative b
 
 First phase of autism treatment is psychiatric and neurological treatment. Various dosages of medication may be used to prevent tantrum and anxiety attacks of children. It is important to make sure to not overdose on these medication. Aside from that, neurological and psychiatric treatments are not enough by themselves to eliminate autism. The treatment is for the therapies to go smoothly, rather than completely heal the patient. Patients with autism can gain skills they need to have and live their lives without being affected by the disorder with these long therapies. With that, diet and vitamin programs have important place in autism treatment.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_eats.jpg)
 
 ## Gluten-Casein Diet
 
