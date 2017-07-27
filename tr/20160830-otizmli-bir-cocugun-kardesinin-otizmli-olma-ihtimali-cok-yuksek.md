@@ -1,6 +1,6 @@
 +++
-slug = "otizmli-bir-cocugun-kardesinin-otizmli-olma-ihtimali-cok-yuksek"
-title = "Otizmli Bir Çocuğun Kardeşinin Otizmli Olma İhtimali Çok Yüksek!"
+slug = "otizmli-bir-cocugun-kardesi"
+title = "Diğer Kardeşin Otizmli Olma İhtimali Çok Yüksek!"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"

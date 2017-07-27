@@ -1,6 +1,6 @@
 +++
 slug = "choosing-autism-institution"
-title = "What to Consider While Choosing Institution for Autism Education"
+title = "Choosing Institution for Autism Education"
 category = "Education"
 language = "en"
 author = "Otsimo"

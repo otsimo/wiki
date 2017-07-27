@@ -1,6 +1,6 @@
 +++
 slug = "problem-behavior-solution-children-autism"
-title = "Problematic Behavior and Solution in Children with Autism"
+title = "Problematic Behavior and Solution"
 category = "Autism"
 language = "en"
 author = "Otsimo"

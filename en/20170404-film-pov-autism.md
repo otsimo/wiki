@@ -1,6 +1,6 @@
 +++
 slug = "film-pov-autism"
-title = "The Unique Point of View of a Film – A List of Films About Autism"
+title = "The Unique Point of View of a Film"
 category = "Video"
 language = "en"
 author = "Secil"

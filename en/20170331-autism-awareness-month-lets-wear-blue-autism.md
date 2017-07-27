@@ -1,6 +1,6 @@
 +++
 slug = "autism-awareness-month-lets-wear-blue-autism"
-title = "National Autism Awareness Month: Let’s Wear #BlueForAutism"
+title = "National Autism Awareness Month"
 category = "Autism"
 language = "en"
 author = "Secil"

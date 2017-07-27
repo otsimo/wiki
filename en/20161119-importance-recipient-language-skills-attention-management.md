@@ -1,6 +1,6 @@
 +++
 slug = "importance-recipient-language-skills-attention-management"
-title = "Importance of Recipient Language Skills and Attention Management"
+title = "Language Skills and Attention Management"
 category = "Autism"
 language = "en"
 author = "Otsimo"

@@ -1,6 +1,6 @@
 +++
 slug = "team-individualized-education-program"
-title = "Who Participates in the Production of Individualized Education Program?"
+title = "Individualized Education Program"
 category = "Education"
 language = "en"
 author = "Secil"

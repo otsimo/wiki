@@ -1,6 +1,6 @@
 +++
 slug = "autism-legal"
-title = "Legal Education Rights of Children with Autism in the USA"
+title = "Rights of Children with Autism in the USA"
 category = "Legal"
 language = "en"
 author = "Secil"
