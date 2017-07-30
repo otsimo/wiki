@@ -40,7 +40,7 @@ There are several stages to behavioral analysis. The practice starts with a trai
 
 Activity schedules have great impact in this method. Here, an activity chart is created for the child and the skill that is going to be taught is divided into little steps. This method ensures the continuity of the therapy.  Moreover, it helps the child to learn the skill by elaborating and thus help him to gain intellectual profoundness.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/read_book.jpg)
+
 
 ### Modeling Method
 

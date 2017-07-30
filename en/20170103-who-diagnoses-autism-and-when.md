@@ -27,7 +27,6 @@ In Turkey, child mental health experts and neurologists can diagnose autism in c
 
 Although individuals with autism are thought to have limited learning capacity, they can show high levels of development. Going to doctor check-ups once or twice a year is necessary to observe this and determine if there should be a change in this developmental process.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/ideas_autism.jpg)
 
 Child neurologists can be seen to examine brain vessels and neurons and autism diagnosis. Some children with autism may have seizures. However, it is a rare occasion. Some disorders that are not thought the child has due to autism may be determined by neurologists with tests. These kinds of tests are not essential except the doctor sees fit. Unnecessary tests would tire both the children and their parents.
 

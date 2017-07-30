@@ -35,7 +35,6 @@ Yapmaktan zevk aldığı şeyleri başkaları ile paylaşmak otizmli çocukları
 
 Sosyal bir konuda aktif olamamak, duygusal etkileşimde zayıf kalmak ya da cevap verememe durumları da sosyal etkileşim hareketlerinde bozukluk olarak belirlenebilecek semptomlar arasında yer almaktadır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_black.jpg)
 
 ## En Az Bir Tane İletişim Bozukluğu Semptomu Belirlenmelidir
 

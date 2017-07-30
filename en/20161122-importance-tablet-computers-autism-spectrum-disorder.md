@@ -1,6 +1,6 @@
 +++
 slug = "importance-tablet-computers-autism-spectrum-disorder"
-title = "Importance of Tablet Computers in Autism Spectrum Disorder"
+title = "Importance of Tablet Computers in Autism"
 category = "Education"
 language = "en"
 author = "Otsimo"
@@ -27,7 +27,7 @@ The aim of this effort to reintroduce individual with autism to society is not t
 
 The most common symptom of autism spectrum disorder is the lack of attention focus. An application that can be downloaded on tablet computers is developed for this reason. With this application children learn to focus their attention. .Families get the chance to observe reactions of their children with this application.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/tablet.jpg)
+
 
 Although an individual with autism has a lot in his mind, and is aware of many things, he cannot express himself since he struggles with communication. This way [these individuals](/typical-characteristics-autism-spectrum-disorder/) are introvert. It is hard to reach them. However, with devotion and effort it can be manageable.
 

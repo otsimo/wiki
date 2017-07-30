@@ -41,7 +41,6 @@ Applied behavior analysis is a discipline that aims to change behavior that is s
  ### 7- Generality:
  The methods used in the study should work in various environments, can be applied on many behaviors and should have long lasting effects.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/games_child.jpg)
 
 In this analysis method that behavioral psychology suggests and applied depending on process of basic behavior principles, the primary issue is to profile the targeted behavior in detail. It is important that this behavior does not specify what the individual cannot do, it is what they can do while deciding on a "targeted behavior" that is functional for the individual and their environment, a prerequisite for more complicated behaviors, and will help the individual to participate in social life easier.
 

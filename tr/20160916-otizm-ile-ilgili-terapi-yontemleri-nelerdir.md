@@ -52,8 +52,6 @@ Terapinin bir diğer amacı da hastaların sözel ve bedensel dil kullanımını
 Müzik terapisinin işitsel yeteneği arttırma konusunda etkili bir terapi olduğu bilimsel olarak kanıtlanmıştır. Ancak bu terapinin bütün vakalarda aynı sonucu vereceğine dair kesin bir yargı bulunmamaktadır. Her ne kadar belli yetenekleri geliştirme konusunda etkili bir terapi olsa da, birçok uzman müzik terapisinin diğer metotlar ile uygulanması gerektiği görüşünü taşımaktadır.
 
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_read.jpg)
-
 ##### Sanat Terapisi
 
 Sanat terapisinin temel amacı bireyin duyusal olarak rahatlamasını sağlamakla birlikte görsel ve işitsel yeteneğinin gelişmesine yardımcı olmaktır. Bu terapide resim, heykel, seramik gibi görsel sanatlardan yararlanılır. Otizmli bireyin bu sanat dallarında üretim yapması istenir.

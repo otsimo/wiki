@@ -9,7 +9,7 @@ keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2017-07-27"
+available_at = "2017-10-20"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/applied-behavior.jpeg"
 +++
 
@@ -35,7 +35,6 @@ The answer to "why should I prefer applied behavior analysis over other special 
 
 The concept of ABA is simple; systematically break learning into small pieces and teach the child piece by piece. The child, who is taught how to learn, will gain a new skill every day.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/board.jpg)
 
 #### So how does ABA work?
 

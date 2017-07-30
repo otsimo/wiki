@@ -1,6 +1,6 @@
 +++
 slug = "ogretmenlerveotizm"
-title = "12 Maddede Öğretmenler Otizmli Çocuklar İle İlgili Neler Bilmeli?"
+title = "12 Maddede Öğretmenler Neler Bilmeli?"
 category = "Eğitim"
 language = "tr"
 author = "deniz"

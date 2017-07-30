@@ -1,6 +1,6 @@
 +++
 slug = "team-individualized-education-program"
-title = "Who Participates in the Production of Individualized Education Program?"
+title = "Individualized Education Program"
 category = "Education"
 language = "en"
 author = "Secil"
@@ -37,7 +37,6 @@ This representative is authorized to make decisions about school resources. They
 
 A school psychologist or other specialist who can interpret the evaluation and test results should be present.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/kids_training.jpg)
 
 ###### • One of the child’s general teacher
 

@@ -1,6 +1,6 @@
 +++
-slug = "otizmli-bir-cocugun-kardesinin-otizmli-olma-ihtimali-cok-yuksek"
-title = "Otizmli Bir Çocuğun Kardeşinin Otizmli Olma İhtimali Çok Yüksek!"
+slug = "otizmli-bir-cocugun-kardesi"
+title = "Diğer Kardeşin Otizmli Olma İhtimali Çok Yüksek!"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"
@@ -31,8 +31,6 @@ Kıyaslandığında, bugün Amerika’da doğan her 110 çocuktan 1’ine, yani 
 
 Bulgular, çocuk gelişimi alanında araştırma yapanları, otizmli çocukları olup daha fazla çocuk sahibi olmayı düşünen ailelerde daha büyük farkındalık yaratmaya teşvik etti. Ulusal Sağlık Enstitüsü’nün yanında bu çalışmayı destekleyen bir otizm araştırma grubu olan Autism Speaks için yapılan çevre şartları araştırmasının yöneticisi Alycia Halladay, yüzde 20 risk oranının daha önceki tahminlerden daha yüksek olmasına rağmen, geri kalan yüzde 80 oranındaki çocukların otizm spektrum bozukluğunu geliştirmeyeceğini söylemiştir.
 
-
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_sun.jpg)
 
 “Burada soygeçmiş oldukça önemli bir faktördür, ancak başka faktörler de bulunmaktadır,” şeklinde konuştu. “Güçlü çevresel faktörler bulunmaktadır. Ne olduklarını henüz bilmiyoruz, ancak bu otizm teşhisi sürecindeki tek faktör değildir.”
 

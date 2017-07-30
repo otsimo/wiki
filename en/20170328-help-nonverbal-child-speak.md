@@ -38,7 +38,6 @@ You can mimic your child’s behaviors to encourage them be more vocal and inter
 
 By simplifying the language you use, you help your child to follow and understand what you are saying more easily. It also helps him/her to imitate the _speech. _If your child is nonverbal, you can try by starting to use only single words. For instance, you can point to the toy and say “toy” or “play”. If he/she is getting used to speaking and can use single words, up one more word and start speaking in small phrases, like “take toy” or “play ball”. Just keep this going by using one more word that your child uses.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_parents.jpg)
 
 ###### 5\. Utilize nonverbal communication
 

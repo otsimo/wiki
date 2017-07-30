@@ -28,7 +28,6 @@ Asperger sendromu belirtileri sebebi ile otizme yakınlık göstermektedir. Otiz
 
 Otizm,  ailenin yanlış bir hareketinden veya davranışından kaynaklanmaz. Otizmli olmak da bir hastalık olarak nitelendirilmemelidir. Otizm bir farklılıktır. Dünya düzeni genel sağlıklı olarak kabul edilen insanların ihtiyaçlarına göre düzenlendiği için ufak bir fark ile otizme sahip olan bireyler hastalıklı olarak görülmemelidir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_home.jpg)
 
 Otizmin neden kaynaklandığının tam olarak bilinmediğini dile getirmiştik. Buna sebep olan genler veya çevresel faktörler hala araştırma aşamasındadır. Otizmli bir bireyin kendisinden farklı olan bir toplum içerisinde yaşaması oldukça güç olmaktadır. Ancak bunun farklılığını ya da aynılığını yine çoğunlukta olan ve kromozom sayıları farklılık göstermeyen insanlar belirlemektedir.
 

@@ -33,7 +33,6 @@ Children with autism struggle with communicating with their peers. They generall
 
 Most of the time, individuals with autism are unresponsive when someone calls their name or someone is interested in them. They may pretend to not hear even though their names are called. Things that attract other children do not attract them and they remain indifferent to the events happening in the environment.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw.jpg)
 
 ## Communication Problems
 

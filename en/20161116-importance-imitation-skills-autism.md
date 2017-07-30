@@ -44,7 +44,7 @@ Imitation skills are categorized as follows.
   * Rational Imitation
   * Cognitive Imitation
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/game_train.jpg)
+
 
 ## Importance of Acquiring Imitation Skills
 

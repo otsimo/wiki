@@ -1,6 +1,6 @@
 +++
 slug = "choosing-autism-institution"
-title = "What to Consider While Choosing Institution for Autism Education"
+title = "Choosing Institution for Autism Education"
 category = "Education"
 language = "en"
 author = "Otsimo"
@@ -28,7 +28,6 @@ Concretion is important while teaching children with autism. Autistic children s
 
 A fine education institution should know social and mental capacity of every autistic child in their institution and provide special education accordingly. Which sense the child prefers while learning should be taken into consideration and every child should be treated depending on this. Children with autism may show problem behavior; making loud noises, constantly repeating a word or a move or showing little act of violence are pretty common. Public personnel should know how to deal these kinds of situations and have the knowledge to act towards removing the stress when children are under pressure.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_reading.jpg)
 
 It should be remembered that every child is different and each of their development should be under observation in the institution. Educational institutions can provide advanced level of education to children depending on this development. The educational method should be motivating for children. There is a motivation for every child that move them towards the wanted behavior; these motivations should be determined and when children show wanted behavior they should be rewarded.
 

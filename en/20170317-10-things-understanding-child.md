@@ -1,6 +1,6 @@
 +++
 slug = "10-things-understanding-child"
-title = "10 Things You Should Know to Understand Your Child With Autism"
+title = "10 Things You Should Know About Autism"
 category = "Autism"
 language = "en"
 author = "Secil"

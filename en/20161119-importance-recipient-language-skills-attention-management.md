@@ -1,6 +1,6 @@
 +++
 slug = "importance-recipient-language-skills-attention-management"
-title = "Importance of Recipient Language Skills and Attention Management"
+title = "Language Skills and Attention Management"
 category = "Autism"
 language = "en"
 author = "Otsimo"
@@ -31,7 +31,7 @@ Children, who had normal developmental stages, do not require extra activity to 
 
 There may be other causes to children not developing recipient language and speech other than mental disability. If the necessary social surrounding is not provided, or the child has a problem with his vocal chords, throat etc., he may not be able to produce words. In the case the child is not showing speech development, it is important to consult to an expert. An early rehabilitation can very much help children gain their speech abilities in short amount of time. The earlier the rehabilitation starts, the more effective is the process of acquiring speech ability and recipient language skills.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_sun.jpg)
+
 
 ## Activities to Develop Recipient Language
 

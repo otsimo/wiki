@@ -9,7 +9,7 @@ keywords = ["Individualized", "education", "law"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2017-08-26"
+available_at = "2017-11-09"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/individualized-education.jpg"
 +++
 
@@ -45,7 +45,6 @@ Annual educational goals should help the child participate in the classroom. So,
 
 The IEP should contain an explanation on how the school will track the child’s progress in terms of the goals set. Also, it will also describe how the school will share the results with you. If your child has the goal of being able to read at third-grade level, the IEP will specify how the process will be tracked (i.e. informal/formal assessment) and how often the results will be reported to you. This way, you can act on the results and make changes to the IEP if you see that your child’s progress has slowed down.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/board.jpg)
 
 ###### Least Restrictive Environment (LRE)
 

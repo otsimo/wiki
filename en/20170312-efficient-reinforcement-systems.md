@@ -26,7 +26,6 @@ While analyzing problematic behaviors, antecedents of behavior, its reasons and 
 
 There may be many reasons involved in problematic behavior. Some antecedents such as negativity in family environment, negative relations with family members, physical and cultural environment at school, negative or indifferent behavior of teacher, bad influence of mass media on children cause repetitive negative behavior happen. To choose a reinforcer, first the reason of behavior should be determined.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/create_child.jpg)
 
 ### What to Consider While Choosing Reinforcers?
 

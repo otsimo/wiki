@@ -1,6 +1,6 @@
 +++
 slug = "wear-blue-world-autism-awareness-month"
-title = "Why Should You Wear #BlueForAutism on World Autism Awareness Month?"
+title = "Why Should You Wear #BlueForAutism?"
 category = "Autism"
 language = "en"
 author = "Secil"

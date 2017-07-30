@@ -39,7 +39,6 @@ Most of the behavior patterns that are called problem behaviors occur during pre
 
 With this, the reasons for problem behaviors divided into two as school-related and non-school-related factors.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw_autism.jpg)
 
 ## _Non-School-Related Factors:_
 

@@ -9,10 +9,10 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-available_at = "2017-08-24"
+available_at = "2017-11-04"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/Calum-Titmus.jpg"
 +++
-
+otsimofamily://wiki/open?tr=calum-titmus-otizm-ve-madalyalar&slug=calum-titmus-otizm-ve-madalyalar
 
 # Calum Titmus: Otizm ve Madalyalar
 

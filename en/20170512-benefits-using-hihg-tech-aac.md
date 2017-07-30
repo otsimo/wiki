@@ -26,7 +26,6 @@ Some researchers suggest that since AAC focuses on encouraging and providing com
 
 It is supported by a research (Koppenhaver, Coleman, Kalman, Yoder, 1991) that AAC also has a positive outcome in terms of language development and literacy, as it supports self-expression in social situations. Children with autism need help with developmental skills such as vocabulary, the length of sentence, syntax and pragmatic skills. AAC can be used as a guideline in this process.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/use_tablet.jpg)
 
 ###### Personalized
 

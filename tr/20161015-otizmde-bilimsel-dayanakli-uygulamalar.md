@@ -23,8 +23,6 @@ Terapinin amacı otizm rahatsızlığını tamamen ortadan kaldırmak değildir.
 
 Otizm terapisinde uygulanan birçok yöntem ilgili bilim kuruluşları tarafında onaylanmamış ya da verimli olduğu konusunda bir kanıt bulunamamıştır. Yunus terapisi, hippoterapi, sanat, müzik ve drama terapileri buna örnek gösterilebilir. Bu terapi yöntemlerinin yararlı olduğu görülen vakalar olsa da, otizm terapisinde genel olarak bir etki ettiklerine dair bilimsel bir kanıt bulunmamaktadır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/read_book.jpg)
-
 
 ## Bilimsel Uygulamalar
 

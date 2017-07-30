@@ -1,6 +1,6 @@
 +++
 slug = "kaynastirma-uygulamalarinin-otizmlilerde-dogurdugu-sonuclar"
-title = "Kaynaştırma Uygulamalarının Otizmlilerde Doğurduğu Sonuçlar"
+title = "Kaynaştırma Uygulamalarının Sonuçları"
 category = "Otizm"
 language = "tr"
 author = "Editoryal"
