@@ -1,5 +1,5 @@
 +++
-slug = "1690-2"
+slug = "kas-taklit-becerileri"
 title = "Büyük ve Küçük Kas Taklit Becerileri"
 category = "Eğitim"
 language = "tr"

@@ -1,5 +1,5 @@
 +++
-slug = "1685-2"
+slug = "taklit-becerileri-onemi"
 title = "Otizmde Taklit Becerilerinin Önemi"
 category = "Otizm"
 language = "tr"

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-11-27"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/sinif-arkadaslarima.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/laque_heroes.jpg"
 +++
 
 # Sınıf Arkadaşlarıma Otizmin Ne Olduğunu Anlattım

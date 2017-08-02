@@ -1,5 +1,5 @@
 +++
-slug = "1759-2"
+slug = "replikli-ogretim"
 title = "Otizmde Replikli Öğretim"
 category = "Eğitim"
 language = "tr"

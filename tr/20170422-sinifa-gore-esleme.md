@@ -1,5 +1,5 @@
 +++
-slug = "1705-2"
+slug = "sinifa-gore-esleme"
 title = "Otizmde Sınıfa Göre Eşleme"
 category = "Eğitim"
 language = "tr"

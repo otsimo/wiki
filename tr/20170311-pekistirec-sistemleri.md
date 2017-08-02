@@ -1,5 +1,5 @@
 +++
-slug = "1675-2"
+slug = "pekistirec-sistemleri"
 title = "Etkili Pekiştireç Sistemleri Geliştirme"
 category = "Eğitim"
 language = "tr"

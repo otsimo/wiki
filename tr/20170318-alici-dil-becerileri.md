@@ -1,5 +1,5 @@
 +++
-slug = "1680-2"
+slug = "alici-dil-becerileri"
 title = "Alıcı Dil Becerilerinin Önemi Ve Dikkatli Yönetme"
 category = "Eğitim"
 language = "tr"

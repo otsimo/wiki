@@ -1,5 +1,5 @@
 +++
-slug = "1662-2"
+slug = "problem-davranis-nedir"
 title = "Problem Davranış Nedir? Sebepleri Nelerdir?"
 category = "Otizm"
 language = "tr"

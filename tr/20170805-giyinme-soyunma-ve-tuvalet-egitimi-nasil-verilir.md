@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-12-20"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/giyinme-soyunma.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/The_Most_Popular_Baby_Boy_Names_for_Each_Letter_of_the_Alphabet_6322_5522.jpg"
 +++
 
 

@@ -1,5 +1,5 @@
 +++
-slug = "1713-2"
+slug = "teknoloji-ile-esleme"
 title = "Teknoloji Kullanarak Eşleme Yöntemi"
 category = "Eğitim"
 language = "tr"

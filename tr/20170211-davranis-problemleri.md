@@ -1,5 +1,5 @@
 +++
-slug = "1656-2"
+slug = "davranis-problemleri"
 title = "Otizmli Çocuklarda Davranış Problemleri Ve Çözümleri"
 category = "Otizm"
 language = "tr"
