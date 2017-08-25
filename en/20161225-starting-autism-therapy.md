@@ -19,7 +19,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/starting-autism-therap
 Early diagnosis is significant for autism treatment. The sooner the diagnosis is, the better the treatment and therapy process works. If the diagnosis is done in the early ages, that would indicate long enough time for an efficient therapy; hence individuals can achieve auditory, cognitive and behavioral abilities. However, there are some topics to be considered before starting the therapy. The starting time should be picked carefully and the process should not be started if the individual is not completely ready for the therapy.
 
 
-###### Diagnosis
+## Diagnosis
 
 First step in **autism treatment** is diagnosis. It is known that autism is a disorder seen in one in every 68 children. Many cases can be detected from the early baby ages. If the child is not showing developments that the age group he or she is in supposed to show, there is a great chance that the child is [suffering from autism](/typical-characteristics-autism-spectrum-disorder/).
 
@@ -28,15 +28,15 @@ Communication and social development disorders are the primary symptoms of autis
 
 Another symptoms of autism are repetitive, limited attention and behavior. Moving objects attract interest of children with autism. A child with autism can watch spinning of a washing machine or a record for hours. It is also known that individuals with autism have strong opinion on "preservation of sameness" They may ask the same question over and over again and want to get the same answer, to give an example. This characteristic negatively affects language development of individuals. If your child shows reactions like this, there is a high chance he or she is suffering from autism. Once diagnosed, the treatment process should be planned and started at an appropriate time.
 
-###### When to Start The Therapy
+## When to Start The Therapy
 
 To begin with, you should be aware that autism can trigger various disorders. Especially in puberty, it may cause depression or anxiety. To handle such situations, before starting the therapy, serious medication therapy must be used for the patient to pay attention to the therapy. Once the patient is ready both physically and mentally, the treatment can start.
 
-###### Specifying the Purpose
+## Specifying the Purpose
 
 Autism is not a disorder whose reasons can be eliminated completely. Thus, the therapy must go on a designated track to reach a goal. The purpose of autism therapy is to help children with auditory, visual and communication problems and that cannot develop these themselves by helping them gain some skills back.
 
-###### Choosing a Treatment Method
+## Choosing a Treatment Method
 
 There are many therapy methods for individuals with autism. Sensory and auditory integration therapies, music, art and drama therapy, dolphin therapy, hipppotherapy and such are the most popular treatment methods. Although there are positive opinions on these methods, none of them are proved to supply a complete treatment.
 

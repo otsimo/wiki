@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-10-28"
-thumb ="https://s3-us-west-1.amazonaws.com/otsimo-en/img/uygulamalidavranisanalizi.jpeg"
+thumb ="https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/kids_training.jpg"
 +++
 
 # Uygulamalı Davranış Analizi (UDA) Nedir

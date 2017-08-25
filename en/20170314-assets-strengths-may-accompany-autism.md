@@ -21,7 +21,7 @@ Besides from the challenges you face with due to autism, you may have noticed th
 
 Determining what your child with autism is good at may come in handy in terms of providing him/her with the sense of achievement. You can blend these abilities into their everyday activities. They will get the joy and satisfaction while learning more. The more they practice their skills or build upon their strengths, the happier and more successful they will become in their upcoming life. These strengths may be the points they will determine what they will be taking up as a job in the future. Determining the abilities and working on the challenges can greatly improve both your and your child’s life in general. Here is a general list of assets and challenges that you can take a look at to get an idea on what to look for in terms of determining your child’s strengths and challenges.
 
-###### Strengths
+### Strengths
 
   * Strong long-term memory skills
   * Direct communication
@@ -40,7 +40,7 @@ Determining what your child with autism is good at may come in handy in terms of
   * Logical thinking that is helpful in decision-making process
   * Intensive focus when working on a favorite activity
 
-###### Challenges
+### Challenges
 
   * Hard time motivating
   * Difficulty of focusing on something other than interest

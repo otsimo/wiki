@@ -36,6 +36,6 @@ Eğer çocuğunuz:
 * Bazı eşyaları döndürmek, sıraya dizmek gibi sıra dışı hareketler yapıyorsa,
 * Günlük yaşamındaki düzen ve rutin değişikliklerine aşırı tepki veriyorsa
 
-### Zaman kaybetmeden bir hastaneye başvurmanız ve çocuğunuzun otizm spektrum bozukluğu açısından değerlendirilmesini istemeniz gerekebilir.
+## Zaman kaybetmeden bir hastaneye başvurmanız ve çocuğunuzun otizm spektrum bozukluğu açısından değerlendirilmesini istemeniz gerekebilir.
 
 Alıntıdır: [Tohum Otizm Vakfı Eğitim Portalı](http://www.tohumotizmportali.org/icerik/otizmi-anlamak/otizm-spektrum-bozuklugunu-taniyalim/tani-nasil-ve-kimler-tarafindan-konur)

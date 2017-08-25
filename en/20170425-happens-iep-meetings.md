@@ -26,7 +26,7 @@ During this meeting, you and the team will have the chance give input on how the
 Every IEP meeting should include certain key points. First of all, the team leader will write a statement on your child’s PLOP (present level of performance). These will be based on the test scores and observations obtained from the team members. Second of all, IEP team will review child’s annual goal progress. Depending on the progress, you will develop new specific, measurable and realistic goals for the next year. You will also look into how the individualized services are working.
 
 
-###### What else?
+## What else?
 
 Other than these topics, there are some more items you can discuss in IEP meetings. It is important that you share your observations outside of school so that the team can make a certain assessment. You can focus on one of your child’s **strengths** and give information on that. If he/she is struggling with social interaction, you can fill in the IEP team on what he/she is doing with social interactions outside of school.
 

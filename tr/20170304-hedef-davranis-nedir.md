@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-11-13"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/hedef-davranis-nedir.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/girls-playing-on-tablet.jpg"
 +++
 
 # Hedef Davranış Nedir?
@@ -22,7 +22,7 @@ Sorunlu davranışların ortaya çıkmasının birçok sebebi olabilir. Aile ort
 Sorunlu davranışların değiştiştirilmesi, azaltılması ve yerlerine yenilerinin koyulması için ilk olarak hedef davranış belirlemek gerekir. Olumlu ve olumsuz davranışlar hedef olarak belirlenir. Burada amaç davranış biçimini analiz ederek çocuğu olumsuz davranışlardan uzaklaştırmak, onun yerine olumlu davranış biçimleri edinmesine yardımcı olmaktır. Davranış seçimi için gerekli veriler uygulamalı davranış analizi ile toplanabilir.
 
 
-###### Uygulamalı Davranış Analizi
+## Uygulamalı Davranış Analizi
 
 [ABA (Applied Behavoir Analysis) ](/uygulamalidavranisanalizi/)olarak da bilinen Uygulamalı Davranış Analizi, davranışların gözlemlenmesinde ve davranış biçimlerine yönelik eylemlerde en sık uygulanan yöntemdir. Bu yöntemin esası kişinin gözlemlenerek davranışlar hakkında veri toplanmasıdır. Bu veriler sorunlu davranışları değiştirmek için analiz edilir ve kullanılır. Program öncelikle davranışları gözlemler, daha sonra sorunlu davranışların yerine olumlularını yerleştirmeye çalışır ve olumlu eylemlerin kalıcı olmasını sağlar. Uygulamalı Davranış Analizi, belli aşamalar ile gerçekleştirilen bir programdır.
 
@@ -32,7 +32,7 @@ Sorunlu davranışların değiştiştirilmesi, azaltılması ve yerlerine yenile
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/fun_time.jpg)
 
-###### Hedef Davranış Uygulamasında Nelere Dikkat Edilmelidir?
+## Hedef Davranış Uygulamasında Nelere Dikkat Edilmelidir?
 
 Hedef davranış özelliklerinin doğru seçilmesi son derece önemlidir. Belirtildiği gibi öğretmenin nesnellikten uzak, duygusal güdülenmeden kaynaklanan bir hedef belirlemesi programın kötü etkilenmesine sebep olacaktır. Söz konusu hedef öğrencinin olumsuz davranışını değiştirmeye yönelik, somut, anlaşılabilir ve ölçülebilir bir pratik olmalıdır. Dolayısıyla Uygulamalı Davranış Analizi’nin gözlem aşaması iyi yürütülmelidir.
 

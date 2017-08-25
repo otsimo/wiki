@@ -16,14 +16,14 @@ youtube = "https://www.youtube.com/embed/rKbAwTR7Ok4"
 
 Dış görünümleri ile diğer çocuklardan farklı olmayan otizmli çocuklar davranışlarıyla diğerlerinden ayrılır. Otizm iki temel alanda davranış sorunlarıyla kendini gösterir:
 
-### Sosyal İletişim ve Sosyal Etkileşim
+## Sosyal İletişim ve Sosyal Etkileşim
 
 Göz kontağı kuramama, vücut dilini anlamama ve kullanamama, parmakla işaret ederek gösterme gibi jestleri anlama ve kullanmada yetersizlik
 Yüz ifadelerinde ve sözel olmayan iletişimlerinde sınırlılık gibi sosyal etkileşim kurma amacıyla kullanılan sözel olmayan iletişim davranışlarında yetersizlik
 Karşılıklı konuşma başlatma ve sürdürmede yetersizlik, ilgileri ve duyguları paylaşmada sınırlılık, sosyal iletişim başlatma ya da sosyal etkileşime tepkide bulunmada yetersizlik gibi karşılıklı sosyal-duygusal tepkilerde yetersizlik
 Sosyal bağlamlara uygun davranamama, hayali oyun oynayamama, arkadaş edinememe ve akranlarına karşı ilgisizlik gibi ilişki kurma, sürdürme ve ilişkiyi anlamada yetersizlik
 
-### Tekrarlanan/Takıntılı Davranışlar ve Sınırlı İlgiler ya da Etkinlikler
+## Tekrarlanan/Takıntılı Davranışlar ve Sınırlı İlgiler ya da Etkinlikler
 
 * Tekrarlanan ya da takıntılı motor davranışlar, nesne kullanma ya da konuşma
 * Aynılık üzerinde ısrar etme, rutinlere aşırı bağlılık

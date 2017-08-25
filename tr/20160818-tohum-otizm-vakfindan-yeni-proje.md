@@ -26,4 +26,5 @@ Yetiştirilen eğiticiler, belirlenen 20 okul öncesi kurumda çalışan 100 oku
 
 Projenin en önemli sonucu, "okul öncesi kurumlara devam eden ancak gelişimsel gereksinimleri beklendiği ölçüde karşılanamayan özel gereksinimli çocukların, bu kurumlardan en iyi şekilde yararlanmalarını sağlamak" olacak.
 
-[Kaynak](http://www.haberler.com/tohum-otizm-vakfi-ndan-yeni-proje-8696187-haberi/)
+**Kaynak**:
+http://www.haberler.com/tohum-otizm-vakfi-ndan-yeni-proje-8696187-haberi/

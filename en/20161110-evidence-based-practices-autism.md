@@ -20,15 +20,15 @@ Autism is a disorder that requires long treatment and therapy process. Essential
 The goal of the therapy is not to completely eliminate autism disorder. Today, there is no known cure for autism. However, with therapy, individuals can achieve what they otherwise cannot do by themselves, and solve their problems relating to communication, speech, perception and thinking. That being said, many methods used for autism are controversial. It is highly important to practice evidence-based methods.
 
 
-### Non-Evidence-Based Practices
+## Non-Evidence-Based Practices
 
 Many methods used in autism therapy are not approved by scientific institutions or no evidence was found on their efficiency. Dolphin therapy, hippotherapy, art, music, and drama therapies can exemplify this. Even though there are cases on which these therapy methods had positive effects, there is not any scientific evidence that they have effect on autism treatment.
 
-### Evidence-Based Practices
+## Evidence-Based Practices
 
 In the USA, National Autism Center recently released a chart of practices related to autism. According to results of 775 researches, it is detected that among the methods used for autism 11 are considered evidence-based, 22 show promise, and 5 of them lack any scientific base.
 
-### Behavior Analysis
+## Behavior Analysis
 
 Scientific methods are essentially based on applied behavior analysis. Main purpose of this discipline is to analyze behavior of individual with environmental factors and communication with the environment, and then provide a solution depending on the results. These practices, ranging from playing abilities to social abilities, also aim to reduce tantrums and other bad reactions.
 
@@ -42,7 +42,7 @@ Activity schedules have great impact in this method. Here, an activity chart is 
 
 
 
-### Modeling Method
+## Modeling Method
 
 As known, it is not possible for children with autism to gain certain skills by themselves. Certain behaviors and skills that are necessary for children to maintain their lives and communicate are only achieved through therapy. The main goal of autism therapy is to help them gain these skills. Modeling is a method that has been used for some time in autism treatment and known to be effective.
 
@@ -52,7 +52,7 @@ In this method, a behavior that the child should perform is shown practically by
 
 Modeling with video method is one of the most effective methods. In this method the child is video taped and when he is asked to perform the same skill, he is shown his own video. It is known that this method is influential in reinforcing the skills and making it practical. The method, which has been used since the 1970s, is among the most efficient scientific methods.
 
-### Behavior Support Plan
+## Behavior Support Plan
 
 Another important issue in autism treatment is the prevention of repetitive harmful behavior. Individuals with autism are known to have anger management problems. Temper tantrums are seen in so many cases that in some of them, this state might cause tendency to violence. The main purpose of behavior support plan is to prevent such situations.
 
@@ -64,9 +64,3 @@ The goal here is to be able to replace negative behavior with positive ones in i
 
   * **Dilek Akbaş; **Problem Davranışların Azaltılmasında Olumlu Destek Planı Hazırlama, Ankara Üniversitesi Eğitim Bilimleri Fakültesi Özel Eğitim Dergisi, Sayı: 3, 2002**Sayı: 3, 2002**
   * **Nurgül Akmanoğlu, Erkan Kurnaz;** Otizmli Çocukların Eğitiminde Yeni Eğilimler: Videoyla Kendine Model Olma ve Etkileri, Ankara Üniversitesi Eğitim Bilimleri Fakültesi Özel Eğitim Dergisi, Sayı: 15, 2014
-
- 
-
-** **
-
-** **

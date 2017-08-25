@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-10-12"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/basarili-kaynastirmanin.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/o-CHILD-TABLET-facebook.jpg"
 +++
 
 

@@ -20,7 +20,7 @@ Inclusive practices are education models which enable children with autism to co
 Inclusion demands attention. Before inclusive practice, social and academic skills of autistic children should be observed in OÇEMs (Autistic Children Education Center) and only if they meet the necessary criteria the inclusive practice should be applied. The operation form of the practice is also crucial.
 
 
-**Precautions to Take and Necessary Information for a Successful Inclusion**
+#### Precautions to Take and Necessary Information for a Successful Inclusion
 
   * For an inclusive practice to succeed, first of all, teachers and personnel of the school that the practice will take place should be trained and have awareness on the subject.
   * Besides general training, teachers should be given special trainings on learning types of children with autism.

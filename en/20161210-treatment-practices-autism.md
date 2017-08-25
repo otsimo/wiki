@@ -21,7 +21,6 @@ It has been a long debate if autism is completely preventable or there is a trea
 Individuals with autism need years of therapy and treatment process. Main purpose of this process is to enable the child to gain abilities otherwise he would not be able to gain by himself. With that, there are treatments where the effects of the autism are minimized and communication problems of the individual are solved. Although it is debatable that these treatments provide certain effect, they are known to be effective in the long run.
 
 
-
 ## Psychiatric Treatment
 
 To practice an accurate treatment, it is necessary to first eliminate negative behaviors of individuals with autism that constantly repeats. These individuals are prone to suffer from disorders like Asperger's syndrome, anxiety and panic attack. Also, communication and behavior deficits cause children to react negatively, even tantrums. To achieve a positive outcome and move forward, it is necessary to prevent these kinds of reactions.

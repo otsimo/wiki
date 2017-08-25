@@ -15,7 +15,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/replikli-ogretim.jpeg"
 
 # Otizmde Replikli Öğretim
 
-**Otizmli** bireyler ile iletişim kurmak ve onların da iletişim konusunda becerilerini geliştirme üzerek kullanılan yöntemlerden biri de replikli öğretimdir. Replikli öğretimde amaç çocuklar ile etkileşime girmek, konuşma başlatma ve sürdürebilme yeteneklerini geliştirmeleri amaçlanmaktadır. Çocukların sözcük dağarcıkları geniş olsa da bu bir konuşmayı başlatmak veya sürdürmek için yeterli olmamaktadır.
+Otizmli bireyler ile iletişim kurmak ve onların da iletişim konusunda becerilerini geliştirme üzerek kullanılan yöntemlerden biri de replikli öğretimdir. Replikli öğretimde amaç çocuklar ile etkileşime girmek, konuşma başlatma ve sürdürebilme yeteneklerini geliştirmeleri amaçlanmaktadır. Çocukların sözcük dağarcıkları geniş olsa da bu bir konuşmayı başlatmak veya sürdürmek için yeterli olmamaktadır.
 
 Replikli eğitimde sesli veya yazılı sözcükler, çeşitli ibareler ve cümleler yardımıyla yapılan bir eğitim şeklidir. Çocuklar sesli verilen replikleri taklit etmeye ve yazılı replikleri okumaya başlarlar. Bunları öğrendikten sonra replikler son sözcüklerden başlanarak silinir. Replik kullanmayı öğrenen çocuklar da sosyal etkileşime daha rahat girebilirler. Aynı zamanda dilin yapısını ve karşılıklı konuşmayı daha rahat öğrenirler.
 

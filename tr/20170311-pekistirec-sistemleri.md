@@ -20,13 +20,13 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/pekistirec-sistemleri.
 
 Ancak doğru pekiştireci bulmak son derece önemlidir. Çocuğu olumlu etkileyen herhangi bir uyarım pekiştireç olabilir. Fakat oyuncak, çikolata, şeker gibi gereçlerle ya da besinlerle ödüllendirmek uzun vadede zararlı olabilecek bir yöntemdir. Pekiştireci bulmak için çocuğun davranışlarını, davranışların sebeplerini ve oluşum süreçlerini iyi bir şekilde analiz etmek gerekir.
 
-### Pekiştireç Seçimi Öncesi Davranış Analizi
+## Pekiştireç Seçimi Öncesi Davranış Analizi
 
 Problemli davranışlar analiz edilirken davranışların oluşum sebepleri, nedenleri ve tetikleyen faktörler göz önüne alınmalıdır. Bunun için ise ABA (Applied Behavoir Analysis) olarak da bilinen Uygulamalı Davranış Analizi yöntemine başvurulmalıdır. Bu analizin temel amacı çocukların problemli davranışları hakkında veri toplamak, sebeplerini belirlemek ve onların davranışlarını değiştirmeye yönelik çalışmalar yapmaktır.
 
 Problemli davranışların oluşmasında birçok sebep olabilir. Aile ortamındaki olumsuzluklar, aile bireyleriyle kurulan olumsuz ilişkiler, okuldaki fiziksel ve kültürel ortam, öğretmenin olumsuz ya da ilgisiz davranışları, kitle iletişim araçlarının çocuklar üzerindeki kötü etkileri gibi sebepler tekrarlanan olumsuz davranışları ortaya çıkarır. Pekiştireç seçimi yaparken öncelikle davranışın oluşum sebebi anlaşılmalıdır.
 
-### Pekiştireç Seçerken Nelere Dikkat Edilmelidir?
+## Pekiştireç Seçerken Nelere Dikkat Edilmelidir?
 
 Pekiştirme yönteminin ödül-ceza pratiğine yakın olduğunu belirtmek gerekir. Ancak “ceza” kavramından kesinlikle çocuğa psikolojik ya da fiziksel olarak zarar verecek bir uygulama anlaşılmamalıdır. Bu tür bir uygulama kısa vadede çocuğun problemli davranışını bastırsa da, sonrasında daha şiddetli ve travmatik bir biçimde geri gelmesine sebep olabilir. Dolayısıyla öğretmen ceza uygularken kesinlikle ama kesinlikle şiddete başvurmamalı, çocuğun üzerinde korku yaratacak fiziksel ya da psikolojik hiçbir pratiği uygulamamalıdır. Aksi takdirde çocuğun hayatı boyunca çeşitli travmalara sahip olmasına sebep olunabilir. Bu durum sorunlu davranışı geçici olarak bastırsa da çocuğun psikolojik gelişimini kötü etkileyecek ve yetenek kazanmasının önüne geçecektir.
 
@@ -36,13 +36,13 @@ Pekiştirme sistemi, edimsel koşullanma temeline dayanmaktadır. Burada amaç �
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/games_child.jpg)
 
-### Pekiştireç Türleri:
+## Pekiştireç Türleri:
 
-  * **Birincil Pekiştireçler:**
+#### Birincil Pekiştireçler:
 
 Zorunlu ihtiyaçlar, birincil pekiştireç olarak adlandırılır. Sıcaklık, uyku, hava, su, yiyecek gibi uyaranlar birincil pekiştireçtir. Bu pekiştireçlerin çok zorunlu olmadıkça kullanılmaması gerekir. Yukarıda belirtildiği gibi, cezalandırma olumlu uyaranın yokluğu şekilde olmalıdır. Ancak çocuğu su, yiyecek, uyku gibi temel ihtiyaçlardan mahrum bırakmak kötü etkileyecektir. Birincil pekiştireç olarak gazoz, çikolata, şeker gibi besin maddeleri kullanılabilir. Fakat bu besinlerin dikkatli bir biçimde kullanılması gerekir. Örneğin davranış değiştirme sürecinde her olumlu pratikte değil, belli başlı ve önemli dönüm noktalarında kullanılabilir. Bu tür maddelerin aşırı tüketiminin çocuk sağlığını kötü etkileyebileceğini ve davranış değiştirme süreci boyunca uygulanmasının bağımlılığa dahi sebep olabileceğini unutmamak gerekir.
 
-  * **İkincil Pekiştireçler:**
+#### İkincil Pekiştireçler:
 
 İkincil pekiştireçler, etkili bir pekiştireç ile etkisiz bir uyaranın bir arada bulunmasıyla oluşan pekiştireçlerdir. Davranışları değiştirilmek istenen çocuk, temel ihtiyaçlarından biriyle değil, ikincil ihtiyaç olarak bilinen unsurlar ile uyarılır. Problemli davranışların düzeltilmesinde genellikle ikincil pekiştireçler kullanılır. Çünkü bu pekiştireçler kolay kontrol edilebilir, her yaş grubuna uygulanabilir ve birincil pekiştireçler gibi doyum ya da doyumsuzluk yaratmaz. İkincil pekiştireçler, kendi içinde sosyal, nesnel, etkinlik ve sembol pekiştireçler olmak üzere dörde ayrılır.
 

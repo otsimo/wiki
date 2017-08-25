@@ -22,7 +22,7 @@ OSB sahibi kişiler nesneleri, kavramları ayırt etme konusunda büyük sıkın
   * Genelleme: Klasik koşullanmadan sonra uyarana benzer diğer uyarıcılara da aynı tepkinin verilmesidir. Örneğin bir köpeğe “kuçu kuçu” demeyi öğrenen bir çocuk bunu hayvanların tümüne genelleyerek koyun gördüğünde de aynı tepkiyi gösterebilir.
   * Ayırt Etme: Genellemenin tam tersidir. Tepkilerin yalnızca spesifik bir uyarana verilmesidir.
 
-### Ayırt Etme
+## Ayırt Etme
 
 Normal bir gelişim sürecine sahip olan kişiler, nesneleri, sesleri, kavramları erken yaşlardan itibaren ayırt edebilirler. Duyulan sesler çoğu zaman emekleme dönemindeyken ayırt edilip uyaranlar ayrılırken, nesneleri ayırt etme süreci iki yaşında hızlanır. Otizm sahibi bir bireyin bu yeteneği kazanabilmesi için uzman bir terapist tarafından verilen görsel ve işitsel ayırt etme eğitimini alması gerekir.
 
@@ -34,7 +34,7 @@ Ayırt etme işleminde pekiştireçler son derece önemlidir. Yiyecek pekiştire
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/room_game.jpg)
 
-### Genelleme
+## Genelleme
 
 Otizmli bireylerin kavramları, nesneleri ve uyaranları algılayabilmeleri için, genelleme ile ayırt etme arasındaki ilişkiyi kurabilmeleri gerekir. Genelleme kazandırma bu yüzden önemlidir. Bu yeteneğe sahip olmayan bireyler, tek tek nesneleri anlayıp tanımlandırabilseler de bu nesneleri özellikleri bakımından gruplandırma konusunda eksiklik yaşayarlar. Bu yüzden genelleme yeteneğinin de iyi bir terapi uygulanarak çocuklara kazandırılması gerekir.
 

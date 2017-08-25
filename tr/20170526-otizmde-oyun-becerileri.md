@@ -20,19 +20,19 @@ Otizmli çocuklarda bireysel gelişimin olduğu kadar topluma uyum sağlama bece
 
 **Otizm spektrum bozukluğu** tanısı ile yaşayan çocuklar, toplum içerisinde kendine yer bulmaya çalışan diğer bireylerden daha fazla sorun ile karşı karşıyadır. 1989 yılında Birleşmiş Milletler Genel Kurulu tarafından kabul edilen ve daha sonraki yıllarda Türkiye tarafından da onaylanan Çocuk Haklarına Dair Sözleşme’nin 31. Maddesi, oyunun her çocuğun temel hakkı olduğunu belirtmektedir. Ancak tüm uluslararası ve yerel düzenlemelere rağmen otizmli ya da farklı bir bozukluk ya da yetersizliğin etkisinde yaşayan çocuklar, bu haklarından tam olarak yararlanamamaktadır.
 
-##### Oyun Becerİlerİ ve Sosyal Çevre
+## Oyun Becerİlerİ ve Sosyal Çevre
 
 Otizmli çocukların dil, iletişim ve dikkat toplama gibi yeteneklerde yaşadıkları zorluklar, yakın çevreleri ve yaşıtları ile sosyalleşmelerinde sorunlar doğurmaktadır. Bu farklılıklar temel etkileşimleri yaşıtlarından katbekat daha zor gerçekleştirmelerine neden olmaktadır. Duygu ve ihtiyaçların aktarılamaması, **otizmli bireylerin** toplum içerisinde yer almalarını güçleştirmektedir. Sosyal çevrelerindeki farkındalık eksikliği, otizmli bireylerin temel yetenekleri geliştirmek için ihtiyaç duyduğu sağlıklı koşullara ulaşmasını engellemektedir. Oyun becerileri bu gelişime katkıda bulunabilir.
 
 Nörolojik bir farklılık olan otizm spektrum bozukluğu, otizmli bireylerde toplum içerisinde yoğun ilgi gören genel konulara karşı ilgisizlik yaratabilir. Bu sebeple otizmli bireyler kendileriyle iletişim kuran normal gelişimli çocukların etkileşim tekliflerine beklenenden farklı tepkiler sergileyebilirler. Bu farklılıkları yoğun olarak hisseden otizmli bireyler, iletişim başlangıçları kurmak konusunda da çekimser davranabilmektedir.
 
-##### Oyun Becerİlerİ ve İletİşİm İlİşkİsİ
+## Oyun Becerİlerİ ve İletİşİm İlİşkİsİ
 
 Tüm bu farklılıklardan ötürü uzmanlar otizmli bireyler ile oyun etkinlikleri programlarken hassas davranmak mecburiyetindedir. Kişilerin otizm etkisinden kaynaklanan kişisel özellikleri ile beraber, karakterlerinden kaynaklanan tercih ve çekinceleri de hesaba katılmalıdır. Otizmli çocukların her birine özgü ayrı oyun ve iletişim uygulamaları tasarlanmalıdır. İletişim ve oyun becerilerinin gelişim hızının bütün çocuklarda farklılık gösterdiği unutulmamalıdır.
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/mini_toys.jpg)
 
-##### Oyun Becerİlerİ Çocuğu Nasıl Etkİler
+## Oyun Becerİlerİ Çocuğu Nasıl Etkİler
 
 Oyunlar eğitim sürecine istekliliğin arttırılması, motor becerilerin geliştirilmesi, yeni becerilerin öğrenilmesi ve iletişim yeteneğinin kuvvetlendirilmesi için önemli olanaklar sağlamaktadır. Oyun süresince çocuklar hem kas hem de zihinsel becerilerini geliştirme fırsatı yakalarlar.
 
@@ -42,7 +42,7 @@ Ayrıca oyunlar çocukların dil ve hatta okuma yazma becerilerine de olumlu etk
 
 Normal gelişim gösteren çocuklar, çevrelerini izleyerek, rol modellerini ve düzenli faaliyetleri çoğunlukla kendiliğinden ayrıştırabilmektedir. Büyüklerini mutfakta yemek hazırlarken gören çocuklar, büyüklerin küçüklere karşı koruyucu bir rolü sahiplendiğini doğrudan kavrayabilirler ve bu öğretilerini oyunlarına taşırlar.
 
-##### Oyun BecerIlerI PekIştIrme Çalışmalarını Desteklerler
+## Oyun Becerileri Pekiştirme Çalışmalarını Desteklerler
 
 Tipik gelişim gösteren çocuklar gündelik hayatlarının taklidini oyunlarına taşıyabilirlerken, otizmli çocuklar oyun etkinliğine katılırken özel **pekiştirme ve destekleme çabalarına **ihtiyaç duyarlar. Otizmin seyri incelendiğinde, otizmli çocukların daha erken dönemlerden itibaren oyun becerisi geliştirmekte zorlandıkları rahatlıkla görünür. Çocuklar oyuncaklar ile sınırlı bir şekilde iletişime geçebilmekte, nesneleri işlevleri ile kullanmak hususunda sorunlar yaşamaktadırlar. Teşvik ile oynatılan oyunlar, çocuğun ileri süreçlerde kendi hayatını destekleyen bir öz çalışma yapabilmesine olanak sağlar. Çocuğun yaratıcılığını kullanabilme kabiliyetini geliştirir ve oyuncak formdaki nesneleri, farklı bir sonuca ulaşmak için verimli bir şekilde kullanabileceğini fark etmesini sağlar. Otizmli çocukları, okul dönemi ve olgunluk yaşlarında konforlu bir hayat sürebilmeleri yönünde destekler.
 

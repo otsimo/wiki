@@ -18,7 +18,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/autism-awareness.png"
 
 April is just around the corner. It is also National Autism Awareness Month. This beautiful spring month is dedicated to autism and to promote awareness, inclusion, acceptance and provide a quality life to those who live with Autism Spectrum Disorders.
 
-###### Raising Awareness in a Unique Way
+## Raising Awareness in a Unique Way
 
 National Autism Awareness Month is celebrated differently by many people around the nation. There are a lot that you can do to raise awareness. For instance, Bob Renzas, an illustrator and a father of an eight-year-old boy with autism, shared a blue sketch of a character for every single day on April 2016 on his twitter to show and raise awareness in a unique way.
 
@@ -41,7 +41,7 @@ Apologies for the posting delay.[#LIUB](https://twitter.com/hashtag/LIUB?src=has
 
 You can visit [his twitter page](https://twitter.com/renzoid1), where he shared his blue character illustrations, to see more of what he has done.
 
-###### What Can _I_ Do?
+## What Can I Do?
 
 You may be thinking; what can _**I **_do? It’s simple. Bob Renzas shared his story in a unique but simple way. A simple share on your social media can touch a clueless person and create a difference you cannot even imagine. During this month, you can share your ideas and knowledge about autism with the world. In the end, the intent here is to share the knowledge, raise awareness.
 
