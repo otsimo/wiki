@@ -15,7 +15,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ayirma-ve-genelleme.jp
 
 # Ayırma Ve Genelleme
 
-****Otizm Spektrum Bozukluğuna**** sahip bireylerde anlamlandırma ve kavrama konusunda ciddi eksiklikler görülür. Normal bir gelişim süreci izleyen kişiler, nesneleri ve kavramları ayırt etme, sınıflandırma becerisini kendi deneyimleri ve gözlemleri ile kazanabilirler. Ancak otizmli bir birey için bunun tek başına kazanılması mümkün değildir. Bu yüzden nitelikli bir terapi uygulanması gerekir.
+Otizm Spektrum Bozukluğuna sahip bireylerde anlamlandırma ve kavrama konusunda ciddi eksiklikler görülür. Normal bir gelişim süreci izleyen kişiler, nesneleri ve kavramları ayırt etme, sınıflandırma becerisini kendi deneyimleri ve gözlemleri ile kazanabilirler. Ancak otizmli bir birey için bunun tek başına kazanılması mümkün değildir. Bu yüzden nitelikli bir terapi uygulanması gerekir.
 
 OSB sahibi kişiler nesneleri, kavramları ayırt etme konusunda büyük sıkıntılar yaşarlar. Herhangi bir nesnenin görsel ve işlevsel özelliklerini göz önüne alarak onu diğerlerinden ayırt etmek bu rahatsızlığa sahip kişiler için ciddi anlamda zor olacaktır. Ayrıca nesneler tek başına ayırt edilse bile, onların sınıflandırılması da gerekir. Bu yüzden otizmli çocuklara ayırma ve genelleme yetenekleri kazandırılmalıdır. Ayırma ve genelleme becerisi, yalnızca nesnelerin ve kavramların anlamlandırılması için değil, dil kazanımı ve pratiği için de önemlidir.
 

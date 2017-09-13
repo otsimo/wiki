@@ -18,7 +18,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/create_child.jpeg"
 
 Otizmli çocuklarda bireysel gelişimin olduğu kadar topluma uyum sağlama becerilerinin gelişmesi de oldukça önemlidir. Çocuğun topluma uyum sağlamasına giden yoldaki ilk adımlardan birisi oyun becerileridir.
 
-**Otizm spektrum bozukluğu** tanısı ile yaşayan çocuklar, toplum içerisinde kendine yer bulmaya çalışan diğer bireylerden daha fazla sorun ile karşı karşıyadır. 1989 yılında Birleşmiş Milletler Genel Kurulu tarafından kabul edilen ve daha sonraki yıllarda Türkiye tarafından da onaylanan Çocuk Haklarına Dair Sözleşme’nin 31. Maddesi, oyunun her çocuğun temel hakkı olduğunu belirtmektedir. Ancak tüm uluslararası ve yerel düzenlemelere rağmen otizmli ya da farklı bir bozukluk ya da yetersizliğin etkisinde yaşayan çocuklar, bu haklarından tam olarak yararlanamamaktadır.
+Otizm spektrum bozukluğu tanısı ile yaşayan çocuklar, toplum içerisinde kendine yer bulmaya çalışan diğer bireylerden daha fazla sorun ile karşı karşıyadır. 1989 yılında Birleşmiş Milletler Genel Kurulu tarafından kabul edilen ve daha sonraki yıllarda Türkiye tarafından da onaylanan Çocuk Haklarına Dair Sözleşme’nin 31. Maddesi, oyunun her çocuğun temel hakkı olduğunu belirtmektedir. Ancak tüm uluslararası ve yerel düzenlemelere rağmen otizmli ya da farklı bir bozukluk ya da yetersizliğin etkisinde yaşayan çocuklar, bu haklarından tam olarak yararlanamamaktadır.
 
 ## Oyun Becerİlerİ ve Sosyal Çevre
 

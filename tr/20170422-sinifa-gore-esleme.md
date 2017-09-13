@@ -37,15 +37,15 @@ Eğitime başlarken bir sınıfa ait en benzer nesneler ile başlamak ya da kull
 
 Örnek vermek gerekirse, çocuğun “hayvan” kavramını öğrenmesi için hayvan oyuncakları bulunabilir. İlk etapta inek, zürafa, gergedan, geyik gibi dört ayaklı hayvanlar ya da geyik, boğa, bizon gibi boynuzlu hayvanlar sınıflandırılabilir. Ayrıca tabak, kaşık gibi aynı eylem içinde kullanılan cisimler ile anlam ilişkisi oluşturulabilir ve bu şekilde bir sınıflandırma yapılabilir.
 
-#### 1.Aşama
+### 1.Aşama
 
 Bu aşamada nesneler ait oldukları gruplarla birlikte eşlenir. Örneğin yemek için kullanılan gereçler eşlenebilir. Masanın üstüne bir tabak ve kaşık konularak çocuktan bunları eşlemesi istenir. Çocuk, eşleme işlemini yaptığında yiyecek pekiştireciyle ödüllendirilir. Daha sonra masa, tuzluk, çatal, bıçak, sürahi gibi yemek yeme eylemiyle ilişkin diğer nesneler de öğretilir.
 
-#### 2.Aşama
+### 2.Aşama
 
 İlk aşamada kullanılandan farklı bir sınıf seçilir. Örneğin ilk etapta yemek ile ilgili sınıflandırmalar kullanıldıysa, bu sefer yazma eylemiyle ilgili cisimler kullanılabilir. Kalem, defter, silgi, kalem ucu, kalemtraş, kağıt gibi cisimler eşleştirilir ve ilk aşamadaki gibi uygulanarak çocuğun bu cisimlerden en az 3-4 tanesini tanımlayarak birbiriyle eşleştirmesi sağlanır.
 
-#### 3.Aşama
+### 3.Aşama
 
 İki gruptaki nesneler de masaya konur ve çocuktan bu nesneleri eşleştirmeleri istenir. İlerleyen zamanlarda nesneler karışık bir biçimde konulabilir. Örneğin kaşığı yemek ve kırtasiye malzemeleri arasından tabak ile eşleştirmesi izlenir. Burada çocuğa ipucu verilebilir. Bu uygulama öğrendiği kavramları hatırlamasını sağlayacak ve sınıflandırmanın mantığını çözmesine yardımcı olacaktır.
 

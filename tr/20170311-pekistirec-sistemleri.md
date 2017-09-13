@@ -38,12 +38,11 @@ Pekiştirme sistemi, edimsel koşullanma temeline dayanmaktadır. Burada amaç �
 
 ## Pekiştireç Türleri:
 
-#### Birincil Pekiştireçler:
+### Birincil Pekiştireçler:
 
 Zorunlu ihtiyaçlar, birincil pekiştireç olarak adlandırılır. Sıcaklık, uyku, hava, su, yiyecek gibi uyaranlar birincil pekiştireçtir. Bu pekiştireçlerin çok zorunlu olmadıkça kullanılmaması gerekir. Yukarıda belirtildiği gibi, cezalandırma olumlu uyaranın yokluğu şekilde olmalıdır. Ancak çocuğu su, yiyecek, uyku gibi temel ihtiyaçlardan mahrum bırakmak kötü etkileyecektir. Birincil pekiştireç olarak gazoz, çikolata, şeker gibi besin maddeleri kullanılabilir. Fakat bu besinlerin dikkatli bir biçimde kullanılması gerekir. Örneğin davranış değiştirme sürecinde her olumlu pratikte değil, belli başlı ve önemli dönüm noktalarında kullanılabilir. Bu tür maddelerin aşırı tüketiminin çocuk sağlığını kötü etkileyebileceğini ve davranış değiştirme süreci boyunca uygulanmasının bağımlılığa dahi sebep olabileceğini unutmamak gerekir.
 
-#### İkincil Pekiştireçler:
-
+### İkincil Pekiştireçler:
 İkincil pekiştireçler, etkili bir pekiştireç ile etkisiz bir uyaranın bir arada bulunmasıyla oluşan pekiştireçlerdir. Davranışları değiştirilmek istenen çocuk, temel ihtiyaçlarından biriyle değil, ikincil ihtiyaç olarak bilinen unsurlar ile uyarılır. Problemli davranışların düzeltilmesinde genellikle ikincil pekiştireçler kullanılır. Çünkü bu pekiştireçler kolay kontrol edilebilir, her yaş grubuna uygulanabilir ve birincil pekiştireçler gibi doyum ya da doyumsuzluk yaratmaz. İkincil pekiştireçler, kendi içinde sosyal, nesnel, etkinlik ve sembol pekiştireçler olmak üzere dörde ayrılır.
 
   * **Sosyal Pekiştireçler: **Çocuğa ilgi göstermek, temas kurmak, olumlu motive edici sözler kullanmak, sarılmak, öpmek ve olumlu bir şekilde güdülenmesini sağlayacak tepkiler vermek sosyal pekiştireç kapsamında değerlendirilir. Yerinde ve zamanında kullanıldığında istenilen etkiyi verebilir. Çocuklar, olumsuz davranışlarını değiştirmeye yönelik çaba sarf ettiklerinde övgü beklerler. Aldıkları övgü onları olumlu anlamda güdüler ve doğru davranışları sergilemeye devam etmelerini sağlar. Sosyal pekiştireçler uygulanırken ses tonu, jest ve mimikler de temas ile uyumlu bir şekilde sergilenmeli ve inandırıcı olunduğundan emin olunmalıdır.

@@ -51,11 +51,11 @@ Edimsel koşullanma, otizmli bireylerin eğitim ve rehabilitasyon sürecinde ön
 
 Belirtildiği gibi, otizmli çocukların normal bir öğrenim faaliyetleri yoktur. Çocukların çeşitli işlevleri, davranış kalıplarını, dili ve bilgiyi kendi başlarına öğrenmeleri mümkün olmayabilir. Bu yüzden çocukların bir rol model almaları gerekecektir. Taklit becerilerinin amacı tam olarak budur. Çocuklara bir rol model sunulur ve çeşitli işlevlerin, becerilerin kazandırılması bu şekilde yapılır.
 
-##### Taklidin Sosyal İşlevi
+### Taklidin Sosyal İşlevi
 
 Taklit, her çocuğun öğrenme sürecinde önemli bir yere sahip olan bir unsurdur. Yalnızca dilin ve çeşitli davranışların, işlevlerin öğrenilmesini değil, sosyalleşmeyi de sağlar. Bebeğin ebeveynin davranışlarını taklit etmesi ve ebeveynin ona verdiği tepkiler, bebeğin ilk sosyal deneyimidir. Diğer insanlarla ilk olarak bu şekilde ilişki kurar. Otizmli çocukların eğitiminde de taklidin böyle bir işlevi vardır. Taklit yalnızca çocuğun öğrenme sürecini hızlandırmaz. Aynı zamanda terapistiyle sosyal bir ilişki kurmasını sağlar ve sosyalleşmesine katkıda bulunur. Grupça yapılan taklit seanslarında çocukların sosyal gelişimleri verimli bir şekilde sağlanmaktadır. Taklit becerileri yoluyla rehabilite edilen otizmli bireylerde iletişim yeteneğinin geliştiği de bilinmektedir.
 
-##### Taklidin Öğrenme İşlevi
+### Taklidin Öğrenme İşlevi
 
 Taklit, etkili bir öğrenme biçimidir. Yalnızca çocuklukta değil, yetişkinlikte de çeşitli becerilerin kazanılması için en etkili yöntem olarak bilinmektedir. Otizmli çocuklar rol modelleri taklit ederek kendi davranışlarını geliştirebilirler. Taklitler sürekli olduğunda davranış kalıpları, dil becerisi ve motor beceriler kalıcı olacaktır. Ayrıca taklit ile öğrenen çocukların yaşadıkları dünyayı keşfetmeleri daha kolay olacaktır.
 

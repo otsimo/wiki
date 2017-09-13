@@ -20,7 +20,7 @@ Okul, bireyin sosyalleşmesi ve iletişim becerilerini geliştirmesi için önem
 
 Ancak okul öncesi ve okul çağındaki çocuklarda eğitimi ve iletişimi engelleyen bazı davranışlar görünebilmektedir. Çocuğun eğitim almasını, sosyal becerilerini geliştirmesini engelleyen ve bulunduğu ortamı kötü etkilemesine sebep olan bu davranışlar problem davranış olarak adlandırılır. Problem davranışlar gösteren bir çocuğun iyi yönlendirilmesi, gerektiği takdirde bir uzmandan yardım alınması gerekir.
 
-#### Problem Davranış Nedir?
+## Problem Davranış Nedir?
 
 Problem davranış çocuğun sosyal ilişkilerine, iletişimine ve öğrenmesine engel olan, kendine, ailesine, yaşıtlarına ve yetişkinlere zarar vermesine sebep olan, süreklilik hâlini kazanmış davranışlardır. Genellikle öfke nöbetleri ve şiddet eğilimiyle ortaya çıksa da, bazı durumlarda uzun ağlama krizleri gibi reaksiyonlar ortaya çıkabilir. Problem davranış çözülmediği sürece çocuğun gelişimini tamamlaması imkânsız olacaktır.
 
@@ -34,7 +34,7 @@ Davranış bozukluklarına sahip olan bir çocuk doğal olarak çevresiyle de uy
 
 Problem davranış sahibi olan çocuklar kendileri ve çevreleri için tehlike arz edebilir. Bu çocukların zarar verme eğilimi yüksektir. Arkadaşlarına, yetişkinlere, kendilerine, tanımadıkları insanlara çeşitli nesneler yoluyla zarar verebilirler. Ayrıca insanları sürekli olarak rahatsız etme ihtiyacı duymaları da mümkündür.
 
-#### Problem Davranışların Nedenleri Nelerdir?
+## Problem Davranışların Nedenleri Nelerdir?
 
 Problem davranış olarak adlandırılan davranış kalıplarının çoğu okul öncesi eğitiminde ya da okul yıllarında ortaya çıkar. Bunun sebebi çocuğun ilk defa aile ortamı dışında bir yerde uzun süre geçirmesi ve insanlar ile bir arada olmasıdır. Çeşitli sorunlar bu süreçte gün yüzüne çıkabilir ve çocuğun sorunlu davranış kalıpları göstermesine sebep olabilir.
 

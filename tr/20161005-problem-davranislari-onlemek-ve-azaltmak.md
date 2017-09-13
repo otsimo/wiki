@@ -53,7 +53,7 @@ Sorun davranışların değiştirilmesi için uzmana başvurmak gerekebilir. Fak
 
 Çocuklardan biri ya da birkaçı olumsuz davranışlar gösteriyorsa, öğretmenin yapması gereken ilk şey bu davranışların tekrarlamasını ve süreklilik kazanmasını önlemektir. Ancak bunu yaparken kesinlikle çocuklar üzerinde bir korku unsuru yaratılmamalıdır. Fiziksel ve psikolojik şiddet kısa vadede davranışları engellemiş gibi görünse de uzun süreçte daha büyük krizlere yol açabilir. Hatta çocukların hayatları boyunca kurtulamayacakları travmalara sebep olabilir. Bu yüzden şiddetten, çocukta korkutucu bir etki yapacak davranışlardan kaçınmak, çocukları olumlu yönde telkin ederek bu davranışların sürekliliğini engellemek ve değiştirmek gerekecektir.
 
-#### Davranış Zincirini Kırmak
+### Davranış Zincirini Kırmak
 
 Belirtildiği gibi, problem davranışların önüne geçmenin en etkili yollarından biri bu davranışların sürekliliğini ortadan kaldırmaktır. Bu da ancak davranış zincirini kırma yöntemi ile mümkün olabilmektedir.
 
@@ -64,7 +64,7 @@ Sorunlu davranışların tekrarlanmasını sağlayan uyaranları ortadan kaldır
 Ancak davranış zincirini kırmanın en iyi yolu öğretmenin öğrenciyle doğru bir biçimde iletişime geçmesidir. Problem davranışlar sergileyen çocuk, kendisiyle olumlu bir şekilde iletişime geçildiğinde ve çözüm önerileri sunulduğunda bu davranışların önüne geçebilir. Ne olursa olsun burada çocuğu suçlama ya da sorumlu tutma eğilimi göstermemek, davranışların sebeplerini anlayarak ortadan kaldırmaya ya da reaksiyonu azaltmaya çalışmak gerekmektedir.
 
 
-#### Pekiştirme
+### Pekiştirme
 
 Pekiştirme yöntemi çocuğun olumlu güdülenmesini ve problem davranışların önüne geçmesini sağlayabilir. Pekiştirmenin temel amacı uygun olmayan davranışların azaltılması ve çocuğun bunun yerine olumlu, uygun davranışlar edinmesinin sağlanmasıdır. Pekiştirme eyleminde davranışların önlenmesinin ve azaltılmasının belli bir süreci vardır. Aşağıdaki aşamalardan sonra çocukların olumsuz davranışları kaybolabilir ve bunun yerine olumlu davranışlar edinmeleri sağlanabilir. Pekiştirme sürecinin büyük bir titizlikle yerine getirilmesi de son derece önemlidir.
 
