@@ -15,7 +15,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/tohum-otizm-vakfindan-
 
 # Tohum Otizm Vakfı'ndan Yeni Proje
 
-### Tohum Otizm Vakfı, özel gereksinimli çocukların okul öncesi kurumlarda akranlarıyla eğitim almaları ve kaynaştırmadan en iyi şekilde yararlanmaları amacıyla Sabancı Vakfı desteği, Öğretmen Akademisi Vakfı (ÖRAV) ve İstanbul İl Milli Eğitimi Müdürlüğü ortaklığıyla "Eğitime İlk Adım: Okul Öncesinde Kaynaştırma" isimli yeni bir proje başlattı.
+## Tohum Otizm Vakfı, özel gereksinimli çocukların okul öncesi kurumlarda akranlarıyla eğitim almaları ve kaynaştırmadan en iyi şekilde yararlanmaları amacıyla Sabancı Vakfı desteği, Öğretmen Akademisi Vakfı (ÖRAV) ve İstanbul İl Milli Eğitimi Müdürlüğü ortaklığıyla "Eğitime İlk Adım: Okul Öncesinde Kaynaştırma" isimli yeni bir proje başlattı.
 
 
 Tohum Otizm Vakfı, özel gereksinimli çocukların okul öncesi kurumlarda akranlarıyla eğitim almaları ve kaynaştırmadan en iyi şekilde yararlanmaları amacıyla Sabancı Vakfı desteği, Öğretmen Akademisi Vakfı (ÖRAV) ve İstanbul İl Milli Eğitimi Müdürlüğü ortaklığıyla "Eğitime İlk Adım: Okul Öncesinde Kaynaştırma" isimli yeni bir proje başlattı.
@@ -26,4 +26,5 @@ Yetiştirilen eğiticiler, belirlenen 20 okul öncesi kurumda çalışan 100 oku
 
 Projenin en önemli sonucu, "okul öncesi kurumlara devam eden ancak gelişimsel gereksinimleri beklendiği ölçüde karşılanamayan özel gereksinimli çocukların, bu kurumlardan en iyi şekilde yararlanmalarını sağlamak" olacak.
 
-[Kaynak](http://www.haberler.com/tohum-otizm-vakfi-ndan-yeni-proje-8696187-haberi/)
+**Kaynak**:
+http://www.haberler.com/tohum-otizm-vakfi-ndan-yeni-proje-8696187-haberi/

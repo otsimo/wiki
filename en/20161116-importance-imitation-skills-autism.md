@@ -29,7 +29,7 @@ If the child is lacking behavioral rather than speech abilities, functional prac
 
 Imitation skills are categorized as follows.
 
-  1. Depending on place it shows on body
+#### Depending on place it shows on body
   * Object imitation
   * Motor imitation
   * Sound imitation
@@ -52,11 +52,11 @@ Operant conditioning has an essential place in education and rehabilitation proc
 
 As stated, children with autism do not have normal educational activities. It may not be possible for them to learn certain functions, behavioral patterns, language and information by themselves. Thus, they need to have a role model. This is the purpose of imitation skills. Children are presented with a role model and this way they acquire certain functions and skills.
 
-  * ### Social Function of Imitation
+#### Social Function of Imitation
 
 Imitation is an essential for every child's learning process. It also enables socializing besides learning language and certain behaviors and functions. Imitating behaviors of parents and reactions of parents towards them are infants' first social experiences. This is how they build relations with others in the first place. Imitation in education of children with autism functions like that. Imitation does not only accelerates the learning process. It also enables a social relation with therapist and contributes to socialize. In group imitation sessions, social development of children should be efficiently handled. Individuals that are rehabilitated through imitation skills are known to develop communication skills.
 
-  * ### Learning Function of Imitation
+#### Learning Function of Imitation
 
 Imitation is an efficient way of learning. Not only in childhood, it is also an effective method to acquire various skills in adulthood. Children with autism can acquire their behaviors by imitating their role models. When imitations become constant, language and motor skills will be permanent. Also, it would be much more easier for children that learn by imitation to discover the world.
 

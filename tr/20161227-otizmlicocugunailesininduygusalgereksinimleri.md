@@ -20,22 +20,22 @@ Ergenlik çağına kadar ailesinin destek ve sevgilerini hisseden çocuklar yeti
 
  
 
-##### Otizmli Çocuğun Ailesinın Duygusal Gereksınımlerı Nelerdır?
+## Otizmli Çocuğun Ailesinin Duygusal Gereksinimleri Nelerdir?
 
 Aileler de duygusal bir desteğe ihtiyaç duyarlar. Anne ve babalar genellikle çocuklarının durumu nedeniyle kendilerini yeterli görmeyerek depresif tavırlarda bulunabilirler. Bu durum karşısında profesyonel ya da sosyal bir destek ihtiyacı gerekmektedir. Böylelikle bu faydasız duygu durumu atlatılacak ve otizmli çocuğa gerekli tüm destek ailesi tarafından sağlanabilecektir.
 
-###### Çocuğunuzu Kendi Sosyal Ortamlarınıza Dahil Etmekten Çekinmeyin
+## Çocuğunuzu Kendi Sosyal Ortamlarınıza Dahil Etmekten Çekinmeyin
 
 Yapılan araştırmalara göre otizmli bir çocuğa sahip ailelerde komşu ve diğer ev gezmeleri yapmamayı tercih eden %27’lik bir kesim bulunmaktadır. Bu durum otizmli her 4 çocuktan 1’inin aileleriyle birlikte **sosyal etkileşimden** uzakta tutulduğunu göstermektedir. Başka bir deyişle aileler çocuklarının “olay” yaratacağından ve onu utandıracağından şüphelendikleri için kendi sosyal ortamlarına çocuklarını dâhil etmeyi tercih etmezler. Bu durum çocukla daha az vakit geçirilmesiyle ya da kişinin kendi sosyal ortamından kopmasıyla sonuçlanabilecek bir davranıştır. Eğer çocukla yeterli vakit geçirilmezse otizmli çocuğun davranışlarında ciddi ölçüde bir bozulma görülecektir. Eğer o döneme kadar öğretilmiş herhangi bir günlük düzen varsa o bozulur ve çocuğun kişisel gelişimi ilerlemeyi durdurur. Eğer bunun tam tersi gerçekleşirse anne baba sosyal ortamından kopar ve kendisini yetersiz ve mutsuz hissederek stres ve depresyona doğru sürüklenir.
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/smile_child.jpg)
 
-###### Çocuğunuza Olduğu Kadar Kendinize de Vakit Ayırın
+## Çocuğunuza Olduğu Kadar Kendinize de Vakit Ayırın
 
 Otizmli çocuk sahibi anne ve babalar çocuklarına vakit ayırdıkları derecede kendilerine de vakit ayırmalı ve kişisel ihtiyaçlarını da karşılamalıdırlar. Otizmli çocuklarıyla birlikte katılacakları aktiviteler çocuklarını topluma alıştırmak için iyi bir egzersiz olabilir. Kuralları öğretmek için en büyük yardımcılardan biri çocuğun bu kuralları pratikte uygulamasıyla gerçekleştirilir. Otizmli çocuğun ailesinin duygusal gereksinimleri karşılayabiliyor olması, çocuğa yansıtacağı anlayış ve sevgi kapsamında da tüm aile için yararlı olacaktır.
 
 
-##### Otizmli Çocukta Duygusal Gereksinimler Nasıl Belirlenir?
+## Otizmli Çocukta Duygusal Gereksinimler Nasıl Belirlenir?
 
 Otizmli çocukta duygusal gereksinimlerin belirlenmesi için hareketleri dikkatle incelenmelidir. Hangi durumlara aşırı tepki verip hangilerine sakin yaklaştığı incelenerek bir düzen yaratılmalıdır. Bu sayede çocuğun alışkanlıkları yeniden belirlenebilir ve düzenlenebilir.
 

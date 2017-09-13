@@ -22,7 +22,7 @@ Otizmli bir birey her zaman her belirtiyi göstermez. Ancak tipik olarak gözlen
 
 Genel olarak bakıldığında otizm 3 farklı konu dâhilinde kendini belli eder. Bu kategorilere giren belirtilerden en az ikisinin gözleniyor olması gerekmektedir. Sosyal etkileşim sorunları, iletişim sorunları, sınırlı ve yinelenen davranışlar kategorileri oluşturan 3 ana başlıktır. Şimdi hangi belirtilerin bu başlıklar içerisine dâhil edildiğini inceleyelim:
 
-  ### Sosyal Etkileşim Sorunları
+### Sosyal Etkileşim Sorunları
 
 Sosyal etkileşim sorunları içerisinde en çok dikkat edilen sıkıntı çocuğun göz kontağından kaçmasıdır. Çocuk ya hiç göz kontağı kuramaz karşısındaki kişi ile ya da çok az kurar ve gözlerini kaçırır. Bu durumu çok farklı şekillerde de gerçekleştirebilmesi muhtemeldir. Örneğin beklenmedik bir anda karşısındaki kişi ile aniden göz kontağı kurar ve yine aniden bakışlarını kaçırır. Bu da anormal sayılabilecek ve otizm belirtisi olabilecek bir davranıştır.
 
@@ -35,8 +35,7 @@ Otizmli çocuklar kendi yaşıtları ile iletişim kurmakta zorlanırlar. Ayrıc
 Otizmli bireyler çoğu zaman biri onlara seslendiğinde veya ilgilendiğinde tepkisiz kalırlar. İsimleri söylense dahi duymuyormuş gibi yapabilirler. Diğer çocukların ilgisini çeken şeyler onların ilgisini çekmez ve ortamda gelişen olaylara karşı kayıtsız kalırlar.
 
 
-
-  ### İletişim Sorunları
+### İletişim Sorunları
 
 Otizmli çocuklarda konuşma evresinde sıkıntılar yaşanabilmektedir. Dillerinin gelişmesi yaşıtlarına göre çok daha geç olmaktadır. İki yaşına gelip tek kelime etmemiş çocuklar da bu durum bir belirti olarak kabul edilebilir. 3 yaşından büyük olan çocukların normalde iki kelimeli cümleleri kolayca kullanabilmesi gerekmektedir. Ancak çocuk bunu yapamıyorsa dil gelişiminde sıkıntı var demektir.
 
@@ -48,7 +47,7 @@ Genel konuşma kurallarından farklı olarak otizmli bireyler kendilerine has bi
 
 Oynadıkları oyunlar aynı yaşta çocukların oynadıkları oyunlara göre daha zayıf ve sınırlı olmaktadır. Örneğin evcilik gibi hayal gücünden yararlanılarak oynanacak oyunları oynamazlar. Oyuncakların nasıl oynanacağını çoğu zaman keşfedemezler. Genelde oyuncağı sürekli olarak bir yere vurma veya kendi elleri ile oyuncağa vurma gibi eğilimler içerisindedirler.
 
-  ### Sınırlı Ve Yinelenen Davranışlar
+### Sınırlı Ve Yinelenen Davranışlar
 
 Otizmli bireylerin ilgi alanları oldukça sınırlıdır. Ancak ilgi duydukları şeylere karşı da aşırı tepki göstermektedirler. Sadece o konu söz konusu olduğunda dikkatini çekebilmeniz mümkün olur.
 

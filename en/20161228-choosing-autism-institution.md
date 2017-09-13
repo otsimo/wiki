@@ -20,7 +20,7 @@ Education of children with autism requires utmost attention. When children are p
 Since the education for **children with autism** is a special kind, the employees in the institution that will be chosen should have necessary training on teaching autistic children. Good institutions have experts that understand mental health of children. Each child with autism has different learning skills depending on their social and mental abilities. The institution should serve taking these differences into consideration.
 
 
-###### The education process should go hand-in-hand with their interests
+## The education process should go hand-in-hand with their interests
 
 The fields that children are learning should be suitable to their mental abilities. Since attention of autistic children is easily distracted, the classes should be designed accordingly. Also, their seating position should make them comfortable. [Children with autism spectrum disorder](/typical-characteristics-autism-spectrum-disorder/) do not like crowded environments, but they also need to be close enough for social development.
 

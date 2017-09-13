@@ -28,7 +28,7 @@ Otizm terapisinde uygulanan birçok yöntem ilgili bilim kuruluşları tarafınd
 
 Amerika Birleşik Devletleri’nde bulunan National Autism Center (Ulusal Otizm Merkezi) geçtiğimiz yıllarda otizm ile ilgili uygulamaların bir çizelgesini çıkardı. 775 araştırma sonucunda varılan sonuçlara göre, otizm terapisinde uygulanan 11 yöntemin yeterli bilimsel dayanağa sahip olduğu, 22’sinin umut vaadettiği 5 yöntemin ise her türlü bilimsel dayanaktan yoksun olduğu tespit edildi.
 
-  * **Davranış Analizi**
+### Davranış Analizi
 
 Bilimsel yöntemler temel olarak uygulamalı davranış analizine dayanır. Bu disiplinin temel amacı bireyin davranışlarını çevresel etkenler ile ve çevre ile kurulan iletişim ile analiz ederek, sonuçlara göre çözümler sunmaktır. Oyun becerilerinden sosyal becerilere kadar geniş bir spektrumu barındıran uygulamalar aynı zamanda öfke nöbetlerinin ve diğer kötü tepkilerin azaltılmasını hedeflemektedir.
 
@@ -40,7 +40,7 @@ Davranış analizinin çeşitli aşamaları vardır. Uygulama birebir eğitim il
 
 Etkinlik çizelgeleri de bu yöntem de büyük bir etkiye sahiptir. Bu aktivitede otizmli çocuk için bir çizelge çıkarılır ve öğretilecek olan beceri küçük basamaklara bölünür. Bu yöntem terapinin sürekliliğini sağlar.  Ayrıca çocuğun öğrenececği beceriyi detaylandırarak öğrenmesine ve düşünsel derinlik kazanmasına yardımcı olur.
 
-  * **Model Olma Yöntemi**
+### Model Olma Yöntemi
 
 Bilindiği gibi, otizm rahatsızlığına sahip olan çocukların çeşitli becerileri kendi başlarına öğrenmeleri imkânsızdır. Çocukların hayatlarını sürdürebilmek, iletişim kurabilmek için gerekli olan davranış ve becerileri öğrenmeleri ancak terapi ile mümkün olabilmektedir. Otizm terapisinin temel amacı bu becerilerin kazanılmasını sağlamaktır. Model olma yöntemi otizm tedavisinde uzun zamandır kullanılan ve verim alındığı bilinen bir metottur.
 
@@ -50,7 +50,7 @@ Bu yöntemde çocuğun gerçekleştirmesi gereken davranış bir yetişkin taraf
 
 Videoyla kendine model olma yöntemi de otizm tedavisinde uygulanan etkili yöntemlerdendir. Bu yöntemde çocuk videoya çekilir ve aynı beceriyi göstermesi istendiğinde kendisinin yer aldığı video izletilir. Söz konusu metodun davranışların pekişmesinde ve pratik hâle gelmesinde etkili olduğu bilinmektedir. 1970’lerden beri uygulanan bu model en etkili bilimsel yöntemler arasındadır.
 
-  * **Davranışsal Destek Planı**
+### Davranışsal Destek Planı
 
 Otizm tedavisinde bir diğer önemli konu ise sürekli olarak tekrarlanan zararlı davranışların engellenmesidir. Otizmli bireylerin öfke kontrolü problemine sahip oldukları bilinmektedir. Vakalarda sık öfke krizlerine rastlanmaktadır ki bazılarında bu durum şiddet eğilimine dahi sebep olabilmektedir. Davranışsal destek planının temel amacı, bu tür olumsuz davranışların önüne geçebilmektir.
 

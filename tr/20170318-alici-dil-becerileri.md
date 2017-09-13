@@ -1,5 +1,5 @@
 +++
-slug = "1680-2"
+slug = "alici-dil-becerileri"
 title = "Alıcı Dil Becerilerinin Önemi Ve Dikkatli Yönetme"
 category = "Eğitim"
 language = "tr"
@@ -25,7 +25,6 @@ Konuşma becerisi, belli aşamalardan geçtikten sonra gelişim gösterir. Öğr
 
 Alıcı dil becerileri ne kadar gelişmiş olursa, konuşmayı öğrenme süreci o kadar iyi olacaktır. Konuşma bozuklukları terapilerinde öncelikle alıcı dil becerilerinin kazanılmasına ve geliştirilmesine çalışılmalıdır. Buradaki temel amaç çocuğun dil becerisini ve pratiğini kazanmasını sağlamaktır. Başta çocuğu zorlamayan, tek ya da iki hecelik sözcükler bulunabilir ve bunların karşılık geldikleri anlamlar gösterilebilir.
 
-![]()
 
 ## Becerinin Kazanılma Süreci
 

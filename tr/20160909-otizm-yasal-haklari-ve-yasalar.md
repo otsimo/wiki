@@ -21,8 +21,6 @@ Otizm sahibi bireylerin içerisinde bulundukları farklılık sebebi ile özel b
 
 10 Mayıs 1992 Den Haas 4. Austism – Europe Kongresi’nde yayınlanan ve 9 Mayıs 1996 senesinde Avrupa Parlamentosu tarafından yazılı bildirge olarak benimsenen haklara göre otistik bireylerin birçok konuda özel haklara sahip olduğu kabul edilmiştir.
 
-
-
 Otistik kişiler;
 
   * Bünyeleri el verdiği müddetçe kimseye bağlı olmadan eksiksiz bir yaşam sürebilirler.

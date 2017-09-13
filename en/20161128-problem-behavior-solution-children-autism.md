@@ -23,11 +23,11 @@ Deprivation can also be included in problems relating to behaviors of children w
 
  
 
-###### What to Do While Changing Behaviors in Autism
+## What to Do While Changing Behaviors in Autism
 
 Problems in autism should be slowly and carefully changed.Setting [target behavior](/teaching-plan-choosing-target-behavior/)s and trying to adjust to them one-by-one is a safe and sure process to follow during [autism therapy](https://otsimo.com/starting-autism-therapy/). Trying to solve a problem immediately may weaken the trust and tolerance of the child towards parents. Eating habits that were acquired in time may also turn into fat and excess weight since the child is not active. Well-balanced diet is important in these kinds of disorders.
 
-###### We Need to Know the reasons behind a behavior
+## We Need to Know the reasons behind a behavior
 
 Children with autism generally behave in a way that’s considered not normal due to a reason. For instance, they may throw objects across the room or make loud noises to get their parent’s attention. This purely results from wanting to draw attention. However, to minimize and decrease these problem behaviors, the child should be guided patiently.
 
@@ -35,7 +35,7 @@ Just like every other child, children with autism may also cry or whine when the
 
 There may be hundreds of situations and behaviors the child does not like at school or home. Parents should determine and list these situations and behaviors that cause the child to yell and be uneasy to avoid them. The factors that affect the child in the environment should be assessed carefully. This way, the reactions the child shows would be a way to communicate.
 
-###### When it comes to taking action
+## When it comes to taking action
 
 After listing behaviors that trouble the child, parents and experts should elaborately determine the most important elements and take action accordingly. If the child has developed a behavior like biting self or people around him, the action should be started on the most harmful behaviors such as that. During the process of treatment and afterwards, parents and experts should both stay stable and the treatment should be applied consistently.
 

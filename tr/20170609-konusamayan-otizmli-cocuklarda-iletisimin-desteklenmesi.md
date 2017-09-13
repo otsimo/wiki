@@ -16,11 +16,10 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/konusamayan-otizmli.jp
 
 # Konuşamayan Otizmli Çocuklarda İletişimin Desteklenmesi
 
-#### DİL VE KONUŞMA GELİŞİMİ
+## DİL VE KONUŞMA GELİŞİMİ
+Her bireyin iletişim kurmak için başvurduğu ilk yöntem konuşmaktır. Bireyler iletişimlerini sağlıklarında bir sıkıntı yok ise bu şekilde sağlarlar. Ancak otizmli bireyler toplumda çoğunluğun kullandığı konuşma diline adapte olmakta zorluk çekerler. Bunun önüne geçilmesi için çocuğun dil ve konuşma gelişiminin özellikle üzerinde durulması gerekmektedir.
 
-****Her bireyin iletişim kurmak için başvurduğu ilk yöntem konuşmaktır. Bireyler iletişimlerini sağlıklarında bir sıkıntı yok ise bu şekilde sağlarlar. Ancak otizmli bireyler toplumda çoğunluğun kullandığı konuşma diline adapte olmakta zorluk çekerler. Bunun önüne geçilmesi için çocuğun dil ve konuşma gelişiminin özellikle üzerinde durulması gerekmektedir.
-
-#### OTİZM TANISINDAN SONRA
+## OTİZM TANISINDAN SONRA
 
 Çocuğun otizmli olduğu anlaşıldıktan sonra eğitime başlanması gerekmektedir. İletişim kurmak için çocuk büyüdükçe el hareketlerinden ve bazı anlamsız çıkardığı seslerden yardım alır. Bu her çocuğun gelişiminde gözlenen bir yoldur. Sonrasında isteğinin daha net olarak anlaşılması için çocuk kelimelere başvurur. Otizmli bir çocukta ailesi onunla çok fazla vakit geçirdiği için hangi hareketin ne anlama geldiğinin anlaşılması daha hızlı olur. Ancak belli bir yaşa gelmiş ve çocuk hala konuşmaya başlamamışsa çocuğu konuşması için teşvik etmek gerekmektedir. Elini istediği şeye uzattığı anda onu direk olarak vermek yerine sözlü olarak dile getirilmesi çocuğu çok boğmayacak bir şekilde sağlanmalıdır. Konuşmaya teşvik edilmediği sürece çocuk her zaman en kolay yolu tercih edecektir. Bunun yanında çocuğun ilgisini çeken bir iş yapılırken aynı zamanda söz ile dile getirilerek çocuğun kafasında somut bir şekilde oluşturulması sağlanmalıdır.
 

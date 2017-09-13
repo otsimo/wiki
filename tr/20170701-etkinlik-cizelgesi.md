@@ -1,5 +1,5 @@
 +++
-slug = "1754-2"
+slug = "etkinlik-cizelgesi"
 title = "Etkinlik Çizelgesi Kullanarak İletişim Kurma"
 category = "Eğitim"
 language = "tr"

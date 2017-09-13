@@ -1,5 +1,5 @@
 +++
-slug = "1774-2"
+slug = "dogru-yemek-yeme"
 title = "Doğru Yemek Yeme Davranışı Edindirme"
 category = "Eğitim"
 language = "tr"

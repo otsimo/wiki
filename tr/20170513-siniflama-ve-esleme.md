@@ -1,5 +1,5 @@
 +++
-slug = "1718-2"
+slug = "siniflama-ve-esleme"
 title = "Sınıflama Ve Eşleme Eğitimde Önemli Noktalar"
 category = "Eğitim"
 language = "tr"

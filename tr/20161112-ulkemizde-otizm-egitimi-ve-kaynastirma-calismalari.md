@@ -35,7 +35,7 @@ Eğitim-öğretim süreci boyunca otizmli çocuklar üzerinde yapılan tanılama
 
 Eğer çocuk, bağımsız bir OÇEM’de(Otizmli Çocukları Eğitim Merkezi)* eğitim-öğretim görüyorsa ve eğitsel performansı kaynaştırma düzeyine gelmişse, ilköğretime geçişi için bir değerlendirme raporu hazırlanır. Bu rapor, Eğitsel tanılama, İzleme ve Değerlendirme ekibince tekrar gözden geçirilir. Bunun sonucunda, otizmli çocuğun kaynaştırma eğitiminden yararlanmasının uygun olduğu kararı çıkarsa, en yakın ilköğretim okulunda yarı zamanlı kaynaştırma eğitiminden yararlanması için gerekli işlemler başlatılır.
 
-*Otistik Çocuklar Eğitim Merkezleri, ilköğretim okullarının bünyesine bağlı olan ya da bağımsız olarak açılmış bir sınıf içerisinde eğitim veren özel eğitim kurumlarıdır. Bu kurumlarda tıbbi ve eğitsel tanısı yapılmış, 3 ile 15 arasındaki çocuklar; bireyselleştirilmiş eğitim alır ve kaynaştırma programların tabi tutulur.
+Otistik Çocuklar Eğitim Merkezleri, ilköğretim okullarının bünyesine bağlı olan ya da bağımsız olarak açılmış bir sınıf içerisinde eğitim veren özel eğitim kurumlarıdır. Bu kurumlarda tıbbi ve eğitsel tanısı yapılmış, 3 ile 15 arasındaki çocuklar; bireyselleştirilmiş eğitim alır ve kaynaştırma programların tabi tutulur.
 
 Yarı zamanlı kaynaştırma eğitimine başlayan çocuklar izlenir ve değerlendirmeye tabi tutulur. Çocukların sosyal ve akademik açıdan gösterdiği tüm gelişimleri, kaynaştırma eğitiminin verildiği okulun rehber öğretmeni sınıf öğretmeni ve branş öğretmenlerince değerlendirilir.
 

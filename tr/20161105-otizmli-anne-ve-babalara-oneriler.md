@@ -24,8 +24,6 @@ Otizmli çocukların en temel özellikleri pasif olmalarıdır, daha çok kendi 
 
 Çocukta gözlemlenen otizm ağırlaşıyorsa, bu durum klinik tablolarda gözlemlenebilir. Bazı otistik çocuklar, sosyal çevrelerine adapte olmada sorun yaşasalar da ileri zeka belirtileri gösterebilir ve akademik hayatları çok başarılı geçebilir. Bu bireyler erişkin olduklarında zihinsel becerileri sayesinde kendi başlarının çaresine de bakabilirler. Hatta bazı vakalarda gözlemlenen zeka ortalamanın çok üstünde olma durumu gözlemlenebilir ve bu zekasal işlevsellik ile bilim veya sanat üzerine çok büyük başarılar elde edebilirler. Buna karşın, bazı otistik çocukların zekasal işlevselliği düşük olabilir, bu gibi vakalarda 6 yaşına kadar konuşma gelişimi gerçekleşmemişse zekada gerilik teşhisi konulur.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_with_bear.jpg)
-
 Otizme neyin sebep olduğu hala tam olarak bilinmemektedir, fakat merkezi sinir siteminden kaynaklanan işlevsel ve yapısal bozuklukların otizme yol açtığı uzmanlarca ileri sürülmekte. Anne ve Babanın davranışlarının çocukta otizme yol açtığı, yağın ama çok yanlış bir düşüncedir, Otizm doğuştan gelir.
 
 Yukarıda belirtilen kriterlere uyan çocuklara, uzman bir ruh sağlığı doktoru tarafında kapsamlı bir zihinsel değerlendirme yapılması gerekir. Tam teşhis konulduktan sonra vakit kaybetmeden özel eğitim programlarına başlanmalıdır. Eğitim süreci her zaman bir pedagogun yönlendirmesi doğrultusunda hareket etmelidir. Eğer çocukta, aşırı hareketlilik ya da problemli davranışlar gözlemleniyorsa bunun için ilaç tedavisine başvurulabilir.

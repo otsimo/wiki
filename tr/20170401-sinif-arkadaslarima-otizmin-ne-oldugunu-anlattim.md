@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-11-27"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/sinif-arkadaslarima.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/laque_heroes.jpg"
 +++
 
 # Sınıf Arkadaşlarıma Otizmin Ne Olduğunu Anlattım
@@ -27,7 +27,7 @@ Nisan ayı yaklaşırken resim öğretmenim ile birlikte Dünya Otizm Farkındal
 
 Ancak ben bundan fazlasını yapmak istiyordum.
 
-**Mavi bir kurdelenenin** yaşıtlarıma ulaşmama yetmeyeceğini biliyordum. Ben de okul müdürüne gidip bir power-point sunumu hazırlamak istediğimi söyledim. Bana bunun zaman sebebiyle bunun mümkün olmayacağını ancak sabah anonslarına beni dahil edebileceğini söyledi.
+Mavi bir kurdelenenin yaşıtlarıma ulaşmama yetmeyeceğini biliyordum. Ben de okul müdürüne gidip bir power-point sunumu hazırlamak istediğimi söyledim. Bana bunun zaman sebebiyle bunun mümkün olmayacağını ancak sabah anonslarına beni dahil edebileceğini söyledi.
 
 
 Böylece biz de her sabah günlük programın yanında otizmle ilgili bir bilgi anons etmeye başladık! Zamanla sınıf arkadaşlarım daha fazlasını öğrenmek isteyip bana sorular sormaya başladılar. Zamanla tüm öğretmenlerim ve arkadaşlarım nasıl hissettiğimi, neler düşündüğümü ve beni anlamaya başladılar. Artık onlar için garip değildim. Ben bendim!

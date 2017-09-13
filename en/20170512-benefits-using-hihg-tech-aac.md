@@ -27,11 +27,11 @@ Some researchers suggest that since AAC focuses on encouraging and providing com
 It is supported by a research (Koppenhaver, Coleman, Kalman, Yoder, 1991) that AAC also has a positive outcome in terms of language development and literacy, as it supports self-expression in social situations. Children with autism need help with developmental skills such as vocabulary, the length of sentence, syntax and pragmatic skills. AAC can be used as a guideline in this process.
 
 
-###### Personalized
+## Personalized
 
 Besides from promoting and increasing speech development, there are other main benefits in terms of use of the actual device. High-tech devices can be personalized. They are very diverse to adjust to the needs of the individual. They can be used by both individuals with communication difficulties and also by the teams of specialists and parents.
 
-###### Adaptable
+## Adaptable
 
 High-tech AAC systems like [Otsimo AAC](https://itunes.apple.com/tr/app/otsimo-child-autism-education-games-with-aac/id1211197404?mt=8) is highly adaptable. They are built to empower the strengths and cover for the deficiencies that might be encountered during communication. Speech problems are all out there in day-to-day lives of children with autism. AAC systems and other aids help individuals to adapt to the situations they face during their lives where traditional communication methods may come short. With AAC, it is proven that you will have a better chance of maintaining a strong communication and build a relationship with your child.
 

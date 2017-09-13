@@ -40,9 +40,9 @@ Most of the behavior patterns that are called problem behaviors occur during pre
 With this, the reasons for problem behaviors divided into two as school-related and non-school-related factors.
 
 
-## _Non-School-Related Factors:_
+### Non-School-Related Factors:
 
-#### _Family Factor:_
+#### Family Factor:
 
 Researches show that problem behaviors are majorly caused by the features of the family. Even though the child is not directly subjected to violence, when the person that the child takes as role model raises his voice of yell, problem behaviors may be caused. It is known that children in family environment where arguments are common have problem behavior patterns.
 
@@ -50,19 +50,19 @@ Other factors due to family include the child being over-disciplined or not disc
 
 If physical or psychological violence is in question in family environment, it is impossible for children to not have problem behaviors. Even though this violence is not towards the child, what he witnesses will affect him and cause him to have problem behaviors. Thus, parents’ attitude, features of the family and behaviors shown in this environment may cause the child to have problem behaviors.
 
-#### _Mass Media:_
+#### Mass Media:
 
 Mass media like TV and Internet are extremely influential on children to have problem behaviors. Even a regular advertisement can adversely affect the child or cause him to acquire a wrong behavior as a role model. A considerable part of cartoons airing on TV has violent content. Also, cartoon characters can be bad role models for children and cause them to develop problem behaviors. It is known that children spending a long time watching cartoons exhibit various problem behaviors.
 
 Devices that have Internet connection or games on them like computers, tablets, phones may also cause problem behaviors in children. Children’s interaction with these kinds of devices should be limited and programs, games, or applications they use should be under parents’ supervision. Children should be kept away from violent games regardless of their levels and should be guided towards mind developing games.
 
-## _School-related Factors:_
+### School-related Factors:
 
-#### _Features of the School:_
+#### Features of the School:
 
 Physical and cultural features of the school can also cause the child to acquire negative, problem behaviors. For instance, if the school is too crowded, classrooms are at overcapacity, physical features are inadequate and such, children going to this school may show problem behaviors. Because children will seek the comfort of their home there, want to go back to home and show reaction to get them out of this environment. When this situation gains continuity, the child will have acquired a problem behavior. Also, the social and cultural features of the school entity have great importance. Children may show problem behavior among a majority that does not carry the same cultural features as their parents.
 
-#### _Factors Related to Teacher:_
+#### Factors Related to Teacher:
 
 If the teacher-student relation is advancing in the wrong direction, children may show negative behaviors. When teacher is indifferent to the child, speaking in an inappropriate manner, practicing physical or verbal violence children may develop problem behavior. Especially when teacher is an element of fear for the students, developing these kinds of behaviors would be inevitable.
 

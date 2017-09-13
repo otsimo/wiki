@@ -18,11 +18,11 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/kurum-seciminde.jpg"
 
 Otizmli çocukların topluma geri kazandırılması için seçilen eğitim kurumu da en az aile kadar etkilidir.
 
-****Otizmli çocukların eğitimi büyük özen gerektirir. Otizmli çocuk bir eğitim kurumuna verildiğine, eğitim kurumunun gerekli şartları karşılaması otizmli çocuğun eğitiminin başarılı olmasında büyük önem taşır. Otizmli çocuklar için olan eğitim kurumlarında başarılı bir eğitim verilmesi, çocukları kaynaştırma uygulamalarına hazırlanması açısından verimli olur.
+Otizmli çocukların eğitimi büyük özen gerektirir. Otizmli çocuk bir eğitim kurumuna verildiğine, eğitim kurumunun gerekli şartları karşılaması otizmli çocuğun eğitiminin başarılı olmasında büyük önem taşır. Otizmli çocuklar için olan eğitim kurumlarında başarılı bir eğitim verilmesi, çocukları kaynaştırma uygulamalarına hazırlanması açısından verimli olur.
 
-#### NEDEN KURUM SEÇİMİNDE DİKKATLİ DAVRANILMALIDIR?
+## NEDEN KURUM SEÇİMİNDE DİKKATLİ DAVRANILMALIDIR?
 
-**Otizmli çocukların** eğitimi özel olduğundan, seçilecek eğitim kurumunun çalışanlarının otizmli çocukları eğitme konusunda gerekli eğitimleri almış olması gereklidir. İyi eğitim kurumlarında çocuk ruh sağlığından anlayan uzmanlar bulunur. Her otizmli çocuk sosyal ve zihinsel becerilerine göre ayrı öğrenme yetenekleri göstermektedir. Kurumun, bu farkları göz önünde bulundurarak eğitim vermesi gerekir. Kurumlarda çocukların eğitim aldığı alanların, çocukların zihinsel becerilerine uygun olması gerekmektedir. Otistik çocukların dikkati çabuk dağıldığı için bu durumun önüne geçebilecek şekilde tasarlanmış sınıflar olmalıdır. Ayrıca sınıfların oturma düzeni de çocukları rahat ettirecek şekilde olmalıdır. Otizmli çocuklar sıkışık ortamlardan hoşlanmazlar, öte yandan çocukların sosyal gelişimi için de çocukların birbirinden çok da fazla kopuk olmamaları gerekir.
+Otizmli çocukların eğitimi özel olduğundan, seçilecek eğitim kurumunun çalışanlarının otizmli çocukları eğitme konusunda gerekli eğitimleri almış olması gereklidir. İyi eğitim kurumlarında çocuk ruh sağlığından anlayan uzmanlar bulunur. Her otizmli çocuk sosyal ve zihinsel becerilerine göre ayrı öğrenme yetenekleri göstermektedir. Kurumun, bu farkları göz önünde bulundurarak eğitim vermesi gerekir. Kurumlarda çocukların eğitim aldığı alanların, çocukların zihinsel becerilerine uygun olması gerekmektedir. Otistik çocukların dikkati çabuk dağıldığı için bu durumun önüne geçebilecek şekilde tasarlanmış sınıflar olmalıdır. Ayrıca sınıfların oturma düzeni de çocukları rahat ettirecek şekilde olmalıdır. Otizmli çocuklar sıkışık ortamlardan hoşlanmazlar, öte yandan çocukların sosyal gelişimi için de çocukların birbirinden çok da fazla kopuk olmamaları gerekir.
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw.jpg)
 
@@ -32,7 +32,7 @@ Otizmli çocuklara bir şeyler öğretilirken somutlaştırma çok önemlidir. O
 
 Her çocuğun farklı olduğu unutulmamalı ve kurum içerisindeki her çocuğun gelişimi gözlem altında tutulmalıdır. Eğitim kurumları gerekli gelişimi gösteren çocuklara bu gelişim doğrultusunda daha ileri seviyede eğitim verebilmelidir. Kurumun benimsediği eğitim şekli çocukları motive edici olmalıdır. Her çocuğu istenen davranışa iten bir motivasyon vardır, bu motivasyonlar tespit edilmeli ve gerekli davranışlar gösterildiğinde çocuklar ödüllendirilmelidir.
 
-#### KURUM SEÇİLİRKEN NELERE DİKKAT EDİLMELİDİR?
+## KURUM SEÇİLİRKEN NELERE DİKKAT EDİLMELİDİR?
 
 Kurum, eğitim programını ve rutinlerini önceden belirlemiş olmalıdır. Sabit bir programın olması çocuklar için daha elverişlidir. Otizmli çocuklar bir sonraki aşama da ne yapacaklarını bilirlerse daha rahat ederler, bu durum olayların sırasını tahmin etmelerine ve algılamalarına yarar. Kurum içerisindeki eğitimin yanında, çocukların oyun oynadıkları serbest saatleri de çok önemlidir. Kurum, çocukların kendilerini soyutlamamaları için özel göstermelidir. Çocuklar grup oyunlarına ve işbirlikçi hareket etmeye yönlendirilmelidir.
 

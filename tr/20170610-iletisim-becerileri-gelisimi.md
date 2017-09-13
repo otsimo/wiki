@@ -1,5 +1,5 @@
 +++
-slug = "1738-2"
+slug = "iletisim-becerileri-gelisimi"
 title = "İletişim Becerilerinin Gelişimi"
 category = "Eğitim"
 language = "tr"

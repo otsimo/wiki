@@ -15,14 +15,14 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ayirma-ve-genelleme.jp
 
 # Ayırma Ve Genelleme
 
-****Otizm Spektrum Bozukluğuna**** sahip bireylerde anlamlandırma ve kavrama konusunda ciddi eksiklikler görülür. Normal bir gelişim süreci izleyen kişiler, nesneleri ve kavramları ayırt etme, sınıflandırma becerisini kendi deneyimleri ve gözlemleri ile kazanabilirler. Ancak otizmli bir birey için bunun tek başına kazanılması mümkün değildir. Bu yüzden nitelikli bir terapi uygulanması gerekir.
+Otizm Spektrum Bozukluğuna sahip bireylerde anlamlandırma ve kavrama konusunda ciddi eksiklikler görülür. Normal bir gelişim süreci izleyen kişiler, nesneleri ve kavramları ayırt etme, sınıflandırma becerisini kendi deneyimleri ve gözlemleri ile kazanabilirler. Ancak otizmli bir birey için bunun tek başına kazanılması mümkün değildir. Bu yüzden nitelikli bir terapi uygulanması gerekir.
 
 OSB sahibi kişiler nesneleri, kavramları ayırt etme konusunda büyük sıkıntılar yaşarlar. Herhangi bir nesnenin görsel ve işlevsel özelliklerini göz önüne alarak onu diğerlerinden ayırt etmek bu rahatsızlığa sahip kişiler için ciddi anlamda zor olacaktır. Ayrıca nesneler tek başına ayırt edilse bile, onların sınıflandırılması da gerekir. Bu yüzden otizmli çocuklara ayırma ve genelleme yetenekleri kazandırılmalıdır. Ayırma ve genelleme becerisi, yalnızca nesnelerin ve kavramların anlamlandırılması için değil, dil kazanımı ve pratiği için de önemlidir.
 
   * Genelleme: Klasik koşullanmadan sonra uyarana benzer diğer uyarıcılara da aynı tepkinin verilmesidir. Örneğin bir köpeğe “kuçu kuçu” demeyi öğrenen bir çocuk bunu hayvanların tümüne genelleyerek koyun gördüğünde de aynı tepkiyi gösterebilir.
   * Ayırt Etme: Genellemenin tam tersidir. Tepkilerin yalnızca spesifik bir uyarana verilmesidir.
 
-### Ayırt Etme
+## Ayırt Etme
 
 Normal bir gelişim sürecine sahip olan kişiler, nesneleri, sesleri, kavramları erken yaşlardan itibaren ayırt edebilirler. Duyulan sesler çoğu zaman emekleme dönemindeyken ayırt edilip uyaranlar ayrılırken, nesneleri ayırt etme süreci iki yaşında hızlanır. Otizm sahibi bir bireyin bu yeteneği kazanabilmesi için uzman bir terapist tarafından verilen görsel ve işitsel ayırt etme eğitimini alması gerekir.
 
@@ -34,7 +34,7 @@ Ayırt etme işleminde pekiştireçler son derece önemlidir. Yiyecek pekiştire
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/room_game.jpg)
 
-### Genelleme
+## Genelleme
 
 Otizmli bireylerin kavramları, nesneleri ve uyaranları algılayabilmeleri için, genelleme ile ayırt etme arasındaki ilişkiyi kurabilmeleri gerekir. Genelleme kazandırma bu yüzden önemlidir. Bu yeteneğe sahip olmayan bireyler, tek tek nesneleri anlayıp tanımlandırabilseler de bu nesneleri özellikleri bakımından gruplandırma konusunda eksiklik yaşayarlar. Bu yüzden genelleme yeteneğinin de iyi bir terapi uygulanarak çocuklara kazandırılması gerekir.
 

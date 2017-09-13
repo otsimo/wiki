@@ -10,15 +10,15 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-12-20"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/giyinme-soyunma.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/The_Most_Popular_Baby_Boy_Names_for_Each_Letter_of_the_Alphabet_6322_5522.jpg"
 +++
 
 
 # Giyinme, Soyunma Ve Tuvalet Eğitimi Nasıl Verilir?
 
-****Otizmli çocuklarda özellikle de 3 yaş öncesi erken tanının önemine birçok uzman dikkat çekmektedir. Çünkü çocuğa verilmesi gereken özel eğitim ne kadar erken yaşta başlanırsa, eğitimden alınacak verim o denli fazla olacak ve çocuk verilenleri daha kolay alabilecektir.
+Otizmli çocuklarda özellikle de 3 yaş öncesi erken tanının önemine birçok uzman dikkat çekmektedir. Çünkü çocuğa verilmesi gereken özel eğitim ne kadar erken yaşta başlanırsa, eğitimden alınacak verim o denli fazla olacak ve çocuk verilenleri daha kolay alabilecektir.
 
-#### Günlük Hayatı Kolaylaştıran Beceriler
+## Günlük Hayatı Kolaylaştıran Beceriler
 
 “Pozitif sosyal rutin” şeklinde adlandırılan, çocuğun günlük hayatını kendi kendine devam ettirebilmesine olanak tanıyan bazı önemli becerilerin mümkün olan en erken yaşta öğretilmesi büyük önem arz etmektedir. Yaş ilerledikçe iyice yerleşmiş olan bazı davranışları daha sonradan değiştirmek oldukça zor olacağından, sözü edilen becerileri erken yaşta öğretmek çok daha kolay olacaktır. Çocuk en başından beri günlük hayat becerilerinden kendine düşen kısmı doğru bir şekilde yerine getirebilmeyi öğrenirse, otizmli çocuklu aileler için de hayat daha kolay olacaktır.
 
@@ -34,13 +34,13 @@ Günlük hayatı yardım almadan devam ettirebilmek adına, çocuğun ihtiyaç d
 
 ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/room_game.jpg)
 
-#### Çocuğa Kendi Kendine Giyinip Soyunmanın Öğretilmesi
+## Çocuğa Kendi Kendine Giyinip Soyunmanın Öğretilmesi
 
 Çocuğunuzu kendi kendine giyinip soyunmak konusunda cesaretlendirmek için asla geç değildir. Çocuğun giymesi gereken giysileri doğru sıralamaya koyarak, sizden bağımsız bir şekilde giymesini teşvik edebilirsiniz. Örnek vermek gerekirse atlet vb. iç çamaşırlarını öncelikli hazır edebilir, ardından t-shirt, pantolon, çorap gibi bir sıralama yaparsanız, giyinirken nasıl devam etmesi gerektiği konusunda kendisine yardımcı olabilirsiniz.
 
 Burada dikkat edilmesi gereken husus ise çocuktan en başında tamamen doğru bir şekilde giyinmesini beklememek gerektiğidir. Giyinme ya da soyunma sürecini minik evrelere bölerek, küçük adımlarla yavaş yavaş öğretmeye çalışmak en doğru davranış olacaktır. Giymesi gereken giysiler için bir sepet hazırlayabilirsiniz ve böylece çocuğunuz NE giymesi gerektiğini, KAÇ TANE giysi giyeceğini ve HANGİ SIRALAMAYLA giyeceğini rahatlıkla görebilir. Sepet boşaldığında da, giyinme rutininin sona erdiğini rahatça anlayabilecektir.
 
-#### Tuvalet Eğitimi
+## Tuvalet Eğitimi
 
 Çocuğunuz hazır olduğunu gösteren işaretler verdiğinde lazımlık ya da klozet kullanmayı öğretmeye başlayabilirsiniz:
 
