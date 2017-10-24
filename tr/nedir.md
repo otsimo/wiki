@@ -9,7 +9,7 @@ keywords = ["Otizm", "Nedir", "Genel"]
 draft = false
 written_at = "2016-04-09"
 [params]
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/nedir_otizm.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/child_drum.jpg"
 youtube = "https://www.youtube.com/embed/X6nWodsX5cY"
 +++
 # Otizm Spektrum Bozukluğu nedir?

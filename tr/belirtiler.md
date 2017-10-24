@@ -9,7 +9,7 @@ keywords = ["Belirtiler", "Genel"]
 draft = false
 written_at = "2016-04-09"
 [params]
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm_s.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm_icin.jpg"
 youtube = "https://www.youtube.com/embed/rKbAwTR7Ok4"
 +++
 # Otizm Spektrum Bozukluğunun belirtileri nelerdir?

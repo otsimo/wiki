@@ -9,7 +9,7 @@ keywords = ["Yanlışlar", "İnanışlar"]
 draft = false
 written_at = "2016-04-09"
 [params]
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/yanlislar-tr.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
 +++
 # Otizm Spektrum Bozukluğu ile ilgili yanlış inanışlar
 

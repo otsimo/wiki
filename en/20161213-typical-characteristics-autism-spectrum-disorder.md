@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-17"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/typical-characteristics-autism-spectrum-disorder.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
 +++
 
 # Typical Characteristics of Autism Spectrum Disorder

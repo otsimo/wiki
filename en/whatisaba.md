@@ -9,7 +9,7 @@ keywords = ["ABA", "Autism"]
 draft = false
 written_at = "2016-09-01"
 [params]
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/egtm_otizm.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatment-practices.jpg"
 +++
 # What is Applied Behavior Analysis (ABA)
 

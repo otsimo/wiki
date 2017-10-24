@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-08"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm-tanisi-kimler-tarafindan-ne-zaman-konur.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
 +++
 
 

@@ -12,7 +12,6 @@ written_at = "2016-04-09"
 available_at = "2017-11-04"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/Calum-Titmus.jpg"
 +++
-otsimofamily://wiki/open?tr=calum-titmus-otizm-ve-madalyalar&slug=calum-titmus-otizm-ve-madalyalar
 
 # Calum Titmus: Otizm ve Madalyalar
 
