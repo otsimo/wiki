@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-16"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ayirma-ve-genelleme.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/ayirma-ve-genelleme.jpg"
 +++
 
 # Ayırma Ve Genelleme
@@ -32,7 +32,7 @@ Bu eğitimin temel amacı çocuğun nesneleri diğerlerinden ayırt etmesini sa�
 
 Ayırt etme işleminde pekiştireçler son derece önemlidir. Yiyecek pekiştireçleri her zaman ortamda bulunmalıdır. Çocuk ipucu gerektiren işlemleri yaptığında bu pekiştireçler verilmelidir. Eğer işlemleri ipucu olmadan yerine getirme pratiğini kazandıysa, pekiştireçler sistemli bir biçimde geri çekilmeli ve sadece ipucu olmadan yapabildiği işlemlerde pekiştireçler ile ödüllendirilmelidir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/room_game.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/room_game.jpg)
 
 ## Genelleme
 

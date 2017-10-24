@@ -9,7 +9,7 @@ keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
 [params]
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/esleme.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/esleme.jpg"
 +++
 #  Eşleme ve Sınıflamanın Önemi
 

@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-19"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/ogretmenlerveotizm.png"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/ogretmenlerveotizm.png"
 +++
 
 
@@ -42,7 +42,7 @@ Günlük hayatta kullandığımız deyimler bizim için bu zamana kadar anlamlar
 
 Sizin için oldukça önemsiz gelen konular, otizmli bir çocuğun günlerce ara vermeden konuşacağı konular olabilir. Saatlerce sürebilecek bir döngü halinde çocuk, ara vermeden tek bir konu hakkında konuşabilir. Bu konular ise maalesef nadiren çocuğun öğrenimine katkıda bulunacak konulardan oluşur. Bu durumda çocuğun hevesini kırmadan konuyu eğitim başlıklarına yönlendirebilirsiniz.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_map.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/child_map.jpg)
 
 ## 7) Sosyal Ortamlar ve Otizm
 

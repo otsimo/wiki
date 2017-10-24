@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-02"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/pekistirec-sistemleri.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/pekistirec-sistemleri.jpg"
 +++
 
 
@@ -34,7 +34,7 @@ Pekiştirme yönteminin ödül-ceza pratiğine yakın olduğunu belirtmek gereki
 
 Pekiştirme sistemi, edimsel koşullanma temeline dayanmaktadır. Burada amaç çocuğun olumlu bir şekilde koşullanmasını ve davranışların bu şekilde belirlenmesini sağlamaktır. Olumsuz davranışlar gösteren bir çocuğun davranışları analiz edilip, oluşum ve tetiklenme sebepleri göze alındığında uyaran seçimi yapılabilir. Pekiştireç seçimi kesinlikle dikkatli bir biçimde yapılmalıdır. Bazı durumlarda bir pedagogdan yardım almak gerekebilir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/games_child.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/games_child.jpg)
 
 ## Pekiştireç Türleri:
 

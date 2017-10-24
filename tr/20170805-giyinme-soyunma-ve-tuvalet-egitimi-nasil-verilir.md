@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-12-20"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/The_Most_Popular_Baby_Boy_Names_for_Each_Letter_of_the_Alphabet_6322_5522.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/theboy.jpg"
 +++
 
 
@@ -32,7 +32,7 @@ Otizmli çocuklarda özellikle de 3 yaş öncesi erken tanının önemine birço
 
 Günlük hayatı yardım almadan devam ettirebilmek adına, çocuğun ihtiyaç duyduğu en önemli becerilerin başında kendi kendine giyinmek, soyunmak ve tuvalet eğitimi gelmektedir. Başlangıç olarak, bu yeni becerilerin evde öğretilmesi ve sadece kendisi hazır olduğunda pratik yapılması gerekmektedir:
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/room_game.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/room_game.jpg)
 
 ## Çocuğa Kendi Kendine Giyinip Soyunmanın Öğretilmesi
 

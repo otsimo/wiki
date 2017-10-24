@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-05"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/basarili-kaynastirma.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/basarili-kaynastirma.jpeg"
 +++
 
 # Başarılı Kaynaştırma İçin Tavsiyeler
@@ -33,7 +33,7 @@ Kaynaştırma eğitimini geçişten önce otizmli kaynaştırma öğrencisine ge
 
 Okula yeni başlayan kaynaştırma öğrencisinin ortama kendini yabancı hissetmemesi için bir velisi ona refakat etmelidir. Bunun dışında velisi olmadan sonraki günler sıklıkla ziyaret edeceği tuvalet, koridorlar, bahçe gibi çeşitli alanlar ona tanıtılarak rahat hissetmesi sağlanmalıdır. Böylece ailesi yanında olmadan bir birey olmanın ilk adımını atacak otizmli çocuk kendini kötü hissetmeden, terk edilme korkusu yaşamadan eğitim hayatına devam edebilecektir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/games_child.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/games_child.jpg)
 
 Sınıftaki diğer çocukların kaynaştırma öğrencisine olan tutumlarının belirlenmesinde o çocukların ailelerine de büyük bir rol düşmektedir. Sınıftaki diğer çocukların anne babaları doğru bir şekilde bilgilendirilmiş çocuğa rol model olacak şekilde kaynaştırma öğrencisinin durumuna yaklaştıklarında çocukları durumun farkına varıp ona göre doğru bir tavır sergileyecektir.
 

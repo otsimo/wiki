@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-07"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/tohum-otizm-vakfindan-yeni-proje.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/tohum-otizm-vakfindan-yeni-proje.jpg"
 +++
 
 # Tohum Otizm Vakfı'ndan Yeni Proje

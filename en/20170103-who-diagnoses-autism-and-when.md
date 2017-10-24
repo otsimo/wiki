@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-25"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/who-diagnoses.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/who-diagnoses.jpg"
 +++
 
 # Who Diagnoses Autism and When?

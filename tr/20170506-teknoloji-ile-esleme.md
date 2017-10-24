@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-17"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/esleme-yontemi.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/esleme-yontemi.jpeg"
 +++
 
 # Teknoloji Kullanarak Eşleme Yöntemi
@@ -26,7 +26,7 @@ Dokunmatik cihazların otizmli çocuklara yarar sağladığı çeşitli araştı
 
 Teknolojik aletlerin ve yazılımların eşleme için kullanılması kesinlikle ilk aşamada yapılmamalıdır. Çünkü otizmli çocukların nesneleri kavrayabilmesi ve eşleştirebilmesi için onlara dokunmaları, farklı şekillere sahip olduklarını bu şekilde kavramaları gerekir. Doğrudan görsel ile başlanan bir eğitim başarısız olacaktır. Kısa vadede çocuk belirli kavramları öğrenmiş gibi görünse de, bu yalnızca görsel bir karşılık bulacaktır. Örneğin çocuğa kedi resmi göstererek başka resimlerde tanıması sağlanabilir ancak bu sadece görsel bir hafıza öznesinden ibaret olur ve kedinin sınıflandırılması, bir hayvan olarak algılanması, diğer hayvanlar ile arasındaki ilişkinin kurulması gibi işlemler gerçekleşmez. Bu yüzden teknoloji ile yapılan eşleştirmeler temel eşleme işlemlerinden sonra devreye sokulmalıdır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/tablet.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/tablet.jpg)
 
 ## Teknoloji İle Eşleme
 

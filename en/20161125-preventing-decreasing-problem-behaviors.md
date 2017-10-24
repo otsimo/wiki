@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-09"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/preventing-decreasing-problem-behaviors.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/preventing-decreasing-problem-behaviors.jpg"
 +++
 
 # Preventing and Decreasing Problem Behaviors

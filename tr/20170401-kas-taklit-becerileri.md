@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-09"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/Kas.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/Kas.jpeg"
 +++
 
 # Büyük ve Küçük Kas Taklit Becerileri
@@ -33,7 +33,7 @@ Büyük kas taklit becerileri kazandırılırken çeşitli pekiştireçler kulla
 
 Eğitmenin çocuğun kazanması istenilen davranışı yapması ya da ona fiziksel olarak yardımcı olması gerekir. Örneğin yürüme pratiğinin kazandırılması için çocuğun ayağı “böyle yap” denilerek kaldırılabilir ve nasıl yürüyeceği gösterilebilir. Bu pratikleri sürekli olarak tekrarlandıktan sonra çocuk yürüme becerisini kazanacaktır. Edinim kazanıldıktan sonra genelleme çalışmalarına başlanarak devam edilebilir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_toy.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/baby_toy.jpg)
 
 ## Küçük Kas Taklit Becerileri
 

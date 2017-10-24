@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-11-13"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/girls-playing-on-tablet.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/girls-playing-on-tablet.jpg"
 +++
 
 # Hedef Davranış Nedir?
@@ -30,7 +30,7 @@ Sorunlu davranışların değiştiştirilmesi, azaltılması ve yerlerine yenile
   * **Davranışsal Amacın Tanımlanması:** Bu aşamada olumsuz davranışların yerine kazandırılmak istenen hedef davranışlar belirlenir. **Hedef davranış** biçiminin “yorumlanabilir” olmaması son derece önemlidir. Öğretmen burada öznel yargılarla oluşturulmuş bir davranış biçimi değil, gözlemlenebilen, somut verilerle ölçülebilen bir pratik kazandırmaya çalışmalıdır. Örneğin öğrenci herhangi bir dersinin ödevlerini düzenli olarak ihmal ediyorsa, kazandırılmak istenen davranış bu ödevlerin sürekli olarak yapılması olmalıdır.
   * **Program Hazırlama ve Uygulama:** Belirlenmiş olan hedef davranış uygulanması bu sürece tekamül etmektedir. Bu aşamada öncelikle çocuğun yeni davranış biçimini edinmesi için bir program çıkarılır. Sorunlu davranışlar sergileyen çocuk bu programa olumlu uyaranlar ile teşvik edilir. İlk aşamada edinilen veriler gözden geçirilir ve çocukta problemli davranışlara sebep olan etken ve uyaranlardan arındırılmış bir ortam seçilir. Daha sonra yeni davranışın kazanılması için program hazırlanır ve uygulanır. Bu süreçte pekiştireçler, yardım, ipuçları, ödül-ceza sistemi kullanılır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/fun_time.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/fun_time.jpg)
 
 ## Hedef Davranış Uygulamasında Nelere Dikkat Edilmelidir?
 

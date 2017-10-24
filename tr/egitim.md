@@ -9,7 +9,7 @@ keywords = ["Eğitim", "Tedavi", "Terapi"]
 draft = false
 written_at = "2016-04-09"
 [params]
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizm_tedavi.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm_tedavi.jpg"
 youtube = "https://youtube.com/video.html"
 +++
 # Otizm Spektrum Bozukluğunda Eğitim, Terapi ve Tedavi Yöntemleri

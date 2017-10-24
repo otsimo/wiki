@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-10-24"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/P1_small.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/P1_small.jpg"
 +++
 
 # Otizme Yönelik Tedavi Uygulamaları
@@ -25,7 +25,7 @@ Kesin bir tedavi uygulayabilmek için öncelikle otizmli bireylerin olumsuz ve s
 
 Otizm tedavisinin ilk aşaması psikiyatrik ve nörolojik tedavidir. Çocukların öfke ve kaygı nöbetlerini önleyebilmek için çeşitli dozajlarda ilaçlar kullanılabilir. Bu ilaçlarda kesinlikle doz aşımı yapılmadığından emin olmak gerekecektir. Bununla birlikte, nörolojik ve psikiyatrik tedaviler otizmi ortadan kaldırmak için tek başına yeterli değildir. Tedavinin amacı hastayı tamamen iyileştirmek değil, terapilerin sorunsuz bir şekilde devam edebilmesini sağlamaktır. Otizmli hastalar uzun süren terapiler sonucunda sahip olmaları gereken becerilerini kazanabilir ve hayatlarını bu hastalığın etkisi altında olmadan sürdürebilirler. Bununla birlikte, beslenme ve vitamin programları otizm tedavisinde önemli bir yere sahiptir.
 
- ![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_eats.jpg)
+ ![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/baby_eats.jpg)
 
 ## Gluten-Kazein Diyeti
 

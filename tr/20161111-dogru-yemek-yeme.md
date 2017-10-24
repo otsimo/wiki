@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-10-20"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/Yemek.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/Yemek.jpeg"
 +++
 
 
@@ -22,7 +22,7 @@ Otizm ile mücadele eden çocuklara, özellikle üç yaşından önce tanı konm
 
 Özel eğitimin yanı sıra bu özel olarak hazırlanmış eğitime destek olarak, otizmli çocukların günlük hayatlarını mümkün olan en az şekilde yardım alarak devam ettirebilmeleri için gerekli olan becerileri edinebilmeleri adına bir takım uğraşı terapileri de yapılmaktadır. Bu edinilmesi oldukça önemli olan günlük hayat becerileri arasında en çok önem arz edeni şüphesiz ki beslenme becerileridir. Beslenme becerisine sahip olan otizmli çocuğun hayat kalitesi gözle görülür bir şekilde arttığı gibi, aynı zamanda etrafındaki aile fertlerinin hayatını da oldukça kolaylaştırmaktadır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_eats.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/baby_eats.jpg)
 
 Bazı otizmli çocuklar kendilerini besleyebiliyor olsa da bunu kendi istediği şekilde yapmayı tercih edebilir. Bunu değiştirmeye kalktığınızda ise size karşı gelebilir ve kendi yöntemini değiştirmemek için size direnebilir. Çocuğunuzun beslenirken bir kaşık kullanmasını istiyorsanız, mümkün olan en yakın zamanda derhal pozitif bir rutin devreye sokmanız gerekmektedir.
 

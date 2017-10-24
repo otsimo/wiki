@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-11-22"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/taklit-becerileri.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/taklit-becerileri.jpeg"
 +++
 
 # Otizmde Taklit Becerilerinin Önemi
@@ -26,7 +26,7 @@ Taklit becerileri, kazandırılmak istenen yetenek ve davranışa göre sınıfl
 
 Eğer çocuklarda konuşma değil de davranış eksikliği varsa işlevsel eylemlerin uygulanması gerekmektedir. Ancak çatal-kaşık tutmak gibi karmaşık eylemler vakit alabilir. İşlevsel eylemlerin temel amacı, çocuklara motor becerileri kazandırmaktır. Otizm ne kadar erken yaşta tespit edilir ve rehabilitasyona ne kadar erken başlanırsa işlevsel eylemler de o denli başarılı sonuç verecektir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_tree.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/child_tree.jpg)
 
 Taklit becerileri aşağıdaki gibi sınıflandırılır.
 

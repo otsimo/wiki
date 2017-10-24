@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-11"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmdeoyunarkadasligikurma.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizmdeoyunarkadasligikurma.jpeg"
 +++
 
 # Otizmde Oyun Arkadaşlığı Kurma
@@ -27,7 +27,7 @@ Korunmak, yemek ya da içmek ne kadar temel bir ihtiyaç ise iletişim de o kada
 
 Otizm spektrum bozukluğu yaşayan bireyler, iletişim kurma aşamasında diğer bireylerden daha büyük sorunlar ile karşılaşırlar. Nörolojik etkinlik farklılıklarından dolayı otizmli bireylerde, akranları ile etkileşim kurma yeteneği kendiliğinden gelişmez. Bu sebepledir ki otizmli çocuklar, yaşıtları ile iletişim geliştirmek için **özel eğitim programlarına**, uzmanlara ve sağlıklı koşullara ihtiyaç duyarlar. Aileleri, yakın çevreleri ve uzmanlar gözetiminde yönlendirme ve desteklenme sağlanarak bu bireylere toplum içerisinde nasıl yer alabilecekleri öğretilmelidir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_toy.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/baby_toy.jpg)
 
 
 ## Otizmli Çocuklar ve Oyun Arkadaşlığı

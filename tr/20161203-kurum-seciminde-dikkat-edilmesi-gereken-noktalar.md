@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-03"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/kurum-seciminde.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/kurum-seciminde.jpg"
 +++
 
 
@@ -24,7 +24,7 @@ Otizmli çocukların eğitimi büyük özen gerektirir. Otizmli çocuk bir eğit
 
 Otizmli çocukların eğitimi özel olduğundan, seçilecek eğitim kurumunun çalışanlarının otizmli çocukları eğitme konusunda gerekli eğitimleri almış olması gereklidir. İyi eğitim kurumlarında çocuk ruh sağlığından anlayan uzmanlar bulunur. Her otizmli çocuk sosyal ve zihinsel becerilerine göre ayrı öğrenme yetenekleri göstermektedir. Kurumun, bu farkları göz önünde bulundurarak eğitim vermesi gerekir. Kurumlarda çocukların eğitim aldığı alanların, çocukların zihinsel becerilerine uygun olması gerekmektedir. Otistik çocukların dikkati çabuk dağıldığı için bu durumun önüne geçebilecek şekilde tasarlanmış sınıflar olmalıdır. Ayrıca sınıfların oturma düzeni de çocukları rahat ettirecek şekilde olmalıdır. Otizmli çocuklar sıkışık ortamlardan hoşlanmazlar, öte yandan çocukların sosyal gelişimi için de çocukların birbirinden çok da fazla kopuk olmamaları gerekir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/draw.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/draw.jpg)
 
 Otizmli çocuklara bir şeyler öğretilirken somutlaştırma çok önemlidir. Otizmli çocuklar zihinsel işlevselliklerinin seviyelerine göre bazı soyut kavramları somutlaştırmakta zorlanırlar. Bu sebeple kurum içerisindeki eğitim süresince, bu somutlaştırma şekillerinden faydalanılmalıdır. Somutlaştırarak öğretmede duyular büyük önem taşır. Bu sebeple yapılan her faaliyeti belirten semboller yaratmak, çocukları bu faaliyetlere yönlendirmede büyük ölçüde fayda sağlar. Eğitim sınıflarında duyusal materyallerin kullanılması da çok önemlidir.
 

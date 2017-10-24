@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-29"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/iletisim-beceri.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/iletisim-beceri.jpeg"
 +++
 
 # İletişim Becerilerinin Gelişimi
@@ -21,7 +21,7 @@ thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/iletisim-beceri.jpeg"
 
 Çocuğun (ya da bireyin) içerisinde olduğu yaş (biyolojik olgunluk) dönemi ve iletişim becerilerinin gelişmişlik düzeyi, iletişim becerileri eğitim programının temelini oluşturur. Çocuğun iletişim eğitimi, konuşma yeteneğini geliştiremediği ve çoğu fiziki yeterlilikten mahrum olduğu erken dönemde başlar. Bu dönemde çocuklara mimikler ve yüz ifadeleri sayesinde iletişim kabiliyeti kazandırılmalıdır. Böylece çocuk iletişime odaklanma kabiliyeti ve çevresindeki insanların davranışlarından anlam çıkarma yeteneği geliştirir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/ideas_autism.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/ideas_autism.jpg)
 
 Bu yaşlarda çocuklar etki ve sonuç gözlemi ile öğrenirler. Bu sebeple sonuca ulaşmaları için önce göz kontağı kurmalarına ve ardından betimleyici bir ses ya da hareketi yapmalarına yönlendirmek, çocukta temel iletişim becerileri oluşturmak için önemli katkılar sağlayacaktır.  Çocuklarda anlama yeteneğinin ve tepki verme faaliyetlerinin gelişmesi ile dil eğitimi süreci başlar. Dil küçük ve yakın insan grupları (aile vb.) yaşamından toplumsal yaşama geçiş aşamasında önemli bir yer tutar. Bireyler toplum içerisinde yer alırken sorunlarla karşılaşmamak için, yaşıtları ile eğitim becerisi açısından büyük farklar yaşamamalıdırlar.
 

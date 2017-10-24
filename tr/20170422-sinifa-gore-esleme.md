@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-12-03"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/sinifa-gore-esleme.png"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/sinifa-gore-esleme.png"
 +++
 
 
@@ -29,7 +29,7 @@ Otizmli bireye nesneleri sınıfa göre eşleme eğitimi vermeden önce nesneler
 
 Otizm Spektrum Bozukluğu sahibi olan çocuklar, nesneler ve kavramlar arasındaki bağlantıları kendi başlarına kuramayabilirler. Eşleme işlemi daha sonra sınıfa göre eşleme olarak devam ettirilmediği sürece, çocuklar sadece eşleme faaliyetinde öğrendikleri nesne ve kavramları edinmiş olacaktır. Örneğin “kedi” kavramı öğretilen bir çocuk, sınıfa göre eşleme yapılmazsa “hayvan” kavramına sahip olmayacak, diğer hayvanları çeşitli özelliklere göre kategorize etme ve kedi kavramını onun içinde konumlandırma yetisini kazanamayacaktır. Ayırt etme yeteneğinin genelleme ile birlikte pekişmesi için çocuğa sınıfa göre eşleme yeteneğinin kazandırılması gerekir. Bu eğitim, çocukların kavram ve nesneleri sınıflandırarak bir eğitmen yardımı olmadan öğrenmelerine yardımcı olur. Bu eğitim, nesnelerin ve anlamların sınıflandırılmasına ve kullanımlarına, özelliklerine göre ilişkilendirilmesine yardımcı olur.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/smile_child.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/smile_child.jpg)
 
 ## Uygulamanın Temel Prensipleri Ve Aşamaları
 

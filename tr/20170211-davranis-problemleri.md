@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-22"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_sun.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/child_sun.jpg"
 +++
 
 
@@ -26,7 +26,7 @@ Otizmde problemler alıştırılarak yavaşça değiştirilmeye çalışılmalı
 
 Otistik çocuklar genellikle normal olarak görülmeyen bir davranışı bir neden bağlı olarak yaparlar. Örneğin; ebeveynlerinin ilgisini çekmek amacıyla gerçekleştirilebilecek davranışlar arasında bir eşya fırlatmak, yüksek ses çıkarmak gösterilebilir. Bu tamamen ilgiyi kendi üzerine almak için yapılır. Fakat bu davranış problemi olarak değerlendirilebilecek bu hareketleri aza indirmek ve yok etmek için sabırlı bir şekilde çocuğa doğru yolu göstermek gerekir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/baby_kitch.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/baby_kitch.jpg)
 
 Bir işten kaçınmak için anlamsız bir durumda ağlama ya da sevmediği bir işi yarım bırakmak için mızmızlanmak tüm çocuklarda olduğu gibi otistik çocuklarda da görülebilir. Bu tip davranışları aşırıya kaçmayarak yaşıyorsa üstüne gitmeden güzel bir dille sabırla onunla konuşulmalı ve rahatlaması sağlanmalıdır.
 

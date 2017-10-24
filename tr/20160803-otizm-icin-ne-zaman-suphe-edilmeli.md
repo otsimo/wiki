@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-03"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizm_icin.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm_icin.jpg"
 +++
 
 # Otizm İçin Ne Zaman Şüphe Edilmeli?

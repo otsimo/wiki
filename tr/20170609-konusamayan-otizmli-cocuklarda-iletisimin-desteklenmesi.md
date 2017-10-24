@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-12-11"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/konusamayan-otizmli.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/konusamayan-otizmli.jpg"
 +++
 
 
@@ -25,7 +25,7 @@ Her bireyin iletişim kurmak için başvurduğu ilk yöntem konuşmaktır. Birey
 
 Çocuğun iletişiminin gelişmesi aşama aşama olmaktadır. En başta jest ve mimikler devreye girer, daha sonraki aşamalarda çocuk iletişim kurmak için sözcüklere başvurur. Ancak her çocuk konuşma evresine rahat bir şekilde geçemez. Bunun için alternatif iletişim yöntemleri geliştirilmelidir. Çocuk ile iletişim kurulabilmesi için önce onunda aynı frekansta olmak gerekmektedir. Örneğin çocuğun yaptıklarını takip etmek, aynılarını yapmak bir yol olabilir. Ancak bunu çocuğa fark ettirmeden, ortak ilgi alanları o durummuş gibi davranmak gerekir. Ortak ilgi alanı oluşturmak için öncelikle çocuğun neye karşı ilgisi olduğu belirlenmelidir. Daha sonra bu ilginin olduğu durum gözlenmeli ve incelenmelidir. Çocuğun davranışları tam olarak incelendikten sonra ebeveyn de bu durumu takip etmeli veya dâhil olmalıdır. Aynı ilgi alanında buluşulduktan sonra çocuğa yeni bir bilgi verilebilir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/play_tablets.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/play_tablets.jpg)
 
 Konuşmakta güçlük çeken veya konuşamayan otizmli bireylerde ise iki farklı grupta incelenen alternatif çözümlerden destek alınabilir. Ek araçsız ve ek araçlı olarak iletişim biçimleri otizmli bireyler ile iletişim kurmak için tercih edilen yöntemler arasında yer almaktadır. Ek araçsız denilen yöntemde birey sadece kendi mimiklerinden, vücut dilinden ve işaretlerden yararlanır. Ek araçlı iletişim yönteminde ise iletişim kitapları, ses çıkaran cihazlar gibi unsurlar kullanılır. Ancak ek araçlı iletişim sistemlerinin kullanılabilmesi için bunların tekniklerini bilmek gerekmektedir. Ek araçlı iletişimde en basit alternatif iletişim araçları iletişim kitapları, iletişim panoları, iletişim cüzdanları ve iletişim bileklikleridir. Bunların üzerlerinde özel olarak hazırlanmış semboller bulunur ve birey bu semboller aracılığı ile karşı taraf ile iletişimde bulunur. Daha karmaşık cihazlar ise elektronik olarak çalışanlardır. Ancak bunların kullanımı basit cihazlara göre daha kolay olmadığı gibi aynı zamanda oldukça pahalıdırlar.
 

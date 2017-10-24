@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-05"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizmde-esleme-ve-siniflandirma.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizmde-esleme-ve-siniflandirma.jpg"
 +++
 
 
@@ -32,7 +32,7 @@ Bu yöntemden öncelikle çocuğun önüne eşlemesi istenen materyaller konur. 
 
 Çocuk materyalleri “eşlemeyi” yani üst üste koymayı başardığında sözlü olarak motive edilir (Aferin, bravo vs) ve yiyecek pekiştireci verilir. Çocuk yiyeceği tükettikten sonra aynı işlem başka bir materyalle eşlemeye devam ettirilir. Eşleme işlemi, otizmli çocuk materyalleri herhangi bir ipucu olmadan üst üste koymayı başarana kadar devam eder. Bu metot sürekli uygulandığında çocuğun nesneleri tanımlayabilmesi mümkün olacaktır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/game_child.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/game_child.jpg)
 
 İkinci aşamada masada iki farklı nesne bulunur ve çocuğa bu nesnelerin birer eşi verilir. Burada çocuğun yapması gereken nesneleri aynılarının üstüne koymak, onları “eşlemek”tir. İlk aşamada olduğu gibi burada da pekiştireç kullanılması gerekir. Çocuk eşlemeyi kendi başına yapabilir hâle geldiğinde ipuçları sistematik olarak devreden çıkarılır.
 

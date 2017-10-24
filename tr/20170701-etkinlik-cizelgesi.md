@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-12-15"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/etkinlik-cizelgesi.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/etkinlik-cizelgesi.jpeg"
 +++
 
 
@@ -24,7 +24,7 @@ Etkinlik çizelgelerinin etkili bir şekilde kullanılabilmesi için belli bir s
 
 İlk olarak hedeflenen geçiş davranışları üzerinde durulmalı ve bunlar belirlenmelidir. Bu geçiş davranışları olarak nitelendirilen aslında bireyin etkinlikler arasında yaşadığı davranış bozukluklarıdır. Problemli davranışların ne zaman başladığı ve artış seviyesi kontrol edilerek bunlara dair veriler toplanmalıdır. Etkinlik içerisinde seçim yapılması gerekebilir veya etkinlikler arasında tercih edilmesi gereken bir seçenek bulunabilir. Bunlardan birine karar verilerek çizelge net olarak hazırlanmalıdır. Etkinlik çizelgesinin sunumu için kullanılacak materyaller belirlenmelidir. Gerekiyorsa uygun araç ve gereçler de tedarik edilmelidir. Çizelgenin hazırlanacağı ve uygulamaya konulacağı yer belirlenmelidir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/notebook_toys.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/notebook_toys.jpg)
 
 Çizelge hazırlandıktan sonra çizelgenin nasıl uygulanacağı bireye öğretilmelidir. Başta belli ipuçları kullanarak bireye yardım edilmeli ve çizelgeye tam olarak hâkimlik sağlaması için çabalanmalıdır. Uygulamalar yapıldıkça bunların sonuçları raporlandırılmalıdır. Bireyin durumuna göre mümkün olduğunca yeni resimler eklenerek çizelge farklılaştırılmalıdır. Uygulama her gün aynı kalırsa bireyin gelişimi mümkün olmaz. Bu nedenle sürekli hafif zorlaştırmalar yapılmalıdır. Belli bir süre sonra ipuçları azaltılmalıdır. Bazı zamanlarda da bireye fazla yüklenmemek için dinlenme günleri gibi zamanlar belirlenerek çizelge sadeleştirilmelidir.
 

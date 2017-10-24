@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-16"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/parmak-isareti.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/parmak-isareti.jpeg"
 +++
 
 
@@ -33,7 +33,7 @@ Gelişim önce büyük kas gruplarında başlar. Buna kolun tamamını örnek ve
 El ile tutma işleminde yeterince alıştırma yaptıktan sonra çocukların parmaklarını kullanabilmeleri için buradaki küçük kas gruplarını geliştirmeleri gerekir. Elleri üzerinde hâkimiyet kurmaya başladıkça parmak kasları da yavaş yavaş gelişmeye başlayacaktır. Gelişimini ilerletmek için kil ve hamur ile çocukların oynaması küçük kas gruplarına iyi gelecektir. Bunun yanında ipe boncuk dizmek de parmaklarını daha işlevsel kullanabilmeleri için güzel bir alıştırma olacaktır. Bu gelişim sürecinde çocuklar parmaklarını bir kıskaç gibi kullanarak cisimleri kavrayabilirler. Özellikle işaret ve başparmağı yardımıyla cisimleri tutarak kontrol edebilmeleri onlar için büyük bir gelişim gösterdiklerini ifade etmektedir.
 
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/hands_child.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/hands_child.jpg)
 
 ## Parmak İşareti Becerisi Kimi Zaman Konuşmanın Yerini Alabilir
 

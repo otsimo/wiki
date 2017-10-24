@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-08-29"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/otizm-ve-akilli-cihazlar.png"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm-ve-akilli-cihazlar.png"
 +++
 
 # Otizm ve Akıllı Cihazlar
@@ -27,7 +27,7 @@ Teknolojinin bu kullanımı ile otizmli bireyler, hem gündelik hayatlarını s�
 
 Görsel yönü kuvvetli **tablet uygulamaları**, görme yeteneğini diğer yetilerinden daha verimli kullanan otizmli bireyler için kullanışlı eğitim olanakları sağlamaktadır. Çoğunlukla **eşleme ve sınıflama pratiğinin** üzerine yoğunlaşan akıllı cihaz uygulamaları, [Uygulamalı Davranış Analizi (UPA)](/uygulamalidavranisanalizi/) ve bu analiz tekniğinden doğan birçok analiz yöntemi ile desteklenerek, otizmin ilerleyişi hakkında da önemli veriler sağlamaktadır. Otizm etkisi altındaki bireylerin eğitiminde önemli etkiler yaratan bu uygulamalar, otizmli birey yakınları ve uzmanlar için yönlendirici analiz raporları da sunmaktadır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/tablet.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/tablet.jpg)
 
 ## Her Otizmli Çocuk Farklıdır
 

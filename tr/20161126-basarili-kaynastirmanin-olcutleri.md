@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-10-12"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/o-CHILD-TABLET-facebook.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/o-CHILD-TABLET-facebook.jpg"
 +++
 
 
@@ -39,7 +39,7 @@ Sınıftaki diğer öğrencilerde sınıf öğretmenleri tarafından bilinçlend
 
 Çocuğun faaliyet göstermesini sağlayan pekiştireçler bulunmalı ve ödül sistemi uygulanmalıdır.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/kids_training.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/kids_training.jpg)
 
 Otizmli çocukların öğrenmesinde duyular çok önemlidir, bu sebeple duyusal yaklaşımla eğitim verilirken, çocuğun tercih ettiği duyular baz alınırsa çocuğun öğretileni kavraması daha kolay olur.
 

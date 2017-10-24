@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-11-09"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/problem-davranis.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/problem-davranis.jpeg"
 +++
 
 
@@ -50,7 +50,7 @@ Aileden kaynaklı olan diğer faktörler ise çocuğun normalin üstünde disipl
 
 Aile içinde fiziksel ya da psikolojik şiddet söz konusuysa, çocukların problemli davranışlara sahip olmamaları beklenemez. Bu şiddet çocuğa yönelik olmasa bile, şahit olunan şeyler çocuğu etkileyecek ve problemli bir şekilde davranmasına sebep olacaktır. Dolayısıyla ailenin tutumu, özellikleri ve aile ortamınad sürekli olarak tekrarlanan hareketler çocuğun problemli davranışlar edinmesine sebep olabilir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/toy_child.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/toy_child.jpg)
 
 ##### _Kitle İletişim Araçları:_
 

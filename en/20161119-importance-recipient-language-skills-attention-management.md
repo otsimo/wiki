@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-07-07"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/child_relax.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/child_relax.jpg"
 +++
 
 # Importance of Recipient Language Skills and Attention Management

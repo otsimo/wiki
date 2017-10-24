@@ -10,7 +10,7 @@ draft = false
 written_at = "2016-04-09"
 [params]
 available_at = "2017-09-19"
-thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/img/siniflama-ve-esleme.jpeg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/siniflama-ve-esleme.jpeg"
 +++
 
 # Sınıflama Ve Eşleme Eğitimde Önemli Noktalar
@@ -22,7 +22,7 @@ Temel eşleme becerileri, birebir ya da neredeyse aynı olan seçenekleri bir ar
 
 Bu açıklamadan da fark edilebileceği gibi dil becerilerini öğrenirken eşleme becerilerinden yararlanılır. İnsanlar çevrelerinde gördükleri obje, durum ya da eylemlerle ilgili bir gerçekliği, harflerle kodlanmış sessel bir işaret olan kelimelerle eşleştirir. Bezer bir şekilde insanlar okuma yazma becerilerini geliştirirken de yine bu düşünsel faaliyete başvururlar. Hangi harfin hangi sesi ifade ettiği ancak eşleme yöntemi ile öğrenilebilmektedir. Bu sebeple eşleme yeteneği geliştirmek, dil öğreniminin bütün süreçleri için oldukça önemli bir basamak olarak görülmektedir.
 
-![](https://s3-us-west-1.amazonaws.com/otsimo-en/img/blog_ici/pencil_drawing.jpg)
+![](https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/pencil_drawing.jpg)
 
 Sınıflama becerisi ise görünüm benzerliği algılama ya da tanımlama faaliyetlerinin yorumlanıp, anlamlandırılmasıdır. Seçeneklerin; atfedilen bazı özellikler, kullanım alanları, renkleri, türleri veya benzeri sayısız kategorizasyondan biri ile düşünsel olarak sınıflandırılması eylemidir. Hayvanlar, bitkiler, meyve ve sebzeler, eşyaların imalatında kullanılan ham maddeler, yiyecek ve içecekler bu etkinliğin en yoğun kullanıldığı alanlardan sadece birkaç tanesidir.
 
