@@ -4,13 +4,16 @@ title = "What to Consider Before Starting Autism Therapy"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 50
+weight = 50.0
 keywords = ["Before", "Threapy"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/kindergarten-prep.jpg"
+web = "https://otsimo.com/en/beforethreapy-en/"
 +++
+
 #  What to Consider Before Starting Autism Therapy
 
 Even though it is a disorder that has many sides, autism essentially shows itself in deficiencies in communication, learning and motor skills. It is based on a neurological disorder. Parts of the brain are not stimulated and act at the same time and this prevents person with autism from communicating. Although autism is not fully treatable and its reasons can&#39;t be eliminated, individual with autism can have many abilities with therapies and go on with life with no problems.

@@ -4,14 +4,17 @@ title = "Evidence-Based Practices in Autism"
 category = "Education"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Education", "Autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-04"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/evidence-based-practices-autism.jpg"
+web = "https://otsimo.com/en/evidence-based-practices-autism/"
 +++
+
 
 # Evidence-Based Practices in Autism
 

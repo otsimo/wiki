@@ -4,14 +4,17 @@ title = "Evidence-Based Practices in Autism"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 97
+weight = 97.0
 keywords = ["Evidence", "Based", "Practices"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/ebpractices.jpg"
 youtube = "https://www.youtube.com/embed/HUkJsDJFbM8"
+web = "https://otsimo.com/en/ebpractices-en/"
 +++
+
 # Evidence-Based Practices in Autism
 
 Autism is a disorder that requires long treatment and therapy process. Essentially, it stems from a number of neurological problems. Different parts in brains of people with this disorder are known to not act synchronically. The treatment can be carried on with practices and therapies to enhance cognitive, auditory and intellectual abilities.

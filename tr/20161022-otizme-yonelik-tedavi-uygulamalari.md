@@ -4,14 +4,17 @@ title = "Otizme Yönelik Tedavi Uygulamaları"
 category = "Otizm"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-24"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/P1_small.jpg"
+web = "https://otsimo.com/tr/otizme-yonelik-tedavi-uygulamalari/"
 +++
+
 
 # Otizme Yönelik Tedavi Uygulamaları
 

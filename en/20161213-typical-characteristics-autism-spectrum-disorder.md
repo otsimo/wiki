@@ -4,14 +4,17 @@ title = "Typical Characteristics of Autism Spectrum Disorder"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Autism", "Spectrum"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-17"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
+web = "https://otsimo.com/en/typical-characteristics-autism-spectrum-disorder/"
 +++
+
 
 # Typical Characteristics of Autism Spectrum Disorder
 

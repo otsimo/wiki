@@ -4,14 +4,17 @@ title = "Why Should You Wear #BlueForAutism?"
 category = "Autism"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["awareness", "wear-blue"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-19"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/wear-blue.png"
+web = "https://otsimo.com/en/wear-blue-world-autism-awareness-month/"
 +++
+
 
 
 # Why Should You Wear #BlueForAutism on World Autism Awareness Month?

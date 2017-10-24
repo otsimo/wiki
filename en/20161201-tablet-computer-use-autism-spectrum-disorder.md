@@ -4,14 +4,17 @@ title = "Tablet Computer Use in Autism Spectrum Disorder"
 category = "Education"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Tablet", "Games"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-11"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/use-autism.jpg"
+web = "https://otsimo.com/en/tablet-computer-use-autism-spectrum-disorder/"
 +++
+
 
 # Tablet Computer Use in Autism Spectrum Disorder
 

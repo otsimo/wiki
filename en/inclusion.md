@@ -4,13 +4,16 @@ title = "Advice on Successful Inclusion"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 65
+weight = 65.0
 keywords = ["Advice", "Inclusion"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/Child-The-Best-Education.jpg"
+web = "https://otsimo.com/en/inclusion-en/"
 +++
+
 # Advice on Successful Inclusion
 
 The primary aim of inclusive education model is to enable children with autism to have education with children without any mental inability. Inclusion-based education is significant to children with autism. This education model ensures communication and its continuity that children with autism have with the outside world. Through inclusion, they achieve a life in which they are individuals and have accomplished various challenges.

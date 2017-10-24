@@ -4,14 +4,17 @@ title = "Uygulamalı Davranış Analizi (UDA) Nedir"
 category = "Eğitim"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-28"
-thumb ="https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/kids_training.jpg"
+thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/kids_training.jpg"
+web = "https://otsimo.com/tr/uygulamalidavranisanalizi/"
 +++
+
 
 # Uygulamalı Davranış Analizi (UDA) Nedir
 

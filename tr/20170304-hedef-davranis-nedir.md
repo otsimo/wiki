@@ -4,14 +4,17 @@ title = "Hedef Davranış Nedir?"
 category = "Otizm"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-11-13"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/girls-playing-on-tablet.jpg"
+web = "https://otsimo.com/tr/hedef-davranis-nedir/"
 +++
+
 
 # Hedef Davranış Nedir?
 

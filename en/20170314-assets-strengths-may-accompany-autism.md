@@ -4,14 +4,17 @@ title = "Strengths that Come with Autism and Why You Should Care"
 category = "Autism"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["Autism", "Strengths", "Challenges"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-12"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/assets-strengths.jpg"
+web = "https://otsimo.com/en/assets-strengths-may-accompany-autism/"
 +++
+
 
 
 # Strengths that Come with Autism and Why You Should Care

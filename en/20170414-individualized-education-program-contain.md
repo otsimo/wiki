@@ -4,14 +4,17 @@ title = "What Individualized Education Program Must Contain According to Law"
 category = "Education"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["Individualized", "education", "law"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-11-09"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
+web = "https://otsimo.com/en/individualized-education-program-contain/"
 +++
+
 
 
 # What Individualized Education Program Must Contain According to Law

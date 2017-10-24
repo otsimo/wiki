@@ -4,13 +4,16 @@ title = "Educational Practices for Autism"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 100
+weight = 100.0
 keywords = ["practices", "Education"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/childtherapyboy.jpg"
+web = "https://otsimo.com/en/edpractices-en/"
 +++
+
 # Educational Practices for Autism
 
 Education is an important factor in recovery and integration process of children with autism. It is essential to practice education in sync with therapy and treatment. Education plays a great role in solving problems relating to learning, comprehending and making sense, and having children practice towards these. A specially prepared education program is practiced with children with autism.

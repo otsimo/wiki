@@ -4,14 +4,17 @@ title = "10 Myths About Autism You Should Know"
 category = "Autism"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["Myths", "Autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-28"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/10-myths.jpg"
+web = "https://otsimo.com/en/10-myths-autism/"
 +++
+
 
 
 # 10 Myths About Autism You Should Know

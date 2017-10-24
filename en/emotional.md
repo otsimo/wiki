@@ -4,13 +4,16 @@ title = "Determining Emotional Needs of a Child with Autism and the Parents"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 55
+weight = 55.0
 keywords = ["Emotional", "Needs"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/child-images-020.jpg"
+web = "https://otsimo.com/en/emotional-en/"
 +++
+
 # Determining Emotional Needs of a Child with Autism and the Parents
 
 Parents are important for development of every child. Children become self-confident and sturdy individuals when they feel the support of their family until adolescence and be a part of the society. This applies to children with special needs, such as autism. Children with autism who get support from their families in terms of emotion, become outgoing and are reintroduced to the society in a loving way.

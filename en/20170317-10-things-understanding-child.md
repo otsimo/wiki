@@ -4,14 +4,17 @@ title = "10 Things You Should Know About Autism"
 category = "Autism"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["Child", "Autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-03"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/10-things-understanding-child.gif"
+web = "https://otsimo.com/en/10-things-understanding-child/"
 +++
+
 
 
 # 10 Things You Should Know to Understand Your Child With Autism

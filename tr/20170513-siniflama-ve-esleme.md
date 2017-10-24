@@ -4,14 +4,17 @@ title = "Sınıflama Ve Eşleme Eğitimde Önemli Noktalar"
 category = "Eğitim"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-09-19"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/siniflama-ve-esleme.jpeg"
+web = "https://otsimo.com/tr/siniflama-ve-esleme/"
 +++
+
 
 # Sınıflama Ve Eşleme Eğitimde Önemli Noktalar
 

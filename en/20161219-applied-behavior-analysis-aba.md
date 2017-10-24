@@ -4,14 +4,17 @@ title = "What is Applied Behavior Analysis (ABA)"
 category = "Games"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-20"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/analysis-aba.jpeg"
+web = "https://otsimo.com/en/applied-behavior-analysis-aba/"
 +++
+
 
 # What is Applied Behavior Analysis (ABA)
 

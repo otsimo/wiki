@@ -4,14 +4,17 @@ title = "Problem Davranış Nedir? Sebepleri Nelerdir?"
 category = "Otizm"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-11-09"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/behaviors-causes.jpeg"
+web = "https://otsimo.com/tr/problem-davranis-nedir/"
 +++
+
 
 
 # Problem Davranış Nedir? Sebepleri Nelerdir?

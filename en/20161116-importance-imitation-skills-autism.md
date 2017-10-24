@@ -4,14 +4,17 @@ title = "Importance of Imitation Skills in Autism"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Autism", "Spectrum"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-06"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/importance-imitation.jpg"
+web = "https://otsimo.com/en/importance-imitation-skills-autism/"
 +++
+
 
 # Importance of Imitation Skills in Autism
 

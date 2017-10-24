@@ -4,14 +4,17 @@ title = "Başarılı Kaynaştırmanın Ölçütleri"
 category = "Eğitim"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-12"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/o-CHILD-TABLET-facebook.jpg"
+web = "https://otsimo.com/tr/basarili-kaynastirmanin-olcutleri/"
 +++
+
 
 
 # Başarılı Kaynaştırmanın Ölçütleri

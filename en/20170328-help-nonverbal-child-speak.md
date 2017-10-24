@@ -4,14 +4,17 @@ title = "How to Help Your Nonverbal Child with Autism Speak"
 category = "Education"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["parents", "speak", "autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-09"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/socialinteraction.jpg"
+web = "https://otsimo.com/en/help-nonverbal-child-speak/"
 +++
+
 
 
 # How to Help Your Nonverbal Child with Autism Speak

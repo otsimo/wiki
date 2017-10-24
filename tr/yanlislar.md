@@ -4,13 +4,16 @@ title = "Otizm Spektrum Bozukluğu ile ilgili yanlış inanışlar"
 category = "Otizm"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 75
+weight = 75.0
 keywords = ["Yanlışlar", "İnanışlar"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
+web = "https://otsimo.com/tr/yanlislar-tr/"
 +++
+
 # Otizm Spektrum Bozukluğu ile ilgili yanlış inanışlar
 
 ## 1. Bazı aşılar otizme yol açar.

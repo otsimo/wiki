@@ -4,13 +4,16 @@ title = "Effects of Having a Child With Autism"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["have", "autism"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/tanyaz.jpg"
+web = "https://otsimo.com/en/havechild-en/"
 +++
+
 # Effects of Having a Child With Autism
 
 Children are seen as new beginnings and blessings in every family. Families reorganize their lives according to their children and start to make decisions in accordance with this order. Children considerably affect parent&#39;s work, personal decisions and majority of their lives. Though these effects are restrictive, parents have already knew what they were going for.

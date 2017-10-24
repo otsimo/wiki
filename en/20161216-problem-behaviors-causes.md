@@ -4,14 +4,17 @@ title = "What are Problem Behaviors and What Causes Them?"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Problem", "Behaviors"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-18"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/behaviors-causes.jpeg"
+web = "https://otsimo.com/en/problem-behaviors-causes/"
 +++
+
 
 # What are Problem Behaviors and What Causes Them?
 

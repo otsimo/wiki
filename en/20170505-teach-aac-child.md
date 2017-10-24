@@ -4,14 +4,17 @@ title = "How to Effectively Teach AAC to Your Child?"
 category = "Games"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["Teach", "AAC"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-11-22"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/teach-aac-child.jpg"
+web = "https://otsimo.com/en/teach-aac-child/"
 +++
+
 
 
 # How to Effectively Teach AAC to Your Child?

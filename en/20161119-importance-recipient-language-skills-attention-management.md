@@ -4,14 +4,17 @@ title = "Language Skills and Attention Management"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Language", "Education"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-07"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/blog_ici/child_relax.jpg"
+web = "https://otsimo.com/en/importance-recipient-language-skills-attention-management/"
 +++
+
 
 # Importance of Recipient Language Skills and Attention Management
 

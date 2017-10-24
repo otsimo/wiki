@@ -4,13 +4,16 @@ title = "When to Suspect Autism?"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 80
+weight = 80.0
 keywords = ["Suspect", "Autism"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/teach-aac-child.jpg"
+web = "https://otsimo.com/en/whensuspect-en/"
 +++
+
 # When to Suspect Autism?
 
 In US, just like around the world, there have been many awareness campaigns started to be organized and many families were informed by these campaigns. Autism is a developmental disorder that generally occurs in the first three years of life. Individuals with autism struggle with social communication. Many communication types, including verbal and non-verbal, can be included in these social interactions. Repetitive behavior and limited fields of interest are also observed in individuals with autism.

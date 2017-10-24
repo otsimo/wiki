@@ -4,14 +4,17 @@ title = "Otizm Spektrum Bozukluğu Nedir?"
 category = "Otizm"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 90
+weight = 90.0
 keywords = ["Otizm", "Nedir", "Genel"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/child_drum.jpg"
 youtube = "https://www.youtube.com/embed/X6nWodsX5cY"
+web = "https://otsimo.com/tr/nedir-tr/"
 +++
+
 # Otizm Spektrum Bozukluğu nedir?
 
 Otizm spektrum bozukluğu, doğuştan gelen ya da yaşamın ilk yıllarında ortaya çıkan karmaşık bir nörogelişimsel bozukluktur. Otizmin, beynin yapısını ya da işleyişini etkileyen bazı sinir sistemi sorunlarından kaynaklandığı sanılmaktadır.

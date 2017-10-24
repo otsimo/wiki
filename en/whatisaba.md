@@ -4,13 +4,16 @@ title = "What is Applied Behavior Analysis (ABA)"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 95
+weight = 95.0
 keywords = ["ABA", "Autism"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatment-practices.jpg"
+web = "https://otsimo.com/en/whatisaba-en/"
 +++
+
 # What is Applied Behavior Analysis (ABA)
 
 Applied behavior analysis is a discipline that aims to change behavior that is socially important by applying it systematically. The most important element behaviorists point out is that it is necessary to observe behavior not in social environment, but in natural environment. Thus, behavior analysis focuses on the observable relation between behavior and the environment.

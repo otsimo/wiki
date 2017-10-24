@@ -4,14 +4,17 @@ title = "Otizmli Çocuklarda Ekolali (Tekrar Etme)"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-05"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizmli-cocuklarda-ekolali-tekrar-etme.jpg"
+web = "https://otsimo.com/tr/otizmli-cocuklarda-ekolali-tekrar-etme/"
 +++
+
 
 
 # Otizmli Çocuklarda Ekolali (Tekrar Etme)

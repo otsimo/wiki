@@ -4,14 +4,17 @@ title = "Etkili Pekiştireç Sistemleri Geliştirme"
 category = "Eğitim"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-09-02"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/pekistirec-sistemleri.jpg"
+web = "https://otsimo.com/tr/pekistirec-sistemleri/"
 +++
+
 
 
 # Etkili Pekiştireç Sistemleri Geliştirme

@@ -4,14 +4,17 @@ title = "Kaynaştırma Uygulamalarının Sonuçları"
 category = "Otizm"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-30"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/kaynastirma-uygulamalari.jpg"
+web = "https://otsimo.com/tr/kaynastirma-uygulamalarinin-otizmlilerde-dogurdugu-sonuclar/"
 +++
+
 
 
 # Kaynaştırma Uygulamalarının Otizmlilerde Doğurduğu Sonuçlar

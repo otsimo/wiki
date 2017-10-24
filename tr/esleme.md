@@ -4,13 +4,16 @@ title = "Eşleme ve Sınıflamanın Önemi"
 category = "Eğitim"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/24.jpg"
+web = "https://otsimo.com/tr/esleme-tr/"
 +++
+
 #  Eşleme ve Sınıflamanın Önemi
 
 Temel eşleme becerileri, eş ya da neredeyse-eş nesnelerin bir araya getirilmesini içerir. Sınıflama becerileri ise, görünüm benzerliğinin ötesinde onlara atfedilen belli özellikler çerçevesinde nesnelerin bir araya getirilmesini kapsar. Atfedilen özelliklerin bazıları, nesnelerin işlevleriyle ilişkili olabileceği gibi (örneğin, yediklerimiz, içtiklerimiz, evin içinde kullandıklarımız, giydiklerimiz) varlıkların ait oldukları sınıflarla da ilişkili olabilir (örneğin, hayvanlar, bitkiler, meyveler, sebzeler, metal nesneler, kumaş nesneler).

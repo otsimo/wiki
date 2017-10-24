@@ -4,14 +4,17 @@ title = "Otizmde Oyun Arkadaşlığı Kurma"
 category = "Oyunlar"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-11"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizmdeoyunarkadasligikurma.jpeg"
+web = "https://otsimo.com/tr/otizmdeoyunarkadasligikurma/"
 +++
+
 
 # Otizmde Oyun Arkadaşlığı Kurma
 

@@ -4,14 +4,17 @@ title = "Giyinme, Soyunma Ve Tuvalet Eğitimi Nasıl Verilir?"
 category = "Eğitim"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-12-20"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/theboy.jpg"
+web = "https://otsimo.com/tr/giyinme-soyunma-ve-tuvalet-egitimi-nasil-verilir/"
 +++
+
 
 
 # Giyinme, Soyunma Ve Tuvalet Eğitimi Nasıl Verilir?

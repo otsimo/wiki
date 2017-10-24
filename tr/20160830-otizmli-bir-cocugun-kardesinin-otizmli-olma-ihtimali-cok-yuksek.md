@@ -4,14 +4,17 @@ title = "Diğer Kardeşin Otizmli Olma İhtimali Çok Yüksek!"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-10"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizmli-bir-cocugun-kardesinin.jpg"
+web = "https://otsimo.com/tr/otizmli-bir-cocugun-kardesi/"
 +++
+
 
 
 

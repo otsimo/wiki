@@ -4,14 +4,17 @@ title = "Teaching Plan for Choosing Target Behavior"
 category = "Education"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-13"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/teaching-plan.jpeg"
+web = "https://otsimo.com/en/teaching-plan-choosing-target-behavior/"
 +++
+
 
 # Teaching Plan for Choosing Target Behavior
 

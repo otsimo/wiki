@@ -4,14 +4,17 @@ title = "4 Things Parents Needs Before Therapy"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Autism", "Therapy"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-24"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/starting-autism-therapy.jpg"
+web = "https://otsimo.com/en/starting-autism-therapy/"
 +++
+
 
 
 # 4 Things Parents Needs to Consider Before Starting Autism Therapy

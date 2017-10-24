@@ -4,14 +4,17 @@ title = "Otizm Spektrum Bozukluğunda Eğitim, Terapi ve Tedavi Yöntemleri"
 category = "Eğitim"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 75
+weight = 75.0
 keywords = ["Eğitim", "Tedavi", "Terapi"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatment-practices.jpg"
 youtube = "https://youtube.com/video.html"
+web = "https://otsimo.com/tr/egitim-tr/"
 +++
+
 # Otizm Spektrum Bozukluğunda Eğitim, Terapi ve Tedavi Yöntemleri
 
 Otizmin bilinen tek tedavisi erken, yoğun özel eğitimdir. Otizmli çocuklara haftada en az 30 saat, tercihen 35-40 saat süreyle ve otizm spektrum bozukluğu olan çocuklar için özel olarak hazırlanmış eğitim programlarıyla özel eğitim verilmesi gerekir.

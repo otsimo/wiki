@@ -4,14 +4,17 @@ title = "National Autism Awareness Month"
 category = "Autism"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["autismspeaks", "Awareness"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-11"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/autism-awareness.png"
+web = "https://otsimo.com/en/autism-awareness-month-lets-wear-blue-autism/"
 +++
+
 
 
 # National Autism Awareness Month: Let’s Wear #BlueForAutism

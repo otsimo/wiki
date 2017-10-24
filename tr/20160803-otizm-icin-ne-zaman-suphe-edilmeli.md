@@ -4,14 +4,17 @@ title = "Otizm İçin Ne Zaman Şüphe Edilmeli?"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"
-weight = 200
+weight = 200.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-03"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm_icin.jpg"
+web = "https://otsimo.com/tr/otizm-icin-ne-zaman-suphe-edilmeli/"
 +++
+
 
 # Otizm İçin Ne Zaman Şüphe Edilmeli?
 

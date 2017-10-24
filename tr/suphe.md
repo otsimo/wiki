@@ -4,14 +4,17 @@ title = "Ne zaman şüphe etmeliyiz?"
 category = "Otizm"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 80
+weight = 80.0
 keywords = ["Şüphe", "Belirtiler"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/ebpractices.jpg"
 youtube = "https://www.youtube.com/embed/c8TfbGrwZYk"
+web = "https://otsimo.com/tr/suphe-tr/"
 +++
+
 # Ne zaman şüphe etmeliyiz?
 
 Eğer çocuğunuz:

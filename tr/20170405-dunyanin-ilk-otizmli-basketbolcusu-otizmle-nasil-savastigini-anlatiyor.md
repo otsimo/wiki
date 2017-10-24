@@ -4,14 +4,17 @@ title = "Dünyanın ilk otizmli basketbolcusu!"
 category = "Video"
 language = "tr"
 author = "deniz"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-11-30"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/ilk_otizmli_basketbolcu.jpg"
+web = "https://otsimo.com/tr/dunyanin-ilk-otizmli-basketbolcusu-otizmle-nasil-savastigini-anlatiyor/"
 +++
+
 
 
 # Dünyanın ilk otizmli basketbolcusu!

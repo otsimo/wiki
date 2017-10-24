@@ -4,14 +4,17 @@ title = "Otizmde Bilimsel Dayanaklı Uygulamalar"
 category = "Otizm"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-20"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/bilimsel-dayanakli.jpg"
+web = "https://otsimo.com/tr/otizmde-bilimsel-dayanakli-uygulamalar/"
 +++
+
 
 # Otizmde Bilimsel Dayanaklı Uygulamalar
 

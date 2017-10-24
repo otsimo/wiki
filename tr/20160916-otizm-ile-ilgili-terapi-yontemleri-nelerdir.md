@@ -4,14 +4,17 @@ title = "Otizm ile ilgili Terapi Yöntemleri Nelerdir?"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-15"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/terapi-yontemleri.jpg"
+web = "https://otsimo.com/tr/otizm-ile-ilgili-terapi-yontemleri-nelerdir/"
 +++
+
 
 # Otizm ile ilgili Terapi Yöntemleri Nelerdir?
 

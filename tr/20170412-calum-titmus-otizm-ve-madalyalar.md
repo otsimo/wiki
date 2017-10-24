@@ -4,14 +4,17 @@ title = "Calum Titmus: Otizm ve Madalyalar"
 category = "Oyunlar"
 language = "tr"
 author = "deniz"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-11-04"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/Calum-Titmus.jpg"
+web = "https://otsimo.com/tr/calum-titmus-otizm-ve-madalyalar/"
 +++
+
 
 # Calum Titmus: Otizm ve Madalyalar
 

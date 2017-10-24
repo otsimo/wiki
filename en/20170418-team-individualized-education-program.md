@@ -4,14 +4,17 @@ title = "Individualized Education Program"
 category = "Education"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["Individualized", "education"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-29"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/team-individualized.png"
+web = "https://otsimo.com/en/team-individualized-education-program/"
 +++
+
 
 
 # Who Participates in the Production of Individualized Education Program?

@@ -4,14 +4,17 @@ title = "What Does The IEP Team Do in Meetings?"
 category = "Autism"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["IEP", "Team"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-09-02"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/happens-iep.jpg"
+web = "https://otsimo.com/en/happens-iep-meetings/"
 +++
+
 
 
 # What Does The IEP Team Do in Meetings?

@@ -4,14 +4,17 @@ title = "Otizm Terapisine Başlamadan Önce"
 category = "Otizm"
 language = "tr"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-18"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/starting-autism-therapy.jpg"
+web = "https://otsimo.com/tr/otizm-terapisine-baslamadan-dikkat-edilecekler-nelerdir/"
 +++
+
 
 
 # Otizm Terapisine Başlamadan Önce Dikkat Edilecekler Nelerdir?

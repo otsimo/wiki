@@ -4,14 +4,17 @@ title = "Why Applied Behavior Analysis (ABA)?"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["ABA", "Games"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-20"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/applied-behavior.jpeg"
+web = "https://otsimo.com/en/applied-behavior-analysis/"
 +++
+
 
 # Why Applied Behavior Analysis (ABA)?
 

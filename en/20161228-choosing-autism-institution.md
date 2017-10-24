@@ -4,14 +4,17 @@ title = "Choosing Institution for Autism Education"
 category = "Education"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Education", "Autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-23"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/choosing-autism.jpg"
+web = "https://otsimo.com/en/choosing-autism-institution/"
 +++
+
 
 # What to Consider While Choosing Institution for Autism Education  
 

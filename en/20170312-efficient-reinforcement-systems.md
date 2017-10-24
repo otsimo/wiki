@@ -4,14 +4,17 @@ title = "Developing Efficient Reinforcement Systems"
 category = "Education"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Reinforcement", "Behavior"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-30"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/efficient-reinforcement.jpg"
+web = "https://otsimo.com/en/efficient-reinforcement-systems/"
 +++
+
 
 # Developing Efficient Reinforcement Systems
 

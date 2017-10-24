@@ -4,14 +4,17 @@ title = "Doğru Yemek Yeme Davranışı Edindirme"
 category = "Eğitim"
 language = "tr"
 author = "Editoryal"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-10-20"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/Yemek.jpeg"
+web = "https://otsimo.com/tr/dogru-yemek-yeme/"
 +++
+
 
 
 # Doğru Yemek Yeme Davranışı Edindirme

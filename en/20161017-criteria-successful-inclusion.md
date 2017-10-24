@@ -4,14 +4,17 @@ title = "Criteria on Successful Inclusion"
 category = "Education"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Education", "Autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-03"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/criteria-successful-inclusion.jpg"
+web = "https://otsimo.com/en/criteria-successful-inclusion/"
 +++
+
 
 # Criteria on Successful Inclusion
 

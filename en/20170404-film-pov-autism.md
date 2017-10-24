@@ -4,14 +4,17 @@ title = "The Unique Point of View of a Film"
 category = "Video"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["film", "pov", "autism"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-08-16"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/film-pov-autism.jpg"
+web = "https://otsimo.com/en/film-pov-autism/"
 +++
+
 
 
 # The Unique Point of View of a Film – A List of Films About Autism

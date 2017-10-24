@@ -21,10 +21,10 @@ function langdir(lang, err, items) {
         const doc = toml.parse(tml);
         const weburl = `https://otsimo.com/${lang}/${doc.slug}/`
         doc.params['web'] = weburl;
-        const text = tomlify(doc, null, 2);
+        const text = tomlify(doc, null, 0);
         const nt = '+++\n' + text + '\n+++\n' + data.substring(end + 3);
-        //console.log(nt);
-        console.log(doc.params.thumb);
+        fs.writeFileSync(fullpath, nt, 'utf8');
+        //console.log(doc.params.thumb);
     }
 }
 

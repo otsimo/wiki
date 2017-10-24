@@ -4,14 +4,17 @@ title = "Otizm Spektrum Bozukluğunun Belirtileri Nelerdir?"
 category = "Otizm"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 85
+weight = 85.0
 keywords = ["Belirtiler", "Genel"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizm_icin.jpg"
 youtube = "https://www.youtube.com/embed/rKbAwTR7Ok4"
+web = "https://otsimo.com/tr/belirtiler-tr/"
 +++
+
 # Otizm Spektrum Bozukluğunun belirtileri nelerdir?
 
 Dış görünümleri ile diğer çocuklardan farklı olmayan otizmli çocuklar davranışlarıyla diğerlerinden ayrılır. Otizm iki temel alanda davranış sorunlarıyla kendini gösterir:

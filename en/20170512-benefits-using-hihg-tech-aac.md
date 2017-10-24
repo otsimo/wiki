@@ -4,14 +4,17 @@ title = "What Are the Benefits of Using High-Tech AAC?"
 category = "Games"
 language = "en"
 author = "Secil"
-weight = 60
+weight = 60.0
 keywords = ["High-Tech", "AAC"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-09-09"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/benefits-using.jpeg"
+web = "https://otsimo.com/en/benefits-using-hihg-tech-aac/"
 +++
+
 
 
 # What Are the Benefits of Using High-Tech AAC?

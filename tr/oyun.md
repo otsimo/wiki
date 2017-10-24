@@ -4,13 +4,16 @@ title = "Oyun Becerilerinin Önemi"
 category = "Oyunlar"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 70
+weight = 70.0
 keywords = ["Oyunlar", "Oyun Becerileri"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/oyun_otizm.jpg"
+web = "https://otsimo.com/tr/oyun-tr/"
 +++
+
 # Oyun Becerilerinin Önemi
 
 Oyun yeni becerilerin öğrenilmesini ve bu becerilerin gerçekleştirilmesini sağladığı için çocuk gelişiminde çok önemli bir yere sahiptir. Oyun içinde çocuklar hem kas becerilerini hem de bilişsel, sosyal ve dil becerilerini geliştirme fırsatı bulmaktadırlar. Bilişsel olarak gelişim çocukların manipülatif, işlevsel ve sembolik oyunlar oynamasıyla gerçekleşmektedir. İlk önce manipülatif oyunlar oynayarak farklı nesneleri tanımayı, ilişki kurmayı ve çevresiyle etkileşim sağlamayı öğrenmektedirler. İşlevsel oyunlarla, nesneleri amacına uygun kullanmayı ya da daha fazla sayıda nesneyi birbiriyle ilişkilendirerek kullanmayı öğrenmektedirler. Örneğin, kaşık kullanarak oyuncak bebeğe mama yedirme gibi. Oyun becerisinin dil gelişimine olan katkısına bakıldığında da uzun dönemli çalışmalar, erken dönemlerde oynanan oyunların çocukların daha sonraki dil gelişimi ile yakından ilişkili olduğunu göstermektedir.

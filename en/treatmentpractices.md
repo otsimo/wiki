@@ -4,13 +4,16 @@ title = "Treatment Practices for Autism"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 70
+weight = 70.0
 keywords = ["Treatment", "Practices"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/treatmentpractices.jpg"
+web = "https://otsimo.com/en/treatmentpractices-en/"
 +++
+
 # Treatment Practices for Autism
 
 **We want to write about these practices because a lot of people use that practices without any knowledge, we think that the best practice is education. But we need to explain the other concepts for creating valuable information.**

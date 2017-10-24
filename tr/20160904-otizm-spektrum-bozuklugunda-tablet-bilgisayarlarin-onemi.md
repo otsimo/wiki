@@ -4,14 +4,17 @@ title = "Otizm Spektrum Bozukluğunda Tablet Bilgisayarların Önemi"
 category = "Eğitim"
 language = "tr"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-11"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/tablet-bilgisayarlarin-onemi.jpg"
+web = "https://otsimo.com/tr/otizm-spektrum-bozuklugunda-tablet-bilgisayarlarin-onemi/"
 +++
+
 
 
 # Otizm Spektrum Bozukluğunda Tablet Bilgisayarların Önemi

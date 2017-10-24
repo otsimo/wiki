@@ -1,17 +1,20 @@
-en+++
++++
 slug = "fine-gross-motor-imitation-skills-2"
 title = "Fine and Gross Motor Imitation Skills"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Education", "Games"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-05"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/fine-gross-motor.jpeg"
+web = "https://otsimo.com/en/fine-gross-motor-imitation-skills-2/"
 +++
+
 
 # Fine and Gross Motor Imitation Skills
 

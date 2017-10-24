@@ -4,13 +4,16 @@ title = "Therapy Methods for Autism"
 category = "Autism"
 language = "en"
 author = "Otsimo"
-weight = 75
+weight = 75.0
 keywords = ["Therapy", "Methods"]
 draft = false
 written_at = "2016-09-01"
+
 [params]
 thumb = "https://storage.googleapis.com/otsimocontent/public/child-care-education-lg.jpg"
+web = "https://otsimo.com/en/therapymethods-en/"
 +++
+
 # Therapy Methods for Autism
 
 **We want to write about these therapy methods because a lot of people use that methods without any knowledge, we think that the best method is education. But we need to explain the other concepts for creating valuable information.**

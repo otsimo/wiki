@@ -4,14 +4,17 @@ title = "Otizm'de Teknoloji Kullanımına Bir Örnek de Google Glass"
 category = "Eğitim"
 language = "tr"
 author = "Otsimo"
-weight = 60
+weight = 60.0
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+
 [params]
 available_at = "2017-07-09"
 thumb = "https://s3-us-west-1.amazonaws.com/otsimo-en/imgsmall/otizmde-teknoloji-kullanimina-bir-ornek-de-google-glass.jpg"
+web = "https://otsimo.com/tr/otizmde-teknoloji-kullanimina-bir-ornek-de-google-glass/"
 +++
+
 
 # Otizm'de Teknoloji Kullanımına Bir Örnek de Google Glass
 
